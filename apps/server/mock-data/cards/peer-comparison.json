@@ -1,0 +1,1502 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "rank": {
+      "overall": 2,
+      "total": 15,
+      "percentile": 87
+    },
+    "peers": [
+      {
+        "symbol": "TCS",
+        "name": "TCS",
+        "mcap": 1450000,
+        "pe": 28.5,
+        "roe": 48,
+        "growth": 10,
+        "score": 88
+      },
+      {
+        "symbol": "INFY",
+        "name": "Infosys",
+        "mcap": 650000,
+        "pe": 24.5,
+        "roe": 32,
+        "growth": 12,
+        "score": 82
+      },
+      {
+        "symbol": "WIPRO",
+        "name": "Wipro",
+        "mcap": 280000,
+        "pe": 22.1,
+        "roe": 18,
+        "growth": 8,
+        "score": 65
+      },
+      {
+        "symbol": "HCLTECH",
+        "name": "HCL Tech",
+        "mcap": 420000,
+        "pe": 25.2,
+        "roe": 25,
+        "growth": 14,
+        "score": 78
+      },
+      {
+        "symbol": "TECHM",
+        "name": "Tech Mahindra",
+        "mcap": 150000,
+        "pe": 18.5,
+        "roe": 15,
+        "growth": 5,
+        "score": 58
+      }
+    ],
+    "companyMetrics": {
+      "pe": 28.5,
+      "pb": 12.5,
+      "roe": 48,
+      "growth": 10,
+      "margin": 26.5,
+      "debtEquity": 0.02
+    },
+    "radarData": [
+      {
+        "metric": "Valuation",
+        "company": 65,
+        "peerAvg": 72
+      },
+      {
+        "metric": "Growth",
+        "company": 78,
+        "peerAvg": 68
+      },
+      {
+        "metric": "Profitability",
+        "company": 92,
+        "peerAvg": 75
+      },
+      {
+        "metric": "Quality",
+        "company": 88,
+        "peerAvg": 70
+      },
+      {
+        "metric": "Momentum",
+        "company": 72,
+        "peerAvg": 65
+      }
+    ],
+    "strengths": [
+      "Industry-leading margins",
+      "Strong cash generation",
+      "Consistent dividend payer"
+    ],
+    "weaknesses": [
+      "Premium valuation",
+      "Slower growth than midcap peers"
+    ]
+  }
+}

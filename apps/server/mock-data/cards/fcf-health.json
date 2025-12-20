@@ -1,0 +1,842 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "healthScore": 91,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 46491,
+      "fcfYield": 3.2681413606019154,
+      "fcfMargin": 20.40247856702984,
+      "fcfGrowth": 16.834477215348443
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "healthScore": 91,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 43022,
+      "fcfYield": 2.947655747417696,
+      "fcfMargin": 17.685203589715755,
+      "fcfGrowth": 10.216881154853414
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 91,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 43626,
+      "fcfYield": 3.2218462803417927,
+      "fcfMargin": 20.87198118085864,
+      "fcfGrowth": 16.882218909441022
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "healthScore": 89,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 44711,
+      "fcfYield": 2.817137039660696,
+      "fcfMargin": 19.961229123554318,
+      "fcfGrowth": 16.735512000072376
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 88,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 43616,
+      "fcfYield": 2.549303775466841,
+      "fcfMargin": 20.205617720537262,
+      "fcfGrowth": 14.354220669285343
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "healthScore": 93,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 44266,
+      "fcfYield": 3.055214644066985,
+      "fcfMargin": 19.224466527379306,
+      "fcfGrowth": 15.17898049119785
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "healthScore": 88,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 49407,
+      "fcfYield": 3.2564368726176376,
+      "fcfMargin": 18.74326485190923,
+      "fcfGrowth": 17.33342005544239
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "healthScore": 86,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 48809,
+      "fcfYield": 2.997938004555711,
+      "fcfMargin": 20.344543116148568,
+      "fcfGrowth": 15.17908101085774
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 92,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 41385,
+      "fcfYield": 3.118036326240103,
+      "fcfMargin": 17.146410800737716,
+      "fcfGrowth": 11.045919142911501
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "healthScore": 86,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 48303,
+      "fcfYield": 3.1885512469437076,
+      "fcfMargin": 19.263281323128027,
+      "fcfGrowth": 15.888925183324218
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "healthScore": 87,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 44711,
+      "fcfYield": 3.141649313516897,
+      "fcfMargin": 18.54617348192669,
+      "fcfGrowth": 16.96794865779903
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 89,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 47190,
+      "fcfYield": 2.538466306601199,
+      "fcfMargin": 18.81358708045442,
+      "fcfGrowth": 15.03966318277476
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "healthScore": 94,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 45743,
+      "fcfYield": 3.3497481008838825,
+      "fcfMargin": 20.81888997351527,
+      "fcfGrowth": 10.32727256266961
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "healthScore": 90,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 49658,
+      "fcfYield": 2.665871425482587,
+      "fcfMargin": 18.027588182953533,
+      "fcfGrowth": 13.41400530394732
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "healthScore": 91,
+    "grade": "Excellent",
+    "currentMetrics": {
+      "fcf": 49155,
+      "fcfYield": 2.8976916160859827,
+      "fcfMargin": 18.361674235588183,
+      "fcfGrowth": 11.07491022556535
+    },
+    "historicalFCF": [
+      {
+        "period": "FY2020",
+        "fcf": 28500,
+        "ocf": 32000,
+        "capex": 3500
+      },
+      {
+        "period": "FY2021",
+        "fcf": 32500,
+        "ocf": 36500,
+        "capex": 4000
+      },
+      {
+        "period": "FY2022",
+        "fcf": 36800,
+        "ocf": 41200,
+        "capex": 4400
+      },
+      {
+        "period": "FY2023",
+        "fcf": 40200,
+        "ocf": 45000,
+        "capex": 4800
+      },
+      {
+        "period": "FY2024",
+        "fcf": 43200,
+        "ocf": 48500,
+        "capex": 5300
+      }
+    ],
+    "sustainability": {
+      "avgFcfMargin": 17.5,
+      "volatility": 8.2,
+      "consistency": 92
+    },
+    "usage": {
+      "dividends": 45,
+      "buybacks": 15,
+      "debtRepay": 10,
+      "acquisitions": 5,
+      "reinvestment": 25
+    }
+  }
+}

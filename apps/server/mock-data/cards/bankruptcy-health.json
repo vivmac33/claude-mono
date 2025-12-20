@@ -1,0 +1,797 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "altmanZScore": 6.49179696763092,
+    "zone": "Safe",
+    "probability": 1.6162866557224551,
+    "components": {
+      "workingCapitalRatio": 0.3410811391050439,
+      "retainedEarningsRatio": 0.424063823852805,
+      "ebitRatio": 0.2967067599958131,
+      "marketValueRatio": 11.487893398753629,
+      "salesRatio": 1.1553246271553397
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.902428828006609
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.5445598852357625
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.775043685929409
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.9895994888339
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.389014523783871
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "altmanZScore": 5.425383102100724,
+    "zone": "Safe",
+    "probability": 1.5388427938732727,
+    "components": {
+      "workingCapitalRatio": 0.33209414248864183,
+      "retainedEarningsRatio": 0.4103477573335237,
+      "ebitRatio": 0.25828486751159546,
+      "marketValueRatio": 14.753956169811126,
+      "salesRatio": 1.1371394734206361
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.674542745020578
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.204277566582976
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.714637181763746
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.733757105391295
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.047992468543367
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "altmanZScore": 7.675160699840138,
+    "zone": "Safe",
+    "probability": 2.234614127763725,
+    "components": {
+      "workingCapitalRatio": 0.376320299055714,
+      "retainedEarningsRatio": 0.4842184161301699,
+      "ebitRatio": 0.2500423343797596,
+      "marketValueRatio": 13.739535456529193,
+      "salesRatio": 1.2297393017503784
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.635261458282494
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.788576505749882
+      },
+      {
+        "period": "FY2022",
+        "zScore": 8.467209352578985
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.897077066761815
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.278890947506987
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "altmanZScore": 7.364168505280137,
+    "zone": "Safe",
+    "probability": 0.7468624857245403,
+    "components": {
+      "workingCapitalRatio": 0.339657806480294,
+      "retainedEarningsRatio": 0.41178906430454465,
+      "ebitRatio": 0.2558289948500294,
+      "marketValueRatio": 14.430396515809658,
+      "salesRatio": 1.0254241549063723
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.912148549638009
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.538218731984451
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.857495395376671
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.870870119305122
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.044830805650719
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "altmanZScore": 8.011296073341605,
+    "zone": "Safe",
+    "probability": 2.2689386203708812,
+    "components": {
+      "workingCapitalRatio": 0.350140458152443,
+      "retainedEarningsRatio": 0.46492790896583,
+      "ebitRatio": 0.2609642412325504,
+      "marketValueRatio": 13.233387546335015,
+      "salesRatio": 1.2302535627342899
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.834213758106162
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.7051216538351515
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.671780680750907
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.07599098051902
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.2623795250668
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "altmanZScore": 6.256412744915506,
+    "zone": "Safe",
+    "probability": 0.500917810350165,
+    "components": {
+      "workingCapitalRatio": 0.3055011316380974,
+      "retainedEarningsRatio": 0.4142829438022693,
+      "ebitRatio": 0.2515795343940601,
+      "marketValueRatio": 10.820094962552773,
+      "salesRatio": 1.1484857435719857
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.763677010677264
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.418905775077438
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.747429620435745
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.775304981537698
+      },
+      {
+        "period": "FY2024",
+        "zScore": 8.691310857342929
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "altmanZScore": 6.7377737047211435,
+    "zone": "Safe",
+    "probability": 2.466429863582648,
+    "components": {
+      "workingCapitalRatio": 0.3513392221142,
+      "retainedEarningsRatio": 0.4158315695984197,
+      "ebitRatio": 0.312517475034807,
+      "marketValueRatio": 13.764805272906468,
+      "salesRatio": 1.1119022015052162
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.901484605609943
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.591983757081797
+      },
+      {
+        "period": "FY2022",
+        "zScore": 8.294511345300508
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.933035218248591
+      },
+      {
+        "period": "FY2024",
+        "zScore": 8.714004287246238
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "altmanZScore": 7.2050639782988215,
+    "zone": "Safe",
+    "probability": 2.095281474195128,
+    "components": {
+      "workingCapitalRatio": 0.3981030312383208,
+      "retainedEarningsRatio": 0.41451324309193616,
+      "ebitRatio": 0.271371646910031,
+      "marketValueRatio": 10.168080576403378,
+      "salesRatio": 1.1890808556646013
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 7.100829027618585
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.0447095874200425
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.671766963447866
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.686909623130548
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.054060106149366
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "altmanZScore": 5.684161204429535,
+    "zone": "Safe",
+    "probability": 1.4307672541930945,
+    "components": {
+      "workingCapitalRatio": 0.3762976959217602,
+      "retainedEarningsRatio": 0.4136086414873274,
+      "ebitRatio": 0.31312482030994065,
+      "marketValueRatio": 14.089087383957684,
+      "salesRatio": 1.2614950935631863
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.858028332644127
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.429767717852461
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.5175757640340475
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.305672424019809
+      },
+      {
+        "period": "FY2024",
+        "zScore": 8.918498293085161
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "altmanZScore": 8.256222227645459,
+    "zone": "Safe",
+    "probability": 1.197173091102513,
+    "components": {
+      "workingCapitalRatio": 0.33973892838149544,
+      "retainedEarningsRatio": 0.44080846705466636,
+      "ebitRatio": 0.30019320180133197,
+      "marketValueRatio": 10.81060264910098,
+      "salesRatio": 1.184968992037479
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 7.014306928959574
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.284153025016665
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.814396572961303
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.682979787739473
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.234099539589847
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "altmanZScore": 7.644001357354971,
+    "zone": "Safe",
+    "probability": 0.8741686914523936,
+    "components": {
+      "workingCapitalRatio": 0.3933526206834832,
+      "retainedEarningsRatio": 0.4115756018431282,
+      "ebitRatio": 0.3069530322178845,
+      "marketValueRatio": 14.425804785027987,
+      "salesRatio": 1.1685055562422628
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.698390409166571
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.883966490293128
+      },
+      {
+        "period": "FY2022",
+        "zScore": 8.45209433289354
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.210720436658637
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.157923749706939
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "altmanZScore": 6.596430293690489,
+    "zone": "Safe",
+    "probability": 1.1406239566632785,
+    "components": {
+      "workingCapitalRatio": 0.32805165574462464,
+      "retainedEarningsRatio": 0.42225566128207287,
+      "ebitRatio": 0.3180615868784141,
+      "marketValueRatio": 10.280925592734334,
+      "salesRatio": 1.2512965562572302
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 7.15498357999578
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.192326456719263
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.999435295023381
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.344792853405664
+      },
+      {
+        "period": "FY2024",
+        "zScore": 8.594463378046315
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "altmanZScore": 6.950287455192497,
+    "zone": "Safe",
+    "probability": 1.5274073849337477,
+    "components": {
+      "workingCapitalRatio": 0.3717876110497533,
+      "retainedEarningsRatio": 0.47263146106478493,
+      "ebitRatio": 0.2608444898055603,
+      "marketValueRatio": 13.7531294567932,
+      "salesRatio": 1.127112015181059
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 7.174850940970498
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.199061983408416
+      },
+      {
+        "period": "FY2022",
+        "zScore": 8.24024953120898
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.686707035043643
+      },
+      {
+        "period": "FY2024",
+        "zScore": 8.503817805421557
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "altmanZScore": 6.448856807404641,
+    "zone": "Safe",
+    "probability": 1.5636145662449272,
+    "components": {
+      "workingCapitalRatio": 0.3911973147612886,
+      "retainedEarningsRatio": 0.4961936424986223,
+      "ebitRatio": 0.281860985560769,
+      "marketValueRatio": 14.469304958780958,
+      "salesRatio": 1.2411887872414755
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 6.501915354969231
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.256038611824131
+      },
+      {
+        "period": "FY2022",
+        "zScore": 8.070825198591592
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.650856907109766
+      },
+      {
+        "period": "FY2024",
+        "zScore": 9.414796098395744
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "altmanZScore": 5.742609208743146,
+    "zone": "Safe",
+    "probability": 1.2293514245465444,
+    "components": {
+      "workingCapitalRatio": 0.3457955602500352,
+      "retainedEarningsRatio": 0.4975916483298155,
+      "ebitRatio": 0.26535474530594033,
+      "marketValueRatio": 14.332257558640524,
+      "salesRatio": 1.0494632164265423
+    },
+    "historicalZ": [
+      {
+        "period": "FY2020",
+        "zScore": 7.184585374187271
+      },
+      {
+        "period": "FY2021",
+        "zScore": 7.101253940080131
+      },
+      {
+        "period": "FY2022",
+        "zScore": 7.742917573139716
+      },
+      {
+        "period": "FY2023",
+        "zScore": 8.096743381797268
+      },
+      {
+        "period": "FY2024",
+        "zScore": 8.598573476003331
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "zScore": 7.8,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "WIPRO",
+        "zScore": 5.2,
+        "zone": "Safe"
+      },
+      {
+        "symbol": "TECHM",
+        "zScore": 4.5,
+        "zone": "Grey"
+      }
+    ]
+  }
+}

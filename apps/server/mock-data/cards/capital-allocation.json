@@ -1,0 +1,692 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "roic": 50.55392554232138,
+    "wacc": 10.712844896740757,
+    "spread": 45.80867055251938,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "roic": 53.15832578298049,
+    "wacc": 12.383466780809881,
+    "spread": 41.93313281907638,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "roic": 55.58168799101313,
+    "wacc": 12.54726928996157,
+    "spread": 38.168685609772425,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "roic": 50.802614722972194,
+    "wacc": 12.555040752205645,
+    "spread": 44.09187036782875,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "roic": 53.1759367784835,
+    "wacc": 10.041756099372865,
+    "spread": 39.18983061993404,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "roic": 50.71577313275351,
+    "wacc": 11.274605758179533,
+    "spread": 36.73380381689006,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "roic": 49.266888488063614,
+    "wacc": 12.832463851759432,
+    "spread": 42.4612968100042,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "roic": 56.9741136305267,
+    "wacc": 10.584080639754482,
+    "spread": 47.39828315146969,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "roic": 48.784737350206036,
+    "wacc": 10.284700671280657,
+    "spread": 35.95774713997025,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "roic": 53.989609534137585,
+    "wacc": 12.169642022725846,
+    "spread": 44.408210214814346,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "roic": 48.85444824160935,
+    "wacc": 12.409827609992627,
+    "spread": 47.525540750580156,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "roic": 49.15149744615504,
+    "wacc": 12.975823366390674,
+    "spread": 40.39697056396805,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "roic": 58.28262565752689,
+    "wacc": 12.937676920251027,
+    "spread": 35.47705119918494,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "roic": 61.32708132898096,
+    "wacc": 10.916375510476618,
+    "spread": 44.809957813751616,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "roic": 48.01811905579025,
+    "wacc": 10.15234184432206,
+    "spread": 41.24544751468719,
+    "verdict": "Value Creator",
+    "allocation": {
+      "reinvestment": 35,
+      "dividends": 40,
+      "buybacks": 15,
+      "debtRepay": 5,
+      "ma": 5
+    },
+    "historicalROIC": [
+      {
+        "year": "FY2020",
+        "roic": 42,
+        "wacc": 11
+      },
+      {
+        "year": "FY2021",
+        "roic": 45,
+        "wacc": 10.5
+      },
+      {
+        "year": "FY2022",
+        "roic": 48,
+        "wacc": 10.2
+      },
+      {
+        "year": "FY2023",
+        "roic": 50,
+        "wacc": 10
+      },
+      {
+        "year": "FY2024",
+        "roic": 52,
+        "wacc": 9.8
+      }
+    ],
+    "reinvestmentEfficiency": {
+      "incrementalROIC": 55,
+      "capitalEfficiency": 1.25
+    }
+  }
+}

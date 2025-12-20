@@ -1,0 +1,19 @@
+{
+  "title": "Technical Indicators \u00b7 Sample Index",
+  "symbol": "IDX1",
+  "timeframe": "1D",
+  "indicators": {
+    "rsi": 62.3,
+    "macd": {
+      "line": 1.2,
+      "signal": 0.8,
+      "histogram": 0.4
+    },
+    "bollinger": {
+      "upper": 245,
+      "middle": 239,
+      "lower": 233
+    }
+  },
+  "meta": "Simplified indicator snapshot; real implementation would plot these on price chart."
+}

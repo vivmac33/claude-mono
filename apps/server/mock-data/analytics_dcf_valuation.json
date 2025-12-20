@@ -1,0 +1,16 @@
+{
+  "title": "DCF Valuation \u00b7 Sample Bank",
+  "symbol": "BANKX",
+  "intrinsic_range": {
+    "low": 145,
+    "base": 160,
+    "high": 178
+  },
+  "current_price": 152,
+  "assumptions": {
+    "growth_5y_pct": 14,
+    "terminal_growth_pct": 4,
+    "wacc_pct": 11
+  },
+  "meta": "Toy DCF band for demo; not investment advice."
+}

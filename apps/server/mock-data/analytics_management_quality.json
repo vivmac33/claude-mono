@@ -1,0 +1,30 @@
+{
+  "title": "Management Quality \u00b7 Sample Group",
+  "pillars": [
+    {
+      "name": "Capital Allocation",
+      "score": 4
+    },
+    {
+      "name": "Disclosure Quality",
+      "score": 5
+    },
+    {
+      "name": "Skin in the Game",
+      "score": 3
+    }
+  ],
+  "insider_trades": [
+    {
+      "symbol": "AAA",
+      "type": "Buy",
+      "value": 12
+    },
+    {
+      "symbol": "BBB",
+      "type": "Sell",
+      "value": 3
+    }
+  ],
+  "meta": "Subjective management scoring for illustration only."
+}

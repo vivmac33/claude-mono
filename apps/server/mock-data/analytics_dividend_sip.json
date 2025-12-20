@@ -1,0 +1,20 @@
+{
+  "title": "Dividend & SIP Tracker \u00b7 Sample Basket",
+  "cash_yield_pct": 1.8,
+  "sip_xirr_pct": 12.4,
+  "streams": [
+    {
+      "symbol": "AAA",
+      "yield_pct": 2.9
+    },
+    {
+      "symbol": "BBB",
+      "yield_pct": 0.4
+    },
+    {
+      "symbol": "CCC",
+      "yield_pct": 1.1
+    }
+  ],
+  "meta": "Combined cash-yield and SIP-style XIRR illustration."
+}

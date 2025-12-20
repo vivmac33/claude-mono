@@ -1,0 +1,68 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "currentPattern": [
+      {
+        "t": "2024-12-01",
+        "v": 100
+      },
+      {
+        "t": "2024-12-05",
+        "v": 102
+      },
+      {
+        "t": "2024-12-10",
+        "v": 98
+      },
+      {
+        "t": "2024-12-15",
+        "v": 105
+      },
+      {
+        "t": "2024-12-20",
+        "v": 108
+      }
+    ],
+    "matches": [
+      {
+        "symbol": "TCS",
+        "period": "2022-Q4",
+        "similarity": 85,
+        "outcome": 12.5,
+        "alignedPattern": [
+          {
+            "t": "2022-10-01",
+            "v": 100
+          },
+          {
+            "t": "2022-11-01",
+            "v": 108
+          }
+        ]
+      },
+      {
+        "symbol": "INFY",
+        "period": "2023-Q2",
+        "similarity": 78,
+        "outcome": 8.2,
+        "alignedPattern": [
+          {
+            "t": "2023-04-01",
+            "v": 100
+          },
+          {
+            "t": "2023-05-01",
+            "v": 105
+          }
+        ]
+      }
+    ],
+    "expectedOutcome": {
+      "avgReturn": 10.3,
+      "winRate": 72,
+      "avgDuration": 45
+    },
+    "confidenceLevel": "High"
+  }
+}

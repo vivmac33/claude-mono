@@ -1,0 +1,1082 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.22034708137578,
+      "promoterPledge": 0.3168305911949094,
+      "fii": 15.074975105442537,
+      "dii": 8.917710107673553,
+      "public": 7.267955338740163
+    },
+    "changes": {
+      "promoter": -0.09972439786584082,
+      "fii": 0.46658522049788465,
+      "dii": 0.2680907903125753,
+      "public": -0.19398249193155884
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 72.55374268228093,
+      "promoterPledge": 0.9158216271375546,
+      "fii": 15.270703284808821,
+      "dii": 9.07460653543625,
+      "public": 8.855742191663012
+    },
+    "changes": {
+      "promoter": -0.02468489963682216,
+      "fii": 0.30113456497642993,
+      "dii": 0.21655373479543424,
+      "public": 0.07560529093995905
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 72.78759490294848,
+      "promoterPledge": 1.0404544625582792,
+      "fii": 14.917297755616834,
+      "dii": 7.8459134204000796,
+      "public": 7.744602874465334
+    },
+    "changes": {
+      "promoter": -0.09032830005426029,
+      "fii": 0.5424615278860567,
+      "dii": 0.22717628977432938,
+      "public": -0.0749821188914421
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.38228308235843,
+      "promoterPledge": 0.5395568955812187,
+      "fii": 13.576156018343353,
+      "dii": 8.863828624292054,
+      "public": 7.065469883246359
+    },
+    "changes": {
+      "promoter": 0.016154961508171792,
+      "fii": 0.343225981183474,
+      "dii": 0.2047825106510245,
+      "public": 0.03612220279659781
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 74.21748421832272,
+      "promoterPledge": 0.9910514977215339,
+      "fii": 13.08954270378241,
+      "dii": 9.223534261699234,
+      "public": 8.51679923489709
+    },
+    "changes": {
+      "promoter": 0.0779253956876913,
+      "fii": 0.41042334571484373,
+      "dii": 0.2443460015428337,
+      "public": -0.18902125481327944
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.67189128811361,
+      "promoterPledge": 0.31584967548368326,
+      "fii": 14.845218576273243,
+      "dii": 7.562570986434835,
+      "public": 8.0531516258884
+    },
+    "changes": {
+      "promoter": 0.03789659126716227,
+      "fii": 0.39887833763239444,
+      "dii": 0.26119721546877345,
+      "public": 0.07725762541513614
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.71175880139899,
+      "promoterPledge": 1.986823952244924,
+      "fii": 15.321230370001533,
+      "dii": 7.8905906767861085,
+      "public": 8.593099173159239
+    },
+    "changes": {
+      "promoter": 0.007429562843284554,
+      "fii": 0.4970486753536475,
+      "dii": 0.26717336498180233,
+      "public": -0.026988176591572294
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 72.65376654105596,
+      "promoterPledge": 0.2746113259749614,
+      "fii": 14.90053144767484,
+      "dii": 8.322261549722803,
+      "public": 7.174144474179624
+    },
+    "changes": {
+      "promoter": 0.07259081933850747,
+      "fii": 0.3030100724293221,
+      "dii": 0.15428265561226537,
+      "public": -0.05381641795534223
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 72.48579654214113,
+      "promoterPledge": 1.2755979971865656,
+      "fii": 13.974395002707391,
+      "dii": 7.607840535867574,
+      "public": 7.24305707398204
+    },
+    "changes": {
+      "promoter": -0.07212094799664266,
+      "fii": 0.38610677936282123,
+      "dii": 0.2854308837956123,
+      "public": -0.1718476143273574
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.50468912966038,
+      "promoterPledge": 1.921558491665032,
+      "fii": 13.698501347135759,
+      "dii": 8.911691064820666,
+      "public": 7.48944394435572
+    },
+    "changes": {
+      "promoter": 0.040047174071785985,
+      "fii": 0.3957887024931172,
+      "dii": 0.23224907287350663,
+      "public": -0.1086453252485185
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 72.42147686932854,
+      "promoterPledge": 0.1735497306179914,
+      "fii": 15.277856299451189,
+      "dii": 8.079454092765449,
+      "public": 8.226813097729867
+    },
+    "changes": {
+      "promoter": 0.03145073646522625,
+      "fii": 0.411702987962419,
+      "dii": 0.16908118047881399,
+      "public": 0.06836244977091865
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 72.75549643703914,
+      "promoterPledge": 0.14098711058131785,
+      "fii": 13.558426271957588,
+      "dii": 8.717289126001106,
+      "public": 8.23210767820565
+    },
+    "changes": {
+      "promoter": 0.01997698843173508,
+      "fii": 0.49532153478850105,
+      "dii": 0.22926812785647585,
+      "public": -0.01823991787226717
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.18747747238199,
+      "promoterPledge": 1.4298761761915553,
+      "fii": 14.42614367488577,
+      "dii": 7.625754086927959,
+      "public": 8.945187942423207
+    },
+    "changes": {
+      "promoter": -0.051059845995178724,
+      "fii": 0.5730797008803094,
+      "dii": 0.29327748781241736,
+      "public": 0.0216610035664144
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.14075334842174,
+      "promoterPledge": 0.6669880188016717,
+      "fii": 13.587528604378196,
+      "dii": 8.279761795602335,
+      "public": 7.998514218381482
+    },
+    "changes": {
+      "promoter": -0.022622525780959274,
+      "fii": 0.5553737043783247,
+      "dii": 0.2626967445232278,
+      "public": 0.06530196312753661
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "current": {
+      "promoter": 73.37569855039771,
+      "promoterPledge": 1.106538033547058,
+      "fii": 14.402887029466397,
+      "dii": 9.094894635734184,
+      "public": 8.815450508103742
+    },
+    "changes": {
+      "promoter": 0.05491895396805063,
+      "fii": 0.6664784797705459,
+      "dii": 0.13170921842917963,
+      "public": -0.07220401702466894
+    },
+    "historical": [
+      {
+        "quarter": "Q2FY25",
+        "promoter": 72.3,
+        "fii": 13.5,
+        "dii": 7.8
+      },
+      {
+        "quarter": "Q1FY25",
+        "promoter": 72.3,
+        "fii": 13.2,
+        "dii": 7.6
+      },
+      {
+        "quarter": "Q4FY24",
+        "promoter": 72.3,
+        "fii": 12.8,
+        "dii": 7.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "promoter": 72.3,
+        "fii": 12.5,
+        "dii": 7.3
+      }
+    ],
+    "topHolders": [
+      {
+        "name": "Tata Sons",
+        "holding": 72.3,
+        "change": 0
+      },
+      {
+        "name": "LIC",
+        "holding": 3.2,
+        "change": 0.1
+      },
+      {
+        "name": "SBI MF",
+        "holding": 2.1,
+        "change": 0.2
+      }
+    ],
+    "signals": [
+      {
+        "signal": "FII Accumulation",
+        "type": "bullish",
+        "description": "FIIs increasing stake for 3 consecutive quarters"
+      },
+      {
+        "signal": "Zero Pledging",
+        "type": "bullish",
+        "description": "No promoter shares pledged"
+      }
+    ]
+  }
+}

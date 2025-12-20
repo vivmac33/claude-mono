@@ -1,0 +1,21 @@
+{
+  "title": "Institutional Flows \u00b7 Sample",
+  "series": [
+    {
+      "date": "2025-11-18",
+      "net_flow_a": 215,
+      "net_flow_b": -82
+    },
+    {
+      "date": "2025-11-19",
+      "net_flow_a": -54,
+      "net_flow_b": 126
+    },
+    {
+      "date": "2025-11-20",
+      "net_flow_a": 109,
+      "net_flow_b": -26
+    }
+  ],
+  "meta": "Daily net flows in generic units for two institution types."
+}

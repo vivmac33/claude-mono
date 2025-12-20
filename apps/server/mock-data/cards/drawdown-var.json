@@ -1,0 +1,752 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -5.798590555117319,
+    "maxDrawdown": -16.981346382121952,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 109,
+    "var95_1d": -2.1063166642273745,
+    "var99_1d": -4.322041653667103,
+    "cvar95": -3.0585010981872847,
+    "volatility30d": 21.9927158478607,
+    "volatility90d": 23.135755976280834,
+    "beta": 0.869473175688498,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -3.1147302045444416,
+    "maxDrawdown": -15.152640745745021,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 96,
+    "var95_1d": -2.036163032427468,
+    "var99_1d": -3.876576648682858,
+    "cvar95": -3.9593188300267985,
+    "volatility30d": 22.177846373089373,
+    "volatility90d": 24.53915763421983,
+    "beta": 0.8226788272059077,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -5.236362474132084,
+    "maxDrawdown": -21.6629794316192,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 100,
+    "var95_1d": -2.1694807052931937,
+    "var99_1d": -3.7710974052036352,
+    "cvar95": -3.3123706737278873,
+    "volatility30d": 18.18781797802845,
+    "volatility90d": 25.869840451060774,
+    "beta": 0.7588911876837893,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -6.821101521832095,
+    "maxDrawdown": -20.560630994110628,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 87,
+    "var95_1d": -2.145974624985383,
+    "var99_1d": -3.7732081578712866,
+    "cvar95": -3.624156951625765,
+    "volatility30d": 17.966538924109585,
+    "volatility90d": 20.58962495617796,
+    "beta": 0.8008994722044426,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -3.4917506980219097,
+    "maxDrawdown": -18.467818890736034,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 91,
+    "var95_1d": -2.2839838631758043,
+    "var99_1d": -4.470081679011362,
+    "cvar95": -3.419843895184078,
+    "volatility30d": 19.57283211303433,
+    "volatility90d": 20.93138946924286,
+    "beta": 0.8458597456575139,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -3.5752555807140056,
+    "maxDrawdown": -24.474116561306015,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 85,
+    "var95_1d": -2.8749446872760096,
+    "var99_1d": -3.5473101130944826,
+    "cvar95": -3.391073074187882,
+    "volatility30d": 22.234477577749065,
+    "volatility90d": 23.62827798548198,
+    "beta": 0.9012693321956794,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -3.7495525155644898,
+    "maxDrawdown": -24.31347097006943,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 89,
+    "var95_1d": -2.9221061831193174,
+    "var99_1d": -4.385348946432843,
+    "cvar95": -3.8231044840647623,
+    "volatility30d": 19.539942388771024,
+    "volatility90d": 18.218055028637743,
+    "beta": 0.8798229643456632,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -5.439754112494531,
+    "maxDrawdown": -16.083621795810668,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 82,
+    "var95_1d": -2.5525345226965275,
+    "var99_1d": -3.586366956041833,
+    "cvar95": -3.8735666595396134,
+    "volatility30d": 22.044692191532654,
+    "volatility90d": 24.628648679033308,
+    "beta": 0.7670495092130385,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -2.160275676173407,
+    "maxDrawdown": -21.85042924020874,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 107,
+    "var95_1d": -2.431279796278657,
+    "var99_1d": -4.0506588246534845,
+    "cvar95": -3.4514927347387783,
+    "volatility30d": 18.438557212854654,
+    "volatility90d": 22.027891745701588,
+    "beta": 0.8861177731197428,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -3.7876205884316465,
+    "maxDrawdown": -19.177723258763756,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 81,
+    "var95_1d": -2.382446052651944,
+    "var99_1d": -4.497259088763869,
+    "cvar95": -3.4696205736015706,
+    "volatility30d": 18.76258372914189,
+    "volatility90d": 22.00727796702307,
+    "beta": 0.9876143098447199,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -5.395312777703998,
+    "maxDrawdown": -17.48370905553253,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 98,
+    "var95_1d": -2.548782489930259,
+    "var99_1d": -3.9337542652810304,
+    "cvar95": -3.6306156227509625,
+    "volatility30d": 18.828152377083597,
+    "volatility90d": 25.238614307060313,
+    "beta": 1.0624328842094124,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -3.1330677436934486,
+    "maxDrawdown": -16.278867708953836,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 83,
+    "var95_1d": -2.250154315626774,
+    "var99_1d": -4.494664386074326,
+    "cvar95": -3.4126570034058226,
+    "volatility30d": 17.052411879130936,
+    "volatility90d": 24.215218480410712,
+    "beta": 0.7595889869007993,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -2.2890806972336843,
+    "maxDrawdown": -17.829041930426268,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 96,
+    "var95_1d": -2.925632144131637,
+    "var99_1d": -3.6248242119576997,
+    "cvar95": -3.8524587346337675,
+    "volatility30d": 19.371656709033736,
+    "volatility90d": 19.58955706288809,
+    "beta": 1.0836454057491673,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -2.508533039508252,
+    "maxDrawdown": -16.88784170080307,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 92,
+    "var95_1d": -2.864639940102337,
+    "var99_1d": -3.64348644770656,
+    "cvar95": -3.444647614012167,
+    "volatility30d": 22.460925801892238,
+    "volatility90d": 19.817410131043097,
+    "beta": 1.033518743867178,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "currentDrawdown": -5.557416408950629,
+    "maxDrawdown": -16.729321848052596,
+    "maxDrawdownDate": "2022-06-15",
+    "recoveryDays": 107,
+    "var95_1d": -2.431497414725392,
+    "var99_1d": -3.6504904779231984,
+    "cvar95": -3.2293830450087917,
+    "volatility30d": 18.95981539239548,
+    "volatility90d": 21.34342687931248,
+    "beta": 0.937915828090444,
+    "drawdownHistory": [
+      {
+        "date": "2024-12-01",
+        "drawdown": -1.5
+      },
+      {
+        "date": "2024-12-05",
+        "drawdown": -2.8
+      },
+      {
+        "date": "2024-12-10",
+        "drawdown": -4.2
+      },
+      {
+        "date": "2024-12-15",
+        "drawdown": -3.8
+      },
+      {
+        "date": "2024-12-20",
+        "drawdown": -3.2
+      }
+    ],
+    "stressScenarios": [
+      {
+        "scenario": "2008 Financial Crisis",
+        "impact": -45
+      },
+      {
+        "scenario": "COVID-19 Crash",
+        "impact": -35
+      },
+      {
+        "scenario": "2022 Tech Selloff",
+        "impact": -22
+      }
+    ]
+  }
+}

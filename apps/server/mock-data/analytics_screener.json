@@ -1,0 +1,38 @@
+{
+  "title": "Advanced Screener \u00b7 Quality at Reasonable Price",
+  "filters": {
+    "pe": {
+      "min": 10,
+      "max": 30
+    },
+    "roe": {
+      "min": 15
+    },
+    "de_ratio": {
+      "max": 1
+    },
+    "market_cap": {
+      "min": 5000
+    }
+  },
+  "presets": [
+    "Magic Formula",
+    "High ROE, low debt",
+    "Growth at reasonable price"
+  ],
+  "results_sample": [
+    {
+      "symbol": "AAA",
+      "sector": "Tech",
+      "pe": 28,
+      "roe": 35
+    },
+    {
+      "symbol": "BBB",
+      "sector": "Insurance",
+      "pe": 24,
+      "roe": 18
+    }
+  ],
+  "meta": "Placeholder to demonstrate screener configuration, not live data."
+}

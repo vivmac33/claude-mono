@@ -1,0 +1,827 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 70,
+      "dio": 0,
+      "dpo": 43,
+      "ccc": 30
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 48222,
+      "inventoryAmount": 0,
+      "payablesAmount": 18896
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 73,
+      "dio": 0,
+      "dpo": 46,
+      "ccc": 29
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 52106,
+      "inventoryAmount": 0,
+      "payablesAmount": 22065
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 72,
+      "dio": 0,
+      "dpo": 42,
+      "ccc": 33
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 46995,
+      "inventoryAmount": 0,
+      "payablesAmount": 20577
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 78,
+      "dio": 0,
+      "dpo": 43,
+      "ccc": 29
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 53077,
+      "inventoryAmount": 0,
+      "payablesAmount": 20961
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 77,
+      "dio": 0,
+      "dpo": 48,
+      "ccc": 28
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 50391,
+      "inventoryAmount": 0,
+      "payablesAmount": 20874
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 71,
+      "dio": 0,
+      "dpo": 50,
+      "ccc": 35
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 53231,
+      "inventoryAmount": 0,
+      "payablesAmount": 20248
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 75,
+      "dio": 0,
+      "dpo": 51,
+      "ccc": 34
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 51406,
+      "inventoryAmount": 0,
+      "payablesAmount": 21783
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 80,
+      "dio": 0,
+      "dpo": 51,
+      "ccc": 29
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 52096,
+      "inventoryAmount": 0,
+      "payablesAmount": 20449
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 75,
+      "dio": 0,
+      "dpo": 50,
+      "ccc": 33
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 45305,
+      "inventoryAmount": 0,
+      "payablesAmount": 18583
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 84,
+      "dio": 0,
+      "dpo": 50,
+      "ccc": 29
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 52726,
+      "inventoryAmount": 0,
+      "payablesAmount": 18818
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 78,
+      "dio": 0,
+      "dpo": 42,
+      "ccc": 35
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 46328,
+      "inventoryAmount": 0,
+      "payablesAmount": 18563
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 83,
+      "dio": 0,
+      "dpo": 47,
+      "ccc": 36
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 45134,
+      "inventoryAmount": 0,
+      "payablesAmount": 21511
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 82,
+      "dio": 0,
+      "dpo": 46,
+      "ccc": 35
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 48053,
+      "inventoryAmount": 0,
+      "payablesAmount": 22046
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 84,
+      "dio": 0,
+      "dpo": 50,
+      "ccc": 33
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 47355,
+      "inventoryAmount": 0,
+      "payablesAmount": 19105
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "efficiency": "Excellent",
+    "current": {
+      "dso": 81,
+      "dio": 0,
+      "dpo": 51,
+      "ccc": 29
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "dso": 75,
+        "dio": 0,
+        "dpo": 45,
+        "ccc": 30
+      },
+      {
+        "period": "Q2FY24",
+        "dso": 73,
+        "dio": 0,
+        "dpo": 44,
+        "ccc": 29
+      },
+      {
+        "period": "Q3FY24",
+        "dso": 71,
+        "dio": 0,
+        "dpo": 43,
+        "ccc": 28
+      },
+      {
+        "period": "Q4FY24",
+        "dso": 70,
+        "dio": 0,
+        "dpo": 42,
+        "ccc": 28
+      }
+    ],
+    "peerComparison": {
+      "company": 28,
+      "sectorAvg": 35,
+      "sectorBest": 22
+    },
+    "trend": {
+      "direction": "Improving",
+      "changeYoY": -4
+    },
+    "breakdown": {
+      "receivablesAmount": 48983,
+      "inventoryAmount": 0,
+      "payablesAmount": 18694
+    }
+  }
+}

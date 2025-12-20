@@ -1,0 +1,1187 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "overallScore": 82,
+    "verdict": "Expensive",
+    "percentileRank": 58,
+    "multiples": {
+      "pe": 32.86449740090064,
+      "peMedian": 23.71352722233522,
+      "pb": 15.589349993360457,
+      "pbMedian": 9.993678680787063,
+      "ps": 9.120702072334616,
+      "psMedian": 6.791632329142121,
+      "evEbitda": 26.69342551711921,
+      "evEbitdaMedian": 19.783121814850652,
+      "pegRatio": 2.7889301395429076
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "overallScore": 73,
+    "verdict": "Expensive",
+    "percentileRank": 73,
+    "multiples": {
+      "pe": 29.60184257981139,
+      "peMedian": 23.716930313779763,
+      "pb": 10.655512021870802,
+      "pbMedian": 6.887316396002238,
+      "ps": 8.758585854088835,
+      "psMedian": 5.050674782695255,
+      "evEbitda": 20.3984582943032,
+      "evEbitdaMedian": 15.629913921046633,
+      "pegRatio": 2.9339271471252726
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 79,
+    "verdict": "Fair",
+    "percentileRank": 63,
+    "multiples": {
+      "pe": 33.267512327715885,
+      "peMedian": 23.311363162837615,
+      "pb": 11.791913858512437,
+      "pbMedian": 9.994313566036261,
+      "ps": 8.641777179439524,
+      "psMedian": 6.233519785924075,
+      "evEbitda": 23.897323573495537,
+      "evEbitdaMedian": 15.706099185093564,
+      "pegRatio": 2.4368339343193637
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "overallScore": 89,
+    "verdict": "Fair",
+    "percentileRank": 87,
+    "multiples": {
+      "pe": 39.84371074908728,
+      "peMedian": 28.331362507026377,
+      "pb": 13.713975433599682,
+      "pbMedian": 8.981504802727642,
+      "ps": 8.930272909808577,
+      "psMedian": 5.415786883646231,
+      "evEbitda": 27.777305478462345,
+      "evEbitdaMedian": 18.492176833716904,
+      "pegRatio": 2.0055871407807793
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 60,
+    "verdict": "Fair",
+    "percentileRank": 59,
+    "multiples": {
+      "pe": 28.25453853838543,
+      "peMedian": 23.324910308070017,
+      "pb": 10.87961030674589,
+      "pbMedian": 6.433551039540166,
+      "ps": 7.171064710003057,
+      "psMedian": 5.414850251989323,
+      "evEbitda": 23.500236281025554,
+      "evEbitdaMedian": 16.124439852910307,
+      "pegRatio": 1.6029644068189175
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "overallScore": 77,
+    "verdict": "Fair",
+    "percentileRank": 79,
+    "multiples": {
+      "pe": 28.565278227194213,
+      "peMedian": 27.86943135591413,
+      "pb": 11.783637861887776,
+      "pbMedian": 7.2000029348807395,
+      "ps": 5.299350755639485,
+      "psMedian": 6.9129103651110135,
+      "evEbitda": 18.98601452539377,
+      "evEbitdaMedian": 19.939057016068407,
+      "pegRatio": 1.7443856984848147
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "overallScore": 66,
+    "verdict": "Expensive",
+    "percentileRank": 58,
+    "multiples": {
+      "pe": 37.36335228555079,
+      "peMedian": 28.325328045370583,
+      "pb": 10.150579801656537,
+      "pbMedian": 8.364392805691171,
+      "ps": 9.06970859474027,
+      "psMedian": 6.86745513752749,
+      "evEbitda": 18.69728041634102,
+      "evEbitdaMedian": 17.76175086406428,
+      "pegRatio": 2.8048608415358216
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "overallScore": 82,
+    "verdict": "Fair",
+    "percentileRank": 63,
+    "multiples": {
+      "pe": 25.568198538061736,
+      "peMedian": 23.324818100678794,
+      "pb": 14.847712490575969,
+      "pbMedian": 6.994017986297651,
+      "ps": 6.725073300614044,
+      "psMedian": 6.80690188374102,
+      "evEbitda": 25.463086884692533,
+      "evEbitdaMedian": 16.285040187761567,
+      "pegRatio": 1.778275725414397
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 87,
+    "verdict": "Expensive",
+    "percentileRank": 59,
+    "multiples": {
+      "pe": 30.34663717565307,
+      "peMedian": 29.418417505241123,
+      "pb": 11.926423832678092,
+      "pbMedian": 6.841952631513201,
+      "ps": 8.35514360005061,
+      "psMedian": 6.39299368406841,
+      "evEbitda": 22.935120463738556,
+      "evEbitdaMedian": 15.126286064343198,
+      "pegRatio": 2.924905037580059
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "overallScore": 76,
+    "verdict": "Fair",
+    "percentileRank": 79,
+    "multiples": {
+      "pe": 25.04222387569535,
+      "peMedian": 27.971616766514355,
+      "pb": 13.504914341597864,
+      "pbMedian": 8.474275859812693,
+      "ps": 6.004003950124076,
+      "psMedian": 5.754076798317796,
+      "evEbitda": 25.526350498176964,
+      "evEbitdaMedian": 20.026939997843257,
+      "pegRatio": 2.6993518805156973
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "overallScore": 85,
+    "verdict": "Expensive",
+    "percentileRank": 89,
+    "multiples": {
+      "pe": 36.92493182313514,
+      "peMedian": 27.26628934390884,
+      "pb": 8.936522003123974,
+      "pbMedian": 6.007206300308271,
+      "ps": 6.355408637068645,
+      "psMedian": 4.6623770948750245,
+      "evEbitda": 27.688164546364934,
+      "evEbitdaMedian": 18.518798116514077,
+      "pegRatio": 2.9450686447274377
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 62,
+    "verdict": "Fair",
+    "percentileRank": 64,
+    "multiples": {
+      "pe": 38.08020231596693,
+      "peMedian": 27.197425989497276,
+      "pb": 15.935666578324428,
+      "pbMedian": 8.852139914706283,
+      "ps": 9.700810750581333,
+      "psMedian": 4.327066552561999,
+      "evEbitda": 21.96243638458795,
+      "evEbitdaMedian": 20.52234905871736,
+      "pegRatio": 2.135736981338106
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "overallScore": 74,
+    "verdict": "Expensive",
+    "percentileRank": 54,
+    "multiples": {
+      "pe": 28.958055806816915,
+      "peMedian": 27.902322654810597,
+      "pb": 10.825647015955692,
+      "pbMedian": 8.802190463779123,
+      "ps": 6.371917536027284,
+      "psMedian": 4.667983698309871,
+      "evEbitda": 20.66565469559631,
+      "evEbitdaMedian": 16.35063834287612,
+      "pegRatio": 2.7448653573499806
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "overallScore": 72,
+    "verdict": "Expensive",
+    "percentileRank": 68,
+    "multiples": {
+      "pe": 26.53027738711133,
+      "peMedian": 24.827130518949083,
+      "pb": 10.420023013296264,
+      "pbMedian": 6.555565931902536,
+      "ps": 9.756729373383457,
+      "psMedian": 5.411988732129676,
+      "evEbitda": 22.984456246827335,
+      "evEbitdaMedian": 15.37962562544971,
+      "pegRatio": 2.1454841505070243
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "overallScore": 63,
+    "verdict": "Fair",
+    "percentileRank": 71,
+    "multiples": {
+      "pe": 38.09329029095112,
+      "peMedian": 22.841780951493597,
+      "pb": 10.202654376261085,
+      "pbMedian": 6.074200794423673,
+      "ps": 6.1503025706638725,
+      "psMedian": 6.128327326524763,
+      "evEbitda": 19.860007796908803,
+      "evEbitdaMedian": 20.493188695207593,
+      "pegRatio": 2.763821853068193
+    },
+    "radarData": [
+      {
+        "metric": "PE",
+        "value": 70,
+        "benchmark": 60
+      },
+      {
+        "metric": "PB",
+        "value": 65,
+        "benchmark": 55
+      },
+      {
+        "metric": "PS",
+        "value": 60,
+        "benchmark": 50
+      },
+      {
+        "metric": "EV/EBITDA",
+        "value": 55,
+        "benchmark": 50
+      }
+    ],
+    "historicalPE": [
+      {
+        "year": "2020",
+        "pe": 22
+      },
+      {
+        "year": "2021",
+        "pe": 28
+      },
+      {
+        "year": "2022",
+        "pe": 26
+      },
+      {
+        "year": "2023",
+        "pe": 30
+      },
+      {
+        "year": "2024",
+        "pe": 28
+      }
+    ],
+    "peerComparison": [
+      {
+        "symbol": "INFY",
+        "pe": 24.5,
+        "pb": 7.2
+      },
+      {
+        "symbol": "WIPRO",
+        "pe": 20.1,
+        "pb": 4.5
+      },
+      {
+        "symbol": "HCLTECH",
+        "pe": 22.8,
+        "pb": 5.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,1127 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 4429,
+    "currentPrice": 3720,
+    "marginOfSafety": 3,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 11.452862678666515,
+      "terminalGrowth": 4.812385891662134,
+      "wacc": 11.324681063014763,
+      "taxRate": 28.566927389097096
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3893,
+    "currentPrice": 3720,
+    "marginOfSafety": 6,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 13.801371946974339,
+      "terminalGrowth": 3.1878297206806208,
+      "wacc": 12.64811632152829,
+      "taxRate": 29.28716621323104
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3731,
+    "currentPrice": 3720,
+    "marginOfSafety": 9,
+    "verdict": "Buy",
+    "assumptions": {
+      "revenueGrowth": 10.55525267153621,
+      "terminalGrowth": 4.9195968896805695,
+      "wacc": 10.535132094088077,
+      "taxRate": 25.13799242456713
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 4326,
+    "currentPrice": 3720,
+    "marginOfSafety": 4,
+    "verdict": "Buy",
+    "assumptions": {
+      "revenueGrowth": 16.551050769891493,
+      "terminalGrowth": 4.568107168887506,
+      "wacc": 12.852612226934653,
+      "taxRate": 27.728678398841254
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 4004,
+    "currentPrice": 3720,
+    "marginOfSafety": 7,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 12.37162808611322,
+      "terminalGrowth": 3.6723779444951075,
+      "wacc": 11.688575942845524,
+      "taxRate": 26.240839347014628
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3840,
+    "currentPrice": 3720,
+    "marginOfSafety": 5,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 17.475533052510112,
+      "terminalGrowth": 3.254354269154834,
+      "wacc": 12.514898216080326,
+      "taxRate": 28.439544006385724
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 4342,
+    "currentPrice": 3720,
+    "marginOfSafety": 2,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 10.381280438868863,
+      "terminalGrowth": 3.711835321433134,
+      "wacc": 10.891553082356731,
+      "taxRate": 27.00050022778506
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3797,
+    "currentPrice": 3720,
+    "marginOfSafety": -4,
+    "verdict": "Buy",
+    "assumptions": {
+      "revenueGrowth": 16.53718552215205,
+      "terminalGrowth": 4.406026237802913,
+      "wacc": 10.724811329137424,
+      "taxRate": 28.309065791088596
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3931,
+    "currentPrice": 3720,
+    "marginOfSafety": 13,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 14.348067807924986,
+      "terminalGrowth": 4.769605757642428,
+      "wacc": 12.348345744104329,
+      "taxRate": 28.16074344142628
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 4158,
+    "currentPrice": 3720,
+    "marginOfSafety": 0,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 15.38534205779092,
+      "terminalGrowth": 4.932638840084942,
+      "wacc": 12.405569763546834,
+      "taxRate": 25.124995252704416
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3891,
+    "currentPrice": 3720,
+    "marginOfSafety": 6,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 10.567827373778757,
+      "terminalGrowth": 3.1827208269187217,
+      "wacc": 12.14155603754495,
+      "taxRate": 25.05385540939319
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3928,
+    "currentPrice": 3720,
+    "marginOfSafety": 12,
+    "verdict": "Buy",
+    "assumptions": {
+      "revenueGrowth": 14.721659964573048,
+      "terminalGrowth": 4.4875996230935105,
+      "wacc": 10.762334015848488,
+      "taxRate": 25.525734959067442
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3805,
+    "currentPrice": 3720,
+    "marginOfSafety": 10,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 17.031438502135902,
+      "terminalGrowth": 3.576254168276322,
+      "wacc": 12.304728301814372,
+      "taxRate": 29.721271686320172
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3559,
+    "currentPrice": 3720,
+    "marginOfSafety": -4,
+    "verdict": "Hold",
+    "assumptions": {
+      "revenueGrowth": 15.998259590243007,
+      "terminalGrowth": 4.258785398372884,
+      "wacc": 10.154584673982615,
+      "taxRate": 27.12255880356277
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "intrinsicValue": 3609,
+    "currentPrice": 3720,
+    "marginOfSafety": 6,
+    "verdict": "Buy",
+    "assumptions": {
+      "revenueGrowth": 14.95039113363085,
+      "terminalGrowth": 3.8537625372902196,
+      "wacc": 11.081032401582702,
+      "taxRate": 29.85541807938159
+    },
+    "projections": [
+      {
+        "year": "FY25",
+        "revenue": 250000,
+        "fcf": 45000,
+        "discountedFcf": 40000
+      },
+      {
+        "year": "FY26",
+        "revenue": 280000,
+        "fcf": 52000,
+        "discountedFcf": 42000
+      },
+      {
+        "year": "FY27",
+        "revenue": 310000,
+        "fcf": 58000,
+        "discountedFcf": 43000
+      },
+      {
+        "year": "FY28",
+        "revenue": 340000,
+        "fcf": 65000,
+        "discountedFcf": 44000
+      },
+      {
+        "year": "FY29",
+        "revenue": 370000,
+        "fcf": 72000,
+        "discountedFcf": 45000
+      }
+    ],
+    "sensitivityMatrix": [
+      {
+        "wacc": 9,
+        "terminalGrowth": 2,
+        "intrinsicValue": 4200
+      },
+      {
+        "wacc": 10,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3800
+      },
+      {
+        "wacc": 11,
+        "terminalGrowth": 4,
+        "intrinsicValue": 3500
+      },
+      {
+        "wacc": 12,
+        "terminalGrowth": 3,
+        "intrinsicValue": 3200
+      }
+    ],
+    "valueBreakdown": {
+      "pvFcf": 850000,
+      "terminalValue": 650000,
+      "netDebt": -50000,
+      "equityValue": 1550000,
+      "sharesOutstanding": 366
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dcf-valuation",
+  "label": "DCF Valuation",
+  "category": "value",
+  "tags": ["dcf", "intrinsic value", "wacc", "terminal value", "fcf"],
+  "description": "Full discounted cash flow model with FCF projections, terminal value, value breakdown, and WACC/growth sensitivity matrix.",
+  "dataSources": ["Fundamentals", "Estimates", "FinancialStatements"],
+  "outputs": [
+    "Intrinsic value per share",
+    "FCF projections chart",
+    "Value breakdown waterfall",
+    "WACC/Terminal growth sensitivity matrix",
+    "Margin of safety",
+    "Buy/Hold/Sell verdict"
+  ],
+  "layout": {
+    "type": "dcf-valuation",
+    "sections": [
+      "header-with-verdict",
+      "metrics-strip",
+      "fcf-projections-chart",
+      "value-breakdown",
+      "sensitivity-matrix",
+      "interpretation-footer"
+    ]
+  },
+  "api": {
+    "endpoint": "/api/analytics/dcf-valuation",
+    "params": ["symbol"]
+  }
+}

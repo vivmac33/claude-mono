@@ -1,0 +1,16 @@
+{
+  "title": "Drawdown & VaR \u00b7 Model Portfolio",
+  "max_drawdown_pct": -22.5,
+  "var_95_pct": -8.4,
+  "scenarios": [
+    {
+      "name": "Shock A",
+      "expected_drop_pct": -18
+    },
+    {
+      "name": "Shock B",
+      "expected_drop_pct": -12
+    }
+  ],
+  "meta": "Stylised view of portfolio downside risk."
+}

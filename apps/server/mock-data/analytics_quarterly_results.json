@@ -1,0 +1,29 @@
+{
+  "title": "Quarterly Results \u00b7 SampleCo",
+  "symbol": "SMPQ",
+  "quarters": [
+    {
+      "q": "Q1",
+      "revenue": 380,
+      "profit": 72,
+      "margin_pct": 18.9
+    },
+    {
+      "q": "Q2",
+      "revenue": 365,
+      "profit": 69,
+      "margin_pct": 18.5
+    },
+    {
+      "q": "Q3",
+      "revenue": 352,
+      "profit": 66,
+      "margin_pct": 18.2
+    }
+  ],
+  "estimates": {
+    "consensus_profit": 70,
+    "surprise_pct": 2.8
+  },
+  "meta": "Sample results trend used for quarterly earnings views."
+}

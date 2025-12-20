@@ -1,0 +1,1067 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "stressScore": 28,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 52.80774317206067,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.939208237949788,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.319205643149212,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.1434068717660697,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 48247.45721594185,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "stressScore": 15,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 83.42897656443975,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 3.0038602305916013,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.3191268639964955,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.09684141744043753,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 48645.82192355172,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "stressScore": 29,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 64.32460181077728,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 3.119735348533659,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.4001942002931873,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.10335840115486435,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 51694.23039386612,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "stressScore": 31,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 63.9706095104568,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 3.2879088869639963,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.4951793799335102,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.1173827669437201,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 46813.05170009914,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "stressScore": 32,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 75.34053486783293,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.7053171371462676,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.7432707798670566,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.14972824273673507,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 52034.01884334025,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "stressScore": 19,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 51.93218017950936,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.933001298873673,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.636211817565447,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.0892113129119251,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 54290.90523926786,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "stressScore": 26,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 55.25643048549041,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.9973779842924806,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.6457884313757414,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.10399622521948662,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 52917.14310014588,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "stressScore": 22,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 81.97857091360041,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 3.1201247609349463,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.6883216037887063,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.10475466968585852,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 51089.25554710574,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "stressScore": 24,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 81.23621551857903,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.8056676706226504,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.479768334721328,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.09809438500402304,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 46025.91047999151,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "stressScore": 20,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 67.47625458279492,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.7238931076498663,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.723004791704782,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.059554499432610666,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 53406.76672940897,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "stressScore": 30,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 68.21984479021835,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.5499587443649,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.277812970367479,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.07393291087562791,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 45178.468343337845,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "stressScore": 34,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 89.84238150130133,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.940531686368378,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.7774905097798066,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.10698027514220934,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 52030.06008763243,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "stressScore": 26,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 63.74926300389676,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.64869899032568,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.6349016492894686,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.06231268093084055,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 50638.49832083662,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "stressScore": 31,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 51.818453131591625,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 2.9670999788658095,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.6414228059026517,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.08938324814622611,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 50325.497765158085,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "stressScore": 19,
+    "riskLevel": "Safe",
+    "indicators": {
+      "interestCoverage": {
+        "value": 72.8778417602828,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "currentRatio": {
+        "value": 3.001317310784233,
+        "threshold": 1.5,
+        "status": "ok"
+      },
+      "quickRatio": {
+        "value": 2.7421852946287806,
+        "threshold": 1,
+        "status": "ok"
+      },
+      "cashBurn": {
+        "value": 0,
+        "threshold": 12,
+        "status": "ok"
+      },
+      "debtToEbitda": {
+        "value": 0.06834981934068968,
+        "threshold": 3,
+        "status": "ok"
+      },
+      "workingCapital": {
+        "value": 48080.53556568372,
+        "threshold": 0,
+        "status": "ok"
+      }
+    },
+    "radarData": [
+      {
+        "metric": "Interest Coverage",
+        "value": 95,
+        "fullMark": 100
+      },
+      {
+        "metric": "Current Ratio",
+        "value": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Quick Ratio",
+        "value": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Debt/EBITDA",
+        "value": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Working Capital",
+        "value": 90,
+        "fullMark": 100
+      }
+    ],
+    "earlyWarnings": [],
+    "peerComparison": {
+      "company": 15,
+      "sectorMedian": 25,
+      "sectorWorst": 65
+    }
+  }
+}

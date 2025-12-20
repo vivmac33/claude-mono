@@ -1,0 +1,109 @@
+{
+  "asOf": "2025-12-11",
+  "portfolioReturn": 22.5,
+  "benchmarkReturn": 18.2,
+  "alpha": 4.3,
+  "rankings": [
+    {
+      "symbol": "TCS",
+      "return": 28.5,
+      "contribution": 4.2,
+      "weight": 15
+    },
+    {
+      "symbol": "INFY",
+      "return": 22.1,
+      "contribution": 2.8,
+      "weight": 12
+    },
+    {
+      "symbol": "RELIANCE",
+      "return": 18.5,
+      "contribution": 3.5,
+      "weight": 18
+    },
+    {
+      "symbol": "HDFCBANK",
+      "return": 15.2,
+      "contribution": 2.1,
+      "weight": 14
+    },
+    {
+      "symbol": "ICICIBANK",
+      "return": 12.8,
+      "contribution": 1.5,
+      "weight": 11
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "return": 8.5,
+      "contribution": 0.8,
+      "weight": 10
+    },
+    {
+      "symbol": "WIPRO",
+      "return": -5.2,
+      "contribution": -0.5,
+      "weight": 10
+    },
+    {
+      "symbol": "TECHM",
+      "return": -2.8,
+      "contribution": -0.3,
+      "weight": 10
+    }
+  ],
+  "topPerformers": [
+    { "symbol": "TCS", "return": 28.5 },
+    { "symbol": "INFY", "return": 22.1 },
+    { "symbol": "RELIANCE", "return": 18.5 }
+  ],
+  "bottomPerformers": [
+    { "symbol": "WIPRO", "return": -5.2 },
+    { "symbol": "TECHM", "return": -2.8 },
+    { "symbol": "BAJFINANCE", "return": 8.5 }
+  ],
+  "attribution": {
+    "stockSelection": 2.8,
+    "sectorAllocation": 1.2,
+    "timing": 0.3
+  },
+  "sharpeAnalysis": {
+    "portfolioSharpe": 1.42,
+    "benchmarkSharpe": 1.15,
+    "riskFreeRate": 6.5,
+    "stockSharpes": [
+      { "symbol": "TCS", "sharpe": 1.85, "annualizedReturn": 28.5, "annualizedVol": 11.9, "weight": 15 },
+      { "symbol": "INFY", "sharpe": 1.52, "annualizedReturn": 22.1, "annualizedVol": 10.3, "weight": 12 },
+      { "symbol": "RELIANCE", "sharpe": 1.28, "annualizedReturn": 18.5, "annualizedVol": 9.4, "weight": 18 },
+      { "symbol": "HDFCBANK", "sharpe": 1.12, "annualizedReturn": 15.2, "annualizedVol": 7.8, "weight": 14 },
+      { "symbol": "ICICIBANK", "sharpe": 0.95, "annualizedReturn": 12.8, "annualizedVol": 6.6, "weight": 11 },
+      { "symbol": "BAJFINANCE", "sharpe": 0.42, "annualizedReturn": 8.5, "annualizedVol": 4.8, "weight": 10 },
+      { "symbol": "WIPRO", "sharpe": -0.85, "annualizedReturn": -5.2, "annualizedVol": 13.8, "weight": 10 },
+      { "symbol": "TECHM", "sharpe": -0.52, "annualizedReturn": -2.8, "annualizedVol": 17.9, "weight": 10 }
+    ],
+    "rollingSharpe": [
+      { "date": "2025-07", "portfolio": 1.12, "benchmark": 0.95 },
+      { "date": "2025-08", "portfolio": 1.25, "benchmark": 1.02 },
+      { "date": "2025-09", "portfolio": 1.18, "benchmark": 1.08 },
+      { "date": "2025-10", "portfolio": 1.35, "benchmark": 1.12 },
+      { "date": "2025-11", "portfolio": 1.38, "benchmark": 1.10 },
+      { "date": "2025-12", "portfolio": 1.42, "benchmark": 1.15 }
+    ],
+    "sharpeContribution": [
+      { "symbol": "TCS", "contribution": 0.28 },
+      { "symbol": "INFY", "contribution": 0.18 },
+      { "symbol": "RELIANCE", "contribution": 0.23 },
+      { "symbol": "HDFCBANK", "contribution": 0.16 },
+      { "symbol": "ICICIBANK", "contribution": 0.10 },
+      { "symbol": "BAJFINANCE", "contribution": 0.04 },
+      { "symbol": "WIPRO", "contribution": -0.09 },
+      { "symbol": "TECHM", "contribution": -0.05 }
+    ],
+    "insights": {
+      "bestRiskAdjusted": "TCS (Sharpe: 1.85)",
+      "worstRiskAdjusted": "WIPRO (Sharpe: -0.85)",
+      "sharpeRating": "Good"
+    }
+  }
+}

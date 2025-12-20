@@ -1,0 +1,692 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "regime": "High",
+    "atr": {
+      "value": 62.21139317986413,
+      "percentile": 42
+    },
+    "bollingerWidth": {
+      "value": 4.444230086534375,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 64.47782161104925,
+      "percentile": 49
+    },
+    "bollingerWidth": {
+      "value": 5.347053712589728,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 51.6269742009096,
+      "percentile": 67
+    },
+    "bollingerWidth": {
+      "value": 5.271603349975434,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 52.29434870871063,
+      "percentile": 66
+    },
+    "bollingerWidth": {
+      "value": 5.057067881957794,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 50.70688722186688,
+      "percentile": 67
+    },
+    "bollingerWidth": {
+      "value": 4.7971955020807595,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "regime": "High",
+    "atr": {
+      "value": 78.106144191661,
+      "percentile": 57
+    },
+    "bollingerWidth": {
+      "value": 4.659906604958125,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 70.80631672618628,
+      "percentile": 65
+    },
+    "bollingerWidth": {
+      "value": 4.7428128623748425,
+      "squeeze": true
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 57.347245655907,
+      "percentile": 46
+    },
+    "bollingerWidth": {
+      "value": 3.939313946009597,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 62.832367069698044,
+      "percentile": 67
+    },
+    "bollingerWidth": {
+      "value": 3.7588540673219484,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "regime": "High",
+    "atr": {
+      "value": 55.685719051437346,
+      "percentile": 45
+    },
+    "bollingerWidth": {
+      "value": 3.9933157558621275,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 68.32467723024602,
+      "percentile": 49
+    },
+    "bollingerWidth": {
+      "value": 5.163401213601015,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 51.274964535224505,
+      "percentile": 46
+    },
+    "bollingerWidth": {
+      "value": 4.418752020271964,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 69.19366886459142,
+      "percentile": 43
+    },
+    "bollingerWidth": {
+      "value": 5.108351814247349,
+      "squeeze": true
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "regime": "Normal",
+    "atr": {
+      "value": 55.68660628620898,
+      "percentile": 48
+    },
+    "bollingerWidth": {
+      "value": 5.361984398023374,
+      "squeeze": false
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "regime": "High",
+    "atr": {
+      "value": 65.68177518022891,
+      "percentile": 61
+    },
+    "bollingerWidth": {
+      "value": 3.740511221999582,
+      "squeeze": true
+    },
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "atr": 62,
+        "bbWidth": 4.8,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "atr": 60,
+        "bbWidth": 4.5,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "atr": 59,
+        "bbWidth": 4.3,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "atr": 58,
+        "bbWidth": 4.2,
+        "price": 3720
+      }
+    ],
+    "alerts": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tickers": {
+    "AAPL": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "MSFT": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "GOOGL": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "AMZN": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "META": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "NVDA": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "TSLA": {
+      "forward_yield": 0,
+      "payout_ratio": 0,
+      "coverage": null
+    },
+    "SPY": {
+      "forward_yield": 1.395,
+      "payout_ratio": 0.4,
+      "coverage": 2.03
+    },
+    "QQQ": {
+      "forward_yield": 0.877,
+      "payout_ratio": 0.29,
+      "coverage": 2.6
+    },
+    "IWM": {
+      "forward_yield": 1.795,
+      "payout_ratio": 0.38,
+      "coverage": 2.3
+    }
+  }
+}

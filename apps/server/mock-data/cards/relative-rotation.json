@@ -1,0 +1,54 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "quadrant": "Leading",
+    "rsRatio": 102.5,
+    "rsMomentum": 101.2,
+    "trajectory": "Improving",
+    "peers": [
+      {
+        "symbol": "TCS",
+        "rsRatio": 102.5,
+        "rsMomentum": 101.2,
+        "quadrant": "Leading"
+      },
+      {
+        "symbol": "INFY",
+        "rsRatio": 98.5,
+        "rsMomentum": 99.8,
+        "quadrant": "Weakening"
+      },
+      {
+        "symbol": "WIPRO",
+        "rsRatio": 95.2,
+        "rsMomentum": 98.5,
+        "quadrant": "Lagging"
+      },
+      {
+        "symbol": "HCLTECH",
+        "rsRatio": 100.5,
+        "rsMomentum": 102.1,
+        "quadrant": "Improving"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-09",
+        "quadrant": "Improving"
+      },
+      {
+        "date": "2024-10",
+        "quadrant": "Leading"
+      },
+      {
+        "date": "2024-11",
+        "quadrant": "Leading"
+      },
+      {
+        "date": "2024-12",
+        "quadrant": "Leading"
+      }
+    ]
+  }
+}

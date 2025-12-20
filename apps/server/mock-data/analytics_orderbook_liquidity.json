@@ -1,0 +1,33 @@
+{
+  "title": "Order Book Liquidity \u00b7 Sample Future",
+  "best_bid_qty": 525,
+  "best_ask_qty": 480,
+  "levels": [
+    {
+      "price": 245.5,
+      "bid_qty": 120,
+      "ask_qty": 0
+    },
+    {
+      "price": 245.0,
+      "bid_qty": 240,
+      "ask_qty": 0
+    },
+    {
+      "price": 244.5,
+      "bid_qty": 165,
+      "ask_qty": 0
+    },
+    {
+      "price": 246.0,
+      "bid_qty": 0,
+      "ask_qty": 210
+    },
+    {
+      "price": 246.5,
+      "bid_qty": 0,
+      "ask_qty": 190
+    }
+  ],
+  "meta": "Simplified 5-level order book snapshot."
+}

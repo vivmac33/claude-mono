@@ -1,0 +1,120 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "monthlyReturns": [
+      {
+        "month": "Jan",
+        "avgReturn": 2.5,
+        "winRate": 65,
+        "years": 10
+      },
+      {
+        "month": "Feb",
+        "avgReturn": 1.8,
+        "winRate": 58,
+        "years": 10
+      },
+      {
+        "month": "Mar",
+        "avgReturn": -0.5,
+        "winRate": 45,
+        "years": 10
+      },
+      {
+        "month": "Apr",
+        "avgReturn": 3.2,
+        "winRate": 72,
+        "years": 10
+      },
+      {
+        "month": "May",
+        "avgReturn": 1.2,
+        "winRate": 55,
+        "years": 10
+      },
+      {
+        "month": "Jun",
+        "avgReturn": 0.8,
+        "winRate": 52,
+        "years": 10
+      },
+      {
+        "month": "Jul",
+        "avgReturn": 2.8,
+        "winRate": 68,
+        "years": 10
+      },
+      {
+        "month": "Aug",
+        "avgReturn": -1.2,
+        "winRate": 42,
+        "years": 10
+      },
+      {
+        "month": "Sep",
+        "avgReturn": 0.5,
+        "winRate": 50,
+        "years": 10
+      },
+      {
+        "month": "Oct",
+        "avgReturn": 2.2,
+        "winRate": 62,
+        "years": 10
+      },
+      {
+        "month": "Nov",
+        "avgReturn": 1.5,
+        "winRate": 58,
+        "years": 10
+      },
+      {
+        "month": "Dec",
+        "avgReturn": 3.5,
+        "winRate": 75,
+        "years": 10
+      }
+    ],
+    "dayOfWeekReturns": [
+      {
+        "day": "Mon",
+        "avgReturn": 0.15,
+        "winRate": 52
+      },
+      {
+        "day": "Tue",
+        "avgReturn": 0.22,
+        "winRate": 55
+      },
+      {
+        "day": "Wed",
+        "avgReturn": 0.18,
+        "winRate": 53
+      },
+      {
+        "day": "Thu",
+        "avgReturn": 0.12,
+        "winRate": 51
+      },
+      {
+        "day": "Fri",
+        "avgReturn": 0.25,
+        "winRate": 56
+      }
+    ],
+    "bestMonth": {
+      "month": "Dec",
+      "avgReturn": 3.5
+    },
+    "worstMonth": {
+      "month": "Aug",
+      "avgReturn": -1.2
+    },
+    "currentMonthOutlook": {
+      "month": "Dec",
+      "historical": 3.5,
+      "signal": "bullish"
+    }
+  }
+}

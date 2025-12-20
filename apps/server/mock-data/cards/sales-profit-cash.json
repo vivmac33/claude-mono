@@ -1,0 +1,707 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "alignmentScore": 88,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 22.06811526503026,
+      "cashToProfit": 105.00122791663635,
+      "cashToSales": 21.980151359881063
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "alignmentScore": 88,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 22.713696151163468,
+      "cashToProfit": 106.93484475711709,
+      "cashToSales": 24.69293601830049
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "alignmentScore": 92,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 18.337985834634363,
+      "cashToProfit": 110.75336818240129,
+      "cashToSales": 20.284061129112363
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "alignmentScore": 94,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 20.136494825018875,
+      "cashToProfit": 112.06438054961623,
+      "cashToSales": 24.775917458947767
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "alignmentScore": 88,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 22.718048771748357,
+      "cashToProfit": 106.873034380805,
+      "cashToSales": 21.60811885306066
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "alignmentScore": 89,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 21.623430497627094,
+      "cashToProfit": 106.98699283704376,
+      "cashToSales": 23.589138499660596
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "alignmentScore": 92,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 18.321956320780117,
+      "cashToProfit": 110.77919801509395,
+      "cashToSales": 24.31904535734189
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "alignmentScore": 93,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 19.494992050387413,
+      "cashToProfit": 109.2667631171283,
+      "cashToSales": 20.196944566843865
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "alignmentScore": 86,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 21.485941062781745,
+      "cashToProfit": 117.72018009589507,
+      "cashToSales": 23.789979017761148
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "alignmentScore": 94,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 22.82877719362282,
+      "cashToProfit": 108.15830152916588,
+      "cashToSales": 22.980537028701782
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "alignmentScore": 91,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 18.51962322957164,
+      "cashToProfit": 112.61129024977828,
+      "cashToSales": 24.22562137979807
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "alignmentScore": 89,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 19.193260271425896,
+      "cashToProfit": 117.65560006386823,
+      "cashToSales": 21.543095498097674
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "alignmentScore": 86,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 20.091713089906406,
+      "cashToProfit": 107.95878816945665,
+      "cashToSales": 22.12075305624844
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "alignmentScore": 89,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 22.75307458667299,
+      "cashToProfit": 113.5579009548629,
+      "cashToSales": 24.180450270330102
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "alignmentScore": 88,
+    "verdict": "Strong",
+    "currentRatios": {
+      "profitToSales": 18.892425582730716,
+      "cashToProfit": 116.22087258417729,
+      "cashToSales": 23.285300270698087
+    },
+    "historicalFlow": [
+      {
+        "period": "Q1FY24",
+        "revenue": 58000,
+        "profit": 11200,
+        "ocf": 12500,
+        "fcf": 10200
+      },
+      {
+        "period": "Q2FY24",
+        "revenue": 60000,
+        "profit": 11500,
+        "ocf": 12800,
+        "fcf": 10500
+      },
+      {
+        "period": "Q3FY24",
+        "revenue": 62000,
+        "profit": 11800,
+        "ocf": 13200,
+        "fcf": 10800
+      },
+      {
+        "period": "Q4FY24",
+        "revenue": 65000,
+        "profit": 12200,
+        "ocf": 13600,
+        "fcf": 11200
+      }
+    ],
+    "conversionQuality": {
+      "avgCashConversion": 108,
+      "cashConversionTrend": "Stable",
+      "accrualRatio": -0.02
+    },
+    "alerts": []
+  }
+}

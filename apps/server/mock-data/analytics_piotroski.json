@@ -1,0 +1,53 @@
+{
+  "title": "Piotroski F-Score \u00b7 Sample Stock",
+  "symbol": "SAMPLE1",
+  "score": 7,
+  "criteria": [
+    {
+      "id": "F1",
+      "label": "Positive ROA",
+      "pass": true
+    },
+    {
+      "id": "F2",
+      "label": "Improving ROA",
+      "pass": true
+    },
+    {
+      "id": "F3",
+      "label": "Positive CFO",
+      "pass": true
+    },
+    {
+      "id": "F4",
+      "label": "Accruals",
+      "pass": false
+    },
+    {
+      "id": "F5",
+      "label": "Improving margin",
+      "pass": true
+    },
+    {
+      "id": "F6",
+      "label": "Improving turnover",
+      "pass": true
+    },
+    {
+      "id": "F7",
+      "label": "Lower leverage",
+      "pass": false
+    },
+    {
+      "id": "F8",
+      "label": "No equity dilution",
+      "pass": true
+    },
+    {
+      "id": "F9",
+      "label": "Improving liquidity",
+      "pass": false
+    }
+  ],
+  "meta": "Sample Piotroski F-score based on synthetic fundamentals."
+}

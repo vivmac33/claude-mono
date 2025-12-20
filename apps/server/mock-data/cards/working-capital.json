@@ -1,0 +1,48 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "healthScore": 85,
+    "status": "Healthy",
+    "currentMetrics": {
+      "currentRatio": 2.8,
+      "quickRatio": 2.5,
+      "cashRatio": 1.2,
+      "workingCapital": 45000,
+      "netWorkingCapitalDays": 27
+    },
+    "cashConversionCycle": {
+      "dso": 72,
+      "dio": 0,
+      "dpo": 45,
+      "ccc": 27,
+      "trend": "Improving"
+    },
+    "historicalWC": [
+      {
+        "period": "Q1FY24",
+        "workingCapital": 42000,
+        "currentRatio": 2.6
+      },
+      {
+        "period": "Q2FY24",
+        "workingCapital": 43500,
+        "currentRatio": 2.7
+      },
+      {
+        "period": "Q3FY24",
+        "workingCapital": 44200,
+        "currentRatio": 2.75
+      },
+      {
+        "period": "Q4FY24",
+        "workingCapital": 45000,
+        "currentRatio": 2.8
+      }
+    ],
+    "liquidityRunway": {
+      "months": 18,
+      "scenario": "Conservative"
+    }
+  }
+}

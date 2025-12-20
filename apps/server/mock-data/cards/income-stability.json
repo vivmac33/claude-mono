@@ -1,0 +1,64 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "safetyScore": 85,
+    "rating": "Very Safe",
+    "currentMetrics": {
+      "dividendYield": 1.2,
+      "payoutRatio": 38,
+      "fcfPayoutRatio": 32,
+      "dividendCoverage": 2.6
+    },
+    "history": {
+      "consecutiveYears": 23,
+      "cutsInLast10Y": 0,
+      "growthStreak": 8,
+      "cagr5Y": 12.5
+    },
+    "dividendHistory": [
+      {
+        "year": "2020",
+        "dividend": 73,
+        "growth": 8.5
+      },
+      {
+        "year": "2021",
+        "dividend": 84,
+        "growth": 15.1
+      },
+      {
+        "year": "2022",
+        "dividend": 98,
+        "growth": 16.7
+      },
+      {
+        "year": "2023",
+        "dividend": 110,
+        "growth": 12.2
+      },
+      {
+        "year": "2024",
+        "dividend": 125,
+        "growth": 13.6
+      }
+    ],
+    "riskFactors": [
+      {
+        "factor": "Payout Ratio",
+        "severity": "low",
+        "description": "Conservative payout leaves room for growth"
+      },
+      {
+        "factor": "Industry Cyclicality",
+        "severity": "low",
+        "description": "IT services less cyclical"
+      }
+    ],
+    "sustainability": {
+      "earningsCoverage": 2.6,
+      "cashCoverage": 3.1,
+      "debtImpact": 0.08
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "overallScore": 90.34313442944553,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.20408060844092,
+      "change3M": -0.05194995316079987,
+      "pledged": 0.8155398747523059
+    },
+    "insiderActivity": {
+      "netBuys": 5,
+      "totalTransactions": 8,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 72,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 56.2997361072981,
+      "reinvestmentRate": 35.62967134726939,
+      "dividendConsistency": 96
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "overallScore": 85.9312513549328,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.98431832956184,
+      "change3M": -0.08368175051974128,
+      "pledged": 0.9065974961794678
+    },
+    "insiderActivity": {
+      "netBuys": 4,
+      "totalTransactions": 10,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 73,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 54.770818144788734,
+      "reinvestmentRate": 31.7608636925277,
+      "dividendConsistency": 96
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 86.28564047461218,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.00746493911097,
+      "change3M": -0.016083338781883588,
+      "pledged": 0.036081646148374835
+    },
+    "insiderActivity": {
+      "netBuys": 6,
+      "totalTransactions": 10,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 68,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 49.78209509965777,
+      "reinvestmentRate": 30.674031645756642,
+      "dividendConsistency": 97
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "overallScore": 85.6845981471302,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 73.90377765146197,
+      "change3M": -0.02849168996701322,
+      "pledged": 0.6095312116544827
+    },
+    "insiderActivity": {
+      "netBuys": 4,
+      "totalTransactions": 9,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 69,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 47.942449852455645,
+      "reinvestmentRate": 36.72561562554434,
+      "dividendConsistency": 98
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 89.50381253043138,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 73.69723504738052,
+      "change3M": -0.027566033677480117,
+      "pledged": 0.2068556512669557
+    },
+    "insiderActivity": {
+      "netBuys": 4,
+      "totalTransactions": 7,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 74,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 50.517033926156024,
+      "reinvestmentRate": 41.46459176334047,
+      "dividendConsistency": 96
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "overallScore": 92.00784471459956,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 73.98256313579559,
+      "change3M": 0.042592517734701824,
+      "pledged": 0.8584887703993014
+    },
+    "insiderActivity": {
+      "netBuys": 5,
+      "totalTransactions": 6,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 62,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 48.532102726916314,
+      "reinvestmentRate": 38.95317168353622,
+      "dividendConsistency": 98
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "overallScore": 88.5145573122859,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 72.24830669285132,
+      "change3M": 0.056624830207014226,
+      "pledged": 0.970325725701844
+    },
+    "insiderActivity": {
+      "netBuys": 6,
+      "totalTransactions": 10,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 60,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 50.01381391821626,
+      "reinvestmentRate": 38.55919678194365,
+      "dividendConsistency": 96
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "overallScore": 86.72776455980821,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.36895370922359,
+      "change3M": 0.057115229577071686,
+      "pledged": 0.07252394996042488
+    },
+    "insiderActivity": {
+      "netBuys": 7,
+      "totalTransactions": 6,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 71,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 51.36263907319848,
+      "reinvestmentRate": 31.854949060038862,
+      "dividendConsistency": 97
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 85.58655427463489,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 72.13836746184938,
+      "change3M": 0.050089687560020135,
+      "pledged": 0.6498727116516418
+    },
+    "insiderActivity": {
+      "netBuys": 3,
+      "totalTransactions": 10,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 74,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 52.15874115625732,
+      "reinvestmentRate": 34.14753341768888,
+      "dividendConsistency": 99
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "overallScore": 88.54707449773845,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.40501533602232,
+      "change3M": -0.010839130931630248,
+      "pledged": 0.5256537466976192
+    },
+    "insiderActivity": {
+      "netBuys": 3,
+      "totalTransactions": 8,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 61,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 46.727822605581814,
+      "reinvestmentRate": 38.7491862366964,
+      "dividendConsistency": 95
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "overallScore": 93.06625647525632,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.65253812133295,
+      "change3M": 0.06981120011668787,
+      "pledged": 0.8396553909143862
+    },
+    "insiderActivity": {
+      "netBuys": 7,
+      "totalTransactions": 11,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 64,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 54.27360017072226,
+      "reinvestmentRate": 34.60944327218471,
+      "dividendConsistency": 98
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 89.92092368937647,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 72.76027534971206,
+      "change3M": 0.044249308642690055,
+      "pledged": 0.1634685777144489
+    },
+    "insiderActivity": {
+      "netBuys": 3,
+      "totalTransactions": 11,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 66,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 52.623442424449884,
+      "reinvestmentRate": 43.34826720047971,
+      "dividendConsistency": 96
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "overallScore": 92.61352707524759,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 72.59230854060317,
+      "change3M": 0.08272266625491462,
+      "pledged": 0.5971322374907138
+    },
+    "insiderActivity": {
+      "netBuys": 6,
+      "totalTransactions": 10,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 74,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 45.91386314274243,
+      "reinvestmentRate": 39.50464430984773,
+      "dividendConsistency": 96
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "overallScore": 94.14188867008674,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 74.7182004360658,
+      "change3M": -0.05612284635932081,
+      "pledged": 0.7398770315097623
+    },
+    "insiderActivity": {
+      "netBuys": 3,
+      "totalTransactions": 6,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 74,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 59.23005563990871,
+      "reinvestmentRate": 35.601609919652766,
+      "dividendConsistency": 97
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "overallScore": 94.09011033979377,
+    "grade": "A",
+    "promoterHolding": {
+      "current": 73.3925661101713,
+      "change3M": -0.005594375104017946,
+      "pledged": 0.5297791406562444
+    },
+    "insiderActivity": {
+      "netBuys": 3,
+      "totalTransactions": 7,
+      "sentiment": "Bullish"
+    },
+    "governance": {
+      "boardIndependence": 74,
+      "auditQuality": "Big 4",
+      "relatedPartyFlag": false
+    },
+    "capitalAllocation": {
+      "roic5Y": 59.63726213353255,
+      "reinvestmentRate": 44.500935669797286,
+      "dividendConsistency": 98
+    },
+    "recentTransactions": [
+      {
+        "date": "2024-12-15",
+        "type": "Buy",
+        "insider": "CEO",
+        "value": 1.85
+      },
+      {
+        "date": "2024-12-10",
+        "type": "Buy",
+        "insider": "CFO",
+        "value": 0.92
+      }
+    ]
+  }
+}

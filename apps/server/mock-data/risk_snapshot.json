@@ -1,0 +1,54 @@
+{
+  "tickers": {
+    "AAPL": {
+      "beta": 0.97,
+      "volatility_1y": 0.47,
+      "max_drawdown_1y": 0.41
+    },
+    "MSFT": {
+      "beta": 1.47,
+      "volatility_1y": 0.57,
+      "max_drawdown_1y": 0.09
+    },
+    "GOOGL": {
+      "beta": 0.84,
+      "volatility_1y": 0.57,
+      "max_drawdown_1y": 0.53
+    },
+    "AMZN": {
+      "beta": 1.45,
+      "volatility_1y": 0.42,
+      "max_drawdown_1y": 0.16
+    },
+    "META": {
+      "beta": 0.72,
+      "volatility_1y": 0.2,
+      "max_drawdown_1y": 0.45
+    },
+    "NVDA": {
+      "beta": 0.88,
+      "volatility_1y": 0.16,
+      "max_drawdown_1y": 0.44
+    },
+    "TSLA": {
+      "beta": 0.94,
+      "volatility_1y": 0.39,
+      "max_drawdown_1y": 0.29
+    },
+    "SPY": {
+      "beta": 0.72,
+      "volatility_1y": 0.55,
+      "max_drawdown_1y": 0.19
+    },
+    "QQQ": {
+      "beta": 0.88,
+      "volatility_1y": 0.51,
+      "max_drawdown_1y": 0.55
+    },
+    "IWM": {
+      "beta": 0.92,
+      "volatility_1y": 0.54,
+      "max_drawdown_1y": 0.29
+    }
+  }
+}

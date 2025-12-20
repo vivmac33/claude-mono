@@ -1,0 +1,962 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1615,
+      "dii": 1094,
+      "total": 2837
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1940,
+      "dii": 1043,
+      "total": 2112
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1493,
+      "dii": 1199,
+      "total": 2320
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1486,
+      "dii": 1139,
+      "total": 2246
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1537,
+      "dii": 856,
+      "total": 2688
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1835,
+      "dii": 1008,
+      "total": 2815
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1662,
+      "dii": 869,
+      "total": 2799
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1503,
+      "dii": 1113,
+      "total": 2313
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1551,
+      "dii": 1009,
+      "total": 2791
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1560,
+      "dii": 1104,
+      "total": 2644
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1997,
+      "dii": 870,
+      "total": 2811
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1321,
+      "dii": 1108,
+      "total": 2407
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1454,
+      "dii": 892,
+      "total": 2913
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1864,
+      "dii": 1032,
+      "total": 2769
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "sentiment": "Accumulating",
+    "netFlow": {
+      "fii": 1860,
+      "dii": 981,
+      "total": 2748
+    },
+    "dailyFlows": [
+      {
+        "date": "2024-12-20",
+        "fii": 120,
+        "dii": 85
+      },
+      {
+        "date": "2024-12-19",
+        "fii": 95,
+        "dii": 72
+      },
+      {
+        "date": "2024-12-18",
+        "fii": 145,
+        "dii": 90
+      },
+      {
+        "date": "2024-12-17",
+        "fii": 110,
+        "dii": 65
+      },
+      {
+        "date": "2024-12-16",
+        "fii": 80,
+        "dii": 88
+      }
+    ],
+    "monthlyTrend": [
+      {
+        "month": "Dec 2024",
+        "fii": 1250,
+        "dii": 850
+      },
+      {
+        "month": "Nov 2024",
+        "fii": 980,
+        "dii": 720
+      },
+      {
+        "month": "Oct 2024",
+        "fii": 1120,
+        "dii": 680
+      }
+    ],
+    "activity": {
+      "fiiDays": {
+        "buy": 15,
+        "sell": 5
+      },
+      "diiDays": {
+        "buy": 12,
+        "sell": 8
+      }
+    }
+  }
+}

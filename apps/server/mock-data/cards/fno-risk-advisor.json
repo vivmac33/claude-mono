@@ -1,0 +1,167 @@
+{
+  "TCS": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "TCS",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "RELIANCE": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "RELIANCE",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "HDFCBANK": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "HDFCBANK",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "INFY": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "INFY",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "ICICIBANK": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "ICICIBANK",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "HINDUNILVR": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "HINDUNILVR",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "SBIN": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "SBIN",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "BHARTIARTL": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "BHARTIARTL",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "KOTAKBANK": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "KOTAKBANK",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "ITC": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "ITC",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "LT": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "LT",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "AXISBANK": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "AXISBANK",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "ASIANPAINT": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "ASIANPAINT",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "MARUTI": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "MARUTI",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  },
+  "WIPRO": {
+    "capital": 500000,
+    "productType": "index_options",
+    "instrument": "WIPRO",
+    "lotSize": 50,
+    "currentPrice": 3720,
+    "marginRequired": 125000,
+    "avgDailyRange": 1.2,
+    "maxMonthlyLossPercent": 10,
+    "timeHorizon": "weekly"
+  }
+}

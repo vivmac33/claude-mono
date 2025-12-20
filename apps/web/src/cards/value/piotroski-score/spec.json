@@ -1,0 +1,28 @@
+{
+  "id": "piotroski-score",
+  "label": "Piotroski F-Score",
+  "category": "value",
+  "tags": ["piotroski", "f-score", "financial health", "value investing", "quality"],
+  "description": "9-point Piotroski F-Score measuring financial strength across profitability, leverage, and operating efficiency.",
+  "dataSources": ["FinancialStatements"],
+  "outputs": [
+    "Total score (0-9)",
+    "Category breakdown (Profitability, Leverage, Efficiency)",
+    "Individual test pass/fail",
+    "Historical scores",
+    "Trend direction"
+  ],
+  "layout": {
+    "type": "piotroski-score",
+    "sections": [
+      "header-with-radial-gauge",
+      "category-breakdown",
+      "historical-scores",
+      "interpretation-footer"
+    ]
+  },
+  "api": {
+    "endpoint": "/api/analytics/piotroski-score",
+    "params": ["symbol"]
+  }
+}

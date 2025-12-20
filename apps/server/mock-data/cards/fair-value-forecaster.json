@@ -1,0 +1,1097 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3930,
+    "marginOfSafetyPct": 6,
+    "horizonYears": 3,
+    "upside": 7,
+    "valuation": "Undervalued",
+    "confidence": 82,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3813,
+    "marginOfSafetyPct": 0,
+    "horizonYears": 3,
+    "upside": 22,
+    "valuation": "Fair Value",
+    "confidence": 71,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3819,
+    "marginOfSafetyPct": 0,
+    "horizonYears": 3,
+    "upside": 24,
+    "valuation": "Fair Value",
+    "confidence": 85,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3913,
+    "marginOfSafetyPct": 11,
+    "horizonYears": 3,
+    "upside": 13,
+    "valuation": "Undervalued",
+    "confidence": 73,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3727,
+    "marginOfSafetyPct": -2,
+    "horizonYears": 3,
+    "upside": 12,
+    "valuation": "Undervalued",
+    "confidence": 72,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3902,
+    "marginOfSafetyPct": 11,
+    "horizonYears": 3,
+    "upside": 12,
+    "valuation": "Undervalued",
+    "confidence": 76,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3950,
+    "marginOfSafetyPct": 8,
+    "horizonYears": 3,
+    "upside": 20,
+    "valuation": "Undervalued",
+    "confidence": 71,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3878,
+    "marginOfSafetyPct": 6,
+    "horizonYears": 3,
+    "upside": 12,
+    "valuation": "Fair Value",
+    "confidence": 71,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3693,
+    "marginOfSafetyPct": 0,
+    "horizonYears": 3,
+    "upside": 22,
+    "valuation": "Undervalued",
+    "confidence": 81,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3964,
+    "marginOfSafetyPct": 9,
+    "horizonYears": 3,
+    "upside": 9,
+    "valuation": "Undervalued",
+    "confidence": 88,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3910,
+    "marginOfSafetyPct": 6,
+    "horizonYears": 3,
+    "upside": 9,
+    "valuation": "Undervalued",
+    "confidence": 75,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3778,
+    "marginOfSafetyPct": -1,
+    "horizonYears": 3,
+    "upside": 16,
+    "valuation": "Undervalued",
+    "confidence": 76,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3782,
+    "marginOfSafetyPct": -2,
+    "horizonYears": 3,
+    "upside": 18,
+    "valuation": "Fair Value",
+    "confidence": 72,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3773,
+    "marginOfSafetyPct": 2,
+    "horizonYears": 3,
+    "upside": 7,
+    "valuation": "Fair Value",
+    "confidence": 85,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "fairValueNow": 3708,
+    "marginOfSafetyPct": 11,
+    "horizonYears": 3,
+    "upside": 18,
+    "valuation": "Undervalued",
+    "confidence": 87,
+    "fan": [
+      {
+        "t": "2024",
+        "p5": 3200,
+        "p25": 3450,
+        "p50": 3720,
+        "p75": 4000,
+        "p95": 4350
+      },
+      {
+        "t": "2025",
+        "p5": 3400,
+        "p25": 3700,
+        "p50": 4100,
+        "p75": 4500,
+        "p95": 5000
+      },
+      {
+        "t": "2026",
+        "p5": 3600,
+        "p25": 4000,
+        "p50": 4500,
+        "p75": 5100,
+        "p95": 5800
+      },
+      {
+        "t": "2027",
+        "p5": 3850,
+        "p25": 4350,
+        "p50": 4950,
+        "p75": 5700,
+        "p95": 6600
+      }
+    ],
+    "sensitivity": [
+      {
+        "growthDeltaPct": -3,
+        "fv": 3200
+      },
+      {
+        "growthDeltaPct": -1.5,
+        "fv": 3450
+      },
+      {
+        "growthDeltaPct": 0,
+        "fv": 3720
+      },
+      {
+        "growthDeltaPct": 1.5,
+        "fv": 4000
+      },
+      {
+        "growthDeltaPct": 3,
+        "fv": 4300
+      }
+    ],
+    "drivers": {
+      "earningsGrowth": 12,
+      "revenueGrowth": 10,
+      "marginExpansion": 0.5,
+      "multipleChange": -0.2
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tickers": {
+    "AAPL": {
+      "symbol": "AAPL",
+      "pe": 55.55,
+      "fwd_pe": 33.64,
+      "ps": 1.97,
+      "pfcf": 16.43,
+      "pb": 9.78,
+      "ev_ebitda": 15.52,
+      "fair_value": 208.29,
+      "margin_of_safety": -0.09
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "pe": 55.81,
+      "fwd_pe": 19.08,
+      "ps": 8.37,
+      "pfcf": 31.19,
+      "pb": 10.76,
+      "ev_ebitda": 5.65,
+      "fair_value": 348.06,
+      "margin_of_safety": -0.16
+    },
+    "GOOGL": {
+      "symbol": "GOOGL",
+      "pe": 31.2,
+      "fwd_pe": 28.8,
+      "ps": 7.08,
+      "pfcf": 14.53,
+      "pb": 16.67,
+      "ev_ebitda": 17.66,
+      "fair_value": 139.83,
+      "margin_of_safety": 0.18
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "pe": 22.54,
+      "fwd_pe": 20.45,
+      "ps": 6.03,
+      "pfcf": 15.7,
+      "pb": 2.39,
+      "ev_ebitda": 18.26,
+      "fair_value": 141.37,
+      "margin_of_safety": -0.15
+    },
+    "META": {
+      "symbol": "META",
+      "pe": 35.59,
+      "fwd_pe": 18.06,
+      "ps": 2.14,
+      "pfcf": 21.9,
+      "pb": 19.68,
+      "ev_ebitda": 22.83,
+      "fair_value": 412.02,
+      "margin_of_safety": 0.14
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "pe": 48.12,
+      "fwd_pe": 23.96,
+      "ps": 1.41,
+      "pfcf": 34.36,
+      "pb": 14.77,
+      "ev_ebitda": 9.41,
+      "fair_value": 490.04,
+      "margin_of_safety": 0.02
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "pe": 40.37,
+      "fwd_pe": 25.04,
+      "ps": 4.2,
+      "pfcf": 13.99,
+      "pb": 14.48,
+      "ev_ebitda": 11.11,
+      "fair_value": 298.21,
+      "margin_of_safety": 0.11
+    },
+    "SPY": {
+      "symbol": "SPY",
+      "pe": 27.55,
+      "fwd_pe": 33.58,
+      "ps": 2.84,
+      "pfcf": 37.67,
+      "pb": 18.04,
+      "ev_ebitda": 18.32,
+      "fair_value": 480.42,
+      "margin_of_safety": 0.07
+    },
+    "QQQ": {
+      "symbol": "QQQ",
+      "pe": 19.72,
+      "fwd_pe": 37.57,
+      "ps": 9.42,
+      "pfcf": 38.09,
+      "pb": 4.31,
+      "ev_ebitda": 18.53,
+      "fair_value": 312.12,
+      "margin_of_safety": 0.14
+    },
+    "IWM": {
+      "symbol": "IWM",
+      "pe": 58.08,
+      "fwd_pe": 26.32,
+      "ps": 9.84,
+      "pfcf": 21.41,
+      "pb": 9.91,
+      "ev_ebitda": 24.44,
+      "fair_value": 171.84,
+      "margin_of_safety": 0.0
+    }
+  }
+}

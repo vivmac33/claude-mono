@@ -1,0 +1,5 @@
+{
+  "symbol": "AAPL",
+  "horizon": 5,
+  "note": "Default preset for Fair Value Forecaster demonstration"
+}

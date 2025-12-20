@@ -1,0 +1,122 @@
+{
+  "TCS": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "RELIANCE": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "HDFCBANK": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "INFY": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "ICICIBANK": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "HINDUNILVR": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "SBIN": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "BHARTIARTL": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "KOTAKBANK": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "ITC": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "LT": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "AXISBANK": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "ASIANPAINT": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "MARUTI": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  },
+  "WIPRO": {
+    "winRate": 45,
+    "avgWinPercent": 2.5,
+    "avgLossPercent": 1.5,
+    "tradesPerMonth": 40,
+    "capitalPerTrade": 100000,
+    "productType": "options_buy"
+  }
+}

@@ -1,0 +1,842 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 1.121190500150298,
+      "change": 0.01049529336626618
+    },
+    "maxPain": 3796,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13628069,
+      "puts": 8493006,
+      "total": 22286896
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 1.0915699025988994,
+      "change": -0.004130614202233929
+    },
+    "maxPain": 3709,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 11943725,
+      "puts": 10762932,
+      "total": 22555643
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "pcr": {
+      "value": 1.0263598384083978,
+      "change": 0.027388545453119306
+    },
+    "maxPain": 3785,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13516830,
+      "puts": 11974031,
+      "total": 22416139
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 1.102242473153741,
+      "change": 0.01325935417315205
+    },
+    "maxPain": 3681,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 11054783,
+      "puts": 10014082,
+      "total": 24728746
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 0.9790431339169021,
+      "change": -0.048354929939985206
+    },
+    "maxPain": 3703,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13659279,
+      "puts": 8228589,
+      "total": 24215597
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "pcr": {
+      "value": 0.9010584856944062,
+      "change": -0.04146144544052488
+    },
+    "maxPain": 3769,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 14519824,
+      "puts": 11990728,
+      "total": 23050522
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 0.8987399989165941,
+      "change": -0.010461937258651834
+    },
+    "maxPain": 3775,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13858918,
+      "puts": 11675437,
+      "total": 20146655
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 1.1801958858204744,
+      "change": 0.04731220166303973
+    },
+    "maxPain": 3731,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 14193090,
+      "puts": 11399225,
+      "total": 24543350
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "pcr": {
+      "value": 1.0305593899407581,
+      "change": 0.006444318331778144
+    },
+    "maxPain": 3667,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 12327462,
+      "puts": 11315755,
+      "total": 24836562
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "pcr": {
+      "value": 0.8537747569996729,
+      "change": 0.0315181068258656
+    },
+    "maxPain": 3716,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 11992359,
+      "puts": 11177004,
+      "total": 22778158
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 0.9872768306649692,
+      "change": 0.03614166419181429
+    },
+    "maxPain": 3739,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13693007,
+      "puts": 10147470,
+      "total": 24658112
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "pcr": {
+      "value": 1.091580663471646,
+      "change": 0.02266483121653555
+    },
+    "maxPain": 3710,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 12619560,
+      "puts": 11380748,
+      "total": 25448763
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 1.0813140465718791,
+      "change": 0.012496749628114937
+    },
+    "maxPain": 3776,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13424410,
+      "puts": 11865166,
+      "total": 24707353
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 0.9965194064150817,
+      "change": -0.0026739474853152215
+    },
+    "maxPain": 3711,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 13063537,
+      "puts": 11581397,
+      "total": 24228361
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "sentiment": "Neutral",
+    "pcr": {
+      "value": 0.9468685411979798,
+      "change": -0.019038378976999226
+    },
+    "maxPain": 3746,
+    "currentPrice": 3720,
+    "openInterest": {
+      "calls": 11086987,
+      "puts": 10845303,
+      "total": 20460821
+    },
+    "topStrikes": [
+      {
+        "strike": 3700,
+        "callOI": 2500000,
+        "putOI": 1800000,
+        "type": "call"
+      },
+      {
+        "strike": 3800,
+        "callOI": 3200000,
+        "putOI": 1200000,
+        "type": "call"
+      },
+      {
+        "strike": 3600,
+        "callOI": 1500000,
+        "putOI": 2800000,
+        "type": "put"
+      },
+      {
+        "strike": 3750,
+        "callOI": 1800000,
+        "putOI": 1600000,
+        "type": "balanced"
+      }
+    ],
+    "unusualActivity": [
+      {
+        "strike": "3800CE",
+        "type": "Call",
+        "volume": 125000,
+        "signal": "Bullish"
+      },
+      {
+        "strike": "3600PE",
+        "type": "Put",
+        "volume": 95000,
+        "signal": "Support"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connecting to Zerodha... | Monomorph</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      color: #e2e8f0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      text-align: center;
+      padding: 2rem;
+      max-width: 400px;
+    }
+    .spinner {
+      width: 48px;
+      height: 48px;
+      border: 3px solid #334155;
+      border-top-color: #6366f1;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1.5rem;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      color: #f1f5f9;
+    }
+    p {
+      color: #94a3b8;
+      margin-bottom: 1rem;
+    }
+    .status {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-top: 1.5rem;
+      font-family: monospace;
+      font-size: 0.875rem;
+      text-align: left;
+    }
+    .success { border-color: #22c55e; }
+    .error { border-color: #ef4444; }
+    .success h2 { color: #22c55e; }
+    .error h2 { color: #ef4444; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="spinner" id="spinner"></div>
+    <h1>Connecting to Zerodha</h1>
+    <p>Processing your authorization...</p>
+    <div class="status" id="status">
+      Waiting for callback data...
+    </div>
+  </div>
+
+  <script>
+    // Parse URL parameters
+    const params = new URLSearchParams(window.location.search);
+    const requestToken = params.get('request_token');
+    const status = params.get('status');
+    const errorMessage = params.get('error_message');
+    
+    const statusEl = document.getElementById('status');
+    const spinnerEl = document.getElementById('spinner');
+    
+    if (errorMessage || status === 'error') {
+      // Error from Zerodha
+      spinnerEl.style.display = 'none';
+      statusEl.className = 'status error';
+      statusEl.innerHTML = `
+        <h2>❌ Authorization Failed</h2>
+        <p>${errorMessage || 'Unknown error occurred'}</p>
+        <p style="margin-top: 1rem;">
+          <a href="/#/settings" style="color: #6366f1;">← Back to Settings</a>
+        </p>
+      `;
+    } else if (requestToken) {
+      // Success - got request token
+      spinnerEl.style.display = 'none';
+      statusEl.className = 'status success';
+      statusEl.innerHTML = `
+        <h2>✅ Authorization Successful</h2>
+        <p><strong>Request Token:</strong></p>
+        <code style="word-break: break-all; color: #22c55e;">${requestToken}</code>
+        <p style="margin-top: 1rem; color: #94a3b8;">
+          This token will be exchanged for an access token by the server.
+          Redirecting to app...
+        </p>
+      `;
+      
+      // Store token and redirect
+      sessionStorage.setItem('zerodha_request_token', requestToken);
+      
+      // TODO: Send to backend for token exchange
+      // For now, redirect to app after 3 seconds
+      setTimeout(() => {
+        window.location.href = '/#/settings?zerodha=connected';
+      }, 3000);
+    } else {
+      // No data - direct access
+      statusEl.innerHTML = `
+        <p>No authorization data received.</p>
+        <p style="margin-top: 1rem;">
+          <a href="/#/settings" style="color: #6366f1;">← Back to Settings</a>
+        </p>
+      `;
+      spinnerEl.style.display = 'none';
+    }
+  </script>
+</body>
+</html>

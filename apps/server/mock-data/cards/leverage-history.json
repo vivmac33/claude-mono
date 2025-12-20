@@ -1,0 +1,1157 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "leverageScore": 92,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.04321668456686317,
+      "debtToEbitda": 0.2157948334996187,
+      "interestCoverage": 73.06785816290147,
+      "netDebtToEbitda": -0.07183088328617733
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "leverageScore": 92,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.041871576670733386,
+      "debtToEbitda": 0.17640257639202683,
+      "interestCoverage": 82.2365062013229,
+      "netDebtToEbitda": -0.07279969926053775
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "leverageScore": 91,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.08875379123236506,
+      "debtToEbitda": 0.20784017748737604,
+      "interestCoverage": 84.07328903871462,
+      "netDebtToEbitda": -0.07707543249149379
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "leverageScore": 86,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.030249640077746026,
+      "debtToEbitda": 0.23942930247062416,
+      "interestCoverage": 50.22253470800253,
+      "netDebtToEbitda": -0.07934258194661076
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "leverageScore": 90,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.07399974623245345,
+      "debtToEbitda": 0.1561639925345631,
+      "interestCoverage": 59.21297652938722,
+      "netDebtToEbitda": 0.009502582367275109
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "leverageScore": 94,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.07167000226094965,
+      "debtToEbitda": 0.05093384947482922,
+      "interestCoverage": 52.44862338294374,
+      "netDebtToEbitda": 0.09777774696635114
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "leverageScore": 87,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.04166817840432047,
+      "debtToEbitda": 0.06897274045121296,
+      "interestCoverage": 64.24103476253455,
+      "netDebtToEbitda": 0.026578566563370515
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "leverageScore": 86,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.04926260221308046,
+      "debtToEbitda": 0.17523052142725531,
+      "interestCoverage": 71.1153384578335,
+      "netDebtToEbitda": 0.0333411348772612
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "leverageScore": 90,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.06138146996017603,
+      "debtToEbitda": 0.191548641323451,
+      "interestCoverage": 55.72234616370949,
+      "netDebtToEbitda": 0.023289395542414007
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "leverageScore": 88,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.03622615838424497,
+      "debtToEbitda": 0.11728070022714938,
+      "interestCoverage": 80.9122644785325,
+      "netDebtToEbitda": 0.023343182929051715
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "leverageScore": 86,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.08454197310878059,
+      "debtToEbitda": 0.129763696099142,
+      "interestCoverage": 76.4894839128063,
+      "netDebtToEbitda": 0.0907751854167039
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "leverageScore": 89,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.10808027995455832,
+      "debtToEbitda": 0.12381669910919246,
+      "interestCoverage": 54.25495453608321,
+      "netDebtToEbitda": -0.08981103223721482
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "leverageScore": 86,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.11053636526760677,
+      "debtToEbitda": 0.17466424303374328,
+      "interestCoverage": 86.5566566890817,
+      "netDebtToEbitda": 0.08552168859753762
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "leverageScore": 92,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.03530619926581105,
+      "debtToEbitda": 0.05588385803959537,
+      "interestCoverage": 79.03715419477484,
+      "netDebtToEbitda": -0.05711928524651042
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "leverageScore": 91,
+    "riskLevel": "Low",
+    "currentMetrics": {
+      "debtToEquity": 0.02376927414029238,
+      "debtToEbitda": 0.09643079454651181,
+      "interestCoverage": 60.93263848105255,
+      "netDebtToEbitda": -0.0931333908475466
+    },
+    "historicalLeverage": [
+      {
+        "period": "FY2020",
+        "debtToEquity": 0.05,
+        "interestCoverage": 65,
+        "totalDebt": 3000
+      },
+      {
+        "period": "FY2021",
+        "debtToEquity": 0.04,
+        "interestCoverage": 72,
+        "totalDebt": 2500
+      },
+      {
+        "period": "FY2022",
+        "debtToEquity": 0.03,
+        "interestCoverage": 78,
+        "totalDebt": 2200
+      },
+      {
+        "period": "FY2023",
+        "debtToEquity": 0.025,
+        "interestCoverage": 82,
+        "totalDebt": 1900
+      },
+      {
+        "period": "FY2024",
+        "debtToEquity": 0.02,
+        "interestCoverage": 85,
+        "totalDebt": 1850
+      }
+    ],
+    "debtBreakdown": {
+      "shortTerm": 500,
+      "longTerm": 1350,
+      "secured": 800,
+      "unsecured": 1050
+    },
+    "covenants": {
+      "status": "Compliant",
+      "headroom": 45,
+      "details": "All debt covenants comfortably met"
+    },
+    "maturitySchedule": [
+      {
+        "year": "2025",
+        "amount": 300
+      },
+      {
+        "year": "2026",
+        "amount": 450
+      },
+      {
+        "year": "2027",
+        "amount": 500
+      },
+      {
+        "year": "2028",
+        "amount": 400
+      },
+      {
+        "year": "2029+",
+        "amount": 200
+      }
+    ]
+  }
+}
