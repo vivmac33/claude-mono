@@ -1,0 +1,8 @@
+{
+  "left": "SPY",
+  "right": "QQQ",
+  "left_alpha": 2.74,
+  "right_alpha": 3.71,
+  "corr": 0.74,
+  "holdings_overlap_pct": 14.38
+}

@@ -1,0 +1,72 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "regime": "Bull",
+    "confidence": 78,
+    "factors": [
+      {
+        "factor": "Trend",
+        "value": 82,
+        "weight": 0.3,
+        "signal": "bullish"
+      },
+      {
+        "factor": "Momentum",
+        "value": 75,
+        "weight": 0.25,
+        "signal": "bullish"
+      },
+      {
+        "factor": "Volatility",
+        "value": 65,
+        "weight": 0.2,
+        "signal": "neutral"
+      },
+      {
+        "factor": "Breadth",
+        "value": 70,
+        "weight": 0.15,
+        "signal": "bullish"
+      },
+      {
+        "factor": "Sentiment",
+        "value": 72,
+        "weight": 0.1,
+        "signal": "bullish"
+      }
+    ],
+    "radarData": [
+      {
+        "factor": "Trend",
+        "score": 82,
+        "fullMark": 100
+      },
+      {
+        "factor": "Momentum",
+        "score": 75,
+        "fullMark": 100
+      },
+      {
+        "factor": "Volatility",
+        "score": 65,
+        "fullMark": 100
+      },
+      {
+        "factor": "Breadth",
+        "score": 70,
+        "fullMark": 100
+      },
+      {
+        "factor": "Sentiment",
+        "score": 72,
+        "fullMark": 100
+      }
+    ],
+    "recommendation": {
+      "action": "Stay Long",
+      "strategy": "Trend Following",
+      "timeframe": "Medium Term"
+    }
+  }
+}

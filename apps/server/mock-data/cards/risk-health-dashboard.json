@@ -1,0 +1,1787 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 27,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 39,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 39,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 30,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 28,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 39,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 26,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 25,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 31,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 33,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 25,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 20,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 35,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 37,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "overallRiskScore": 25,
+    "riskLevel": "Low",
+    "categories": {
+      "financial": {
+        "score": 20,
+        "items": [
+          {
+            "name": "Leverage Risk",
+            "value": 0.02,
+            "threshold": 0.5,
+            "status": "good"
+          },
+          {
+            "name": "Liquidity Risk",
+            "value": 2.8,
+            "threshold": 1.5,
+            "status": "good"
+          },
+          {
+            "name": "Solvency Risk",
+            "value": 0.85,
+            "threshold": 0.6,
+            "status": "good"
+          }
+        ]
+      },
+      "operational": {
+        "score": 28,
+        "items": [
+          {
+            "name": "Client Concentration",
+            "value": 15,
+            "threshold": 30,
+            "status": "good"
+          },
+          {
+            "name": "Geographic Risk",
+            "value": 45,
+            "threshold": 50,
+            "status": "warning"
+          },
+          {
+            "name": "Technology Risk",
+            "value": 22,
+            "threshold": 40,
+            "status": "good"
+          }
+        ]
+      },
+      "market": {
+        "score": 30,
+        "items": [
+          {
+            "name": "Volatility",
+            "value": 18,
+            "threshold": 25,
+            "status": "good"
+          },
+          {
+            "name": "Beta Risk",
+            "value": 0.85,
+            "threshold": 1.2,
+            "status": "good"
+          },
+          {
+            "name": "Correlation",
+            "value": 0.72,
+            "threshold": 0.8,
+            "status": "warning"
+          }
+        ]
+      },
+      "governance": {
+        "score": 18,
+        "items": [
+          {
+            "name": "Board Quality",
+            "value": 85,
+            "threshold": 70,
+            "status": "good"
+          },
+          {
+            "name": "Audit Quality",
+            "value": 90,
+            "threshold": 80,
+            "status": "good"
+          },
+          {
+            "name": "Transparency",
+            "value": 88,
+            "threshold": 75,
+            "status": "good"
+          }
+        ]
+      }
+    },
+    "radarData": [
+      {
+        "category": "Financial",
+        "risk": 20
+      },
+      {
+        "category": "Operational",
+        "risk": 28
+      },
+      {
+        "category": "Market",
+        "risk": 30
+      },
+      {
+        "category": "Governance",
+        "risk": 18
+      }
+    ],
+    "alerts": []
+  }
+}

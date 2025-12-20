@@ -1,0 +1,827 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "growthScore": 81,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 13.952138604195744,
+      "revenueGrowth5Y": 13.09491941154063,
+      "epsGrowth3Y": 21.84310446183273,
+      "epsGrowth5Y": 14.203330448414285,
+      "fcfGrowth3Y": 17.333720695270426,
+      "bookValueGrowth5Y": 11.38002956872004
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "growthScore": 94,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 12.759597453513623,
+      "revenueGrowth5Y": 15.384551081398588,
+      "epsGrowth3Y": 21.51649994371391,
+      "epsGrowth5Y": 18.627715675061953,
+      "fcfGrowth3Y": 18.296053870548988,
+      "bookValueGrowth5Y": 11.236084332111266
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "growthScore": 80,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 18.96176209014979,
+      "revenueGrowth5Y": 11.548765310277165,
+      "epsGrowth3Y": 16.633578189721156,
+      "epsGrowth5Y": 14.866103352780517,
+      "fcfGrowth3Y": 15.516965161718682,
+      "bookValueGrowth5Y": 12.390480081897454
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "growthScore": 85,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 18.111986347033806,
+      "revenueGrowth5Y": 14.527323868406606,
+      "epsGrowth3Y": 24.764052607545743,
+      "epsGrowth5Y": 14.08782241517737,
+      "fcfGrowth3Y": 20.436230148407297,
+      "bookValueGrowth5Y": 11.113537378204969
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "growthScore": 84,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 12.463265706675372,
+      "revenueGrowth5Y": 12.46140750472206,
+      "epsGrowth3Y": 20.811663805822228,
+      "epsGrowth5Y": 19.25270374800557,
+      "fcfGrowth3Y": 21.71473077705528,
+      "bookValueGrowth5Y": 10.380721124156851
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "growthScore": 76,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 16.224967502089292,
+      "revenueGrowth5Y": 15.727502140607244,
+      "epsGrowth3Y": 15.578393329119587,
+      "epsGrowth5Y": 19.390767179666078,
+      "fcfGrowth3Y": 15.020448457105333,
+      "bookValueGrowth5Y": 14.742108729961238
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "growthScore": 84,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 15.77021785038104,
+      "revenueGrowth5Y": 15.145872250168063,
+      "epsGrowth3Y": 17.694535142828457,
+      "epsGrowth5Y": 19.286486112962464,
+      "fcfGrowth3Y": 19.687324614013377,
+      "bookValueGrowth5Y": 10.517254636357338
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "growthScore": 94,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 15.962446776478254,
+      "revenueGrowth5Y": 12.186030254983622,
+      "epsGrowth3Y": 24.098627322342224,
+      "epsGrowth5Y": 18.100659812120522,
+      "fcfGrowth3Y": 18.34130633342601,
+      "bookValueGrowth5Y": 10.862870453844012
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "growthScore": 90,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 15.805178282811438,
+      "revenueGrowth5Y": 11.131689440165239,
+      "epsGrowth3Y": 23.856929145730817,
+      "epsGrowth5Y": 13.611786728353582,
+      "fcfGrowth3Y": 18.495559092450247,
+      "bookValueGrowth5Y": 13.751803330084282
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "growthScore": 82,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 12.762450212496812,
+      "revenueGrowth5Y": 14.522088579916511,
+      "epsGrowth3Y": 23.510375028878173,
+      "epsGrowth5Y": 13.178471791017442,
+      "fcfGrowth3Y": 15.506002233753398,
+      "bookValueGrowth5Y": 12.04273968252621
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "growthScore": 78,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 16.828790526527516,
+      "revenueGrowth5Y": 11.49427262806961,
+      "epsGrowth3Y": 22.25104226214613,
+      "epsGrowth5Y": 14.103855867689486,
+      "fcfGrowth3Y": 18.370223466918347,
+      "bookValueGrowth5Y": 13.006285022434328
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "growthScore": 77,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 19.564931189860406,
+      "revenueGrowth5Y": 15.569347554172616,
+      "epsGrowth3Y": 18.361690387772114,
+      "epsGrowth5Y": 13.603937659356474,
+      "fcfGrowth3Y": 17.790344342922886,
+      "bookValueGrowth5Y": 13.29099707863925
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "growthScore": 86,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 15.813530234974175,
+      "revenueGrowth5Y": 10.575230812911599,
+      "epsGrowth3Y": 24.684334496997522,
+      "epsGrowth5Y": 19.00457673993181,
+      "fcfGrowth3Y": 20.2297256611035,
+      "bookValueGrowth5Y": 13.395818794680604
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "growthScore": 90,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 12.234129354912683,
+      "revenueGrowth5Y": 15.887040541048451,
+      "epsGrowth3Y": 15.993929976293476,
+      "epsGrowth5Y": 14.248516699944494,
+      "fcfGrowth3Y": 16.325959283573297,
+      "bookValueGrowth5Y": 11.09956992282455
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "growthScore": 92,
+    "growthTier": "High Growth",
+    "metrics": {
+      "revenueGrowth3Y": 12.021634915039824,
+      "revenueGrowth5Y": 13.247922235889941,
+      "epsGrowth3Y": 20.98880776878605,
+      "epsGrowth5Y": 12.822309529698778,
+      "fcfGrowth3Y": 16.92038809676228,
+      "bookValueGrowth5Y": 14.830627256163257
+    },
+    "historicalGrowth": [
+      {
+        "year": "FY20",
+        "revenue": 150000,
+        "earnings": 28000,
+        "fcf": 25000
+      },
+      {
+        "year": "FY21",
+        "revenue": 165000,
+        "earnings": 32000,
+        "fcf": 29000
+      },
+      {
+        "year": "FY22",
+        "revenue": 180000,
+        "earnings": 36000,
+        "fcf": 33000
+      },
+      {
+        "year": "FY23",
+        "revenue": 200000,
+        "earnings": 42000,
+        "fcf": 38000
+      },
+      {
+        "year": "FY24",
+        "revenue": 225000,
+        "earnings": 48000,
+        "fcf": 43000
+      }
+    ],
+    "forwardEstimates": {
+      "revenueGrowthNTM": 12,
+      "epsGrowthNTM": 14,
+      "analystRevisions": 5
+    },
+    "peerComparison": {
+      "avgRevenueGrowth": 10,
+      "avgEpsGrowth": 11
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "stabilityScore": 92,
+    "grade": "Excellent",
+    "metrics": {
+      "ocfVolatility": 8.5,
+      "fcfVolatility": 12.2,
+      "consistencyScore": 95
+    },
+    "historical": [
+      {
+        "period": "FY2020",
+        "ocf": 35800,
+        "fcf": 28500
+      },
+      {
+        "period": "FY2021",
+        "ocf": 39500,
+        "fcf": 32500
+      },
+      {
+        "period": "FY2022",
+        "ocf": 44200,
+        "fcf": 36800
+      },
+      {
+        "period": "FY2023",
+        "ocf": 48500,
+        "fcf": 40200
+      },
+      {
+        "period": "FY2024",
+        "ocf": 52500,
+        "fcf": 43200
+      }
+    ],
+    "trend": "Improving",
+    "coverageRatios": {
+      "debtCoverage": 12.5,
+      "capexCoverage": 5.8,
+      "dividendCoverage": 2.2
+    }
+  }
+}

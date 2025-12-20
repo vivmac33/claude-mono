@@ -1,0 +1,782 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 55,
+        "macd": "Bullish",
+        "momentum": 1.43344822122921,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 61,
+        "macd": "Bullish",
+        "momentum": 2.7524041426221464,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 48,
+        "macd": "Bearish",
+        "momentum": 1.2668118337206984,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 56,
+        "macd": "Bullish",
+        "momentum": 0.0989468166862224,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 2.962887623908969,
+        "relativeStrength": 1.0193153891342255
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.7114257174426355,
+        "relativeStrength": 1.067683443687677
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.7484084130853612,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 64,
+        "macd": "Bullish",
+        "momentum": 1.7223661963025978,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 65,
+        "macd": "Bullish",
+        "momentum": 1.174550912877214,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 60,
+        "macd": "Bullish",
+        "momentum": 0.4340772856921138,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 69,
+        "macd": "Bullish",
+        "momentum": 2.1068354520408015,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 2.6871576631728105,
+        "relativeStrength": 1.2630593368803367
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.8750371874027272,
+        "relativeStrength": 1.1752561152127146
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.5849751483525343,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 68,
+        "macd": "Bullish",
+        "momentum": 0.40618105216917644,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 57,
+        "macd": "Bullish",
+        "momentum": 1.6973517839831205,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 51,
+        "macd": "Bearish",
+        "momentum": -0.3849415019303226,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 61,
+        "macd": "Bullish",
+        "momentum": 2.9038123904287065,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.169722621065915,
+        "relativeStrength": 1.2357001505676295
+      },
+      {
+        "sector": "Technology",
+        "momentum": 2.1270949632984113,
+        "relativeStrength": 1.144225123034506
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.7296145452818295,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 50,
+        "macd": "Bullish",
+        "momentum": 0.7984500618946673,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 67,
+        "macd": "Bullish",
+        "momentum": 1.3562363704471725,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 45,
+        "macd": "Bullish",
+        "momentum": -0.13874486373591388,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 63,
+        "macd": "Bullish",
+        "momentum": 3.4421307557280674,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.264104113788979,
+        "relativeStrength": 1.0457897551251223
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.7225403137156132,
+        "relativeStrength": 1.0887144196218095
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.9714613765363882,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 59,
+        "macd": "Bullish",
+        "momentum": 2.206981976149063,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 64,
+        "macd": "Bullish",
+        "momentum": 0.9804103740435881,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 64,
+        "macd": "Bearish",
+        "momentum": -0.3626055877507737,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 61,
+        "macd": "Bullish",
+        "momentum": 2.0008248121470835,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.9253166011687584,
+        "relativeStrength": 1.0806409787400515
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.9080365833462054,
+        "relativeStrength": 1.1608926725116913
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.7864004676300944,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 51,
+        "macd": "Bullish",
+        "momentum": 1.6689753680026644,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 66,
+        "macd": "Bullish",
+        "momentum": 1.8091792857348228,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 46,
+        "macd": "Bullish",
+        "momentum": 2.4343386398851754,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 68,
+        "macd": "Bullish",
+        "momentum": 2.8659660960529045,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.2558684318354283,
+        "relativeStrength": 1.1973991304427325
+      },
+      {
+        "sector": "Technology",
+        "momentum": 2.5116855456299985,
+        "relativeStrength": 1.11041017859552
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.9488400011855385,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 55,
+        "macd": "Bullish",
+        "momentum": 0.2193663726840096,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 64,
+        "macd": "Bullish",
+        "momentum": 1.7005674058963784,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 48,
+        "macd": "Bearish",
+        "momentum": 0.1080829234713887,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 58,
+        "macd": "Bullish",
+        "momentum": 0.19189427428704864,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 2.8427768601165244,
+        "relativeStrength": 1.1898968853530947
+      },
+      {
+        "sector": "Technology",
+        "momentum": 2.7688586833428532,
+        "relativeStrength": 1.1778597020718733
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.1573350519817651,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 59,
+        "macd": "Bullish",
+        "momentum": 1.3118801405535137,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 54,
+        "macd": "Bullish",
+        "momentum": 1.765747251780487,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 60,
+        "macd": "Bullish",
+        "momentum": 1.470908217407719,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 58,
+        "macd": "Bullish",
+        "momentum": 3.839635544842354,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.271112531560896,
+        "relativeStrength": 1.2869198908821797
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.7443107067432824,
+        "relativeStrength": 1.1260357018762277
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.5560942919638472,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 61,
+        "macd": "Bullish",
+        "momentum": -0.361378857633994,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 58,
+        "macd": "Bullish",
+        "momentum": 1.1912574256155801,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 54,
+        "macd": "Bearish",
+        "momentum": 2.9882353051086996,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 68,
+        "macd": "Bullish",
+        "momentum": 0.5655484299542133,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.7191703677389034,
+        "relativeStrength": 1.032900615621184
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.5504195898654851,
+        "relativeStrength": 1.1872483248954948
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.399227321622524,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 61,
+        "macd": "Bullish",
+        "momentum": 0.6071256563495275,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 55,
+        "macd": "Bullish",
+        "momentum": 0.4441914586229687,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 62,
+        "macd": "Bearish",
+        "momentum": 1.1962363308434831,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 64,
+        "macd": "Bullish",
+        "momentum": 1.991332682027327,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 2.759663042305265,
+        "relativeStrength": 1.2560079014237546
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.799356794241594,
+        "relativeStrength": 1.0611509955631382
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.3385187592284118,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 66,
+        "macd": "Bullish",
+        "momentum": 0.759514609217876,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 55,
+        "macd": "Bullish",
+        "momentum": 1.5062051457815842,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 58,
+        "macd": "Bearish",
+        "momentum": 1.5616822254111682,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 58,
+        "macd": "Bullish",
+        "momentum": 1.0748786045421257,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 2.976217046103346,
+        "relativeStrength": 1.009878546788509
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.5872687956969083,
+        "relativeStrength": 1.097034513460885
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.6724576796232695,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Moderate",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 52,
+        "macd": "Bullish",
+        "momentum": 1.4193596280827052,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 60,
+        "macd": "Bullish",
+        "momentum": 2.2377374468994526,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 48,
+        "macd": "Bullish",
+        "momentum": 2.409001962186955,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 59,
+        "macd": "Bullish",
+        "momentum": 2.959916685575286,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.9920710842958886,
+        "relativeStrength": 1.03991856273529
+      },
+      {
+        "sector": "Technology",
+        "momentum": 2.1652913112677465,
+        "relativeStrength": 1.0137469830005668
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.0496784954522342,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 69,
+        "macd": "Bullish",
+        "momentum": -0.4509501075400526,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 53,
+        "macd": "Bullish",
+        "momentum": 0.5164773122619655,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 60,
+        "macd": "Bearish",
+        "momentum": -0.2655492410231073,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 69,
+        "macd": "Bullish",
+        "momentum": 1.5558341713884163,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 2.1813029113342997,
+        "relativeStrength": 1.0217013740169725
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.52329552612795,
+        "relativeStrength": 1.151244779016491
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.542425070281867,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 51,
+        "macd": "Bullish",
+        "momentum": 1.7203642267977033,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 63,
+        "macd": "Bullish",
+        "momentum": 1.0278383241014177,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 47,
+        "macd": "Bearish",
+        "momentum": 2.6859006305252757,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 57,
+        "macd": "Bullish",
+        "momentum": 3.8615223155005083,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.775136046028933,
+        "relativeStrength": 1.032077147713324
+      },
+      {
+        "sector": "Technology",
+        "momentum": 2.253991569003823,
+        "relativeStrength": 1.1950760932886595
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.713385678705216,
+        "relativeStrength": 1
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "overallMomentum": "Strong",
+    "timeframes": [
+      {
+        "tf": "1D",
+        "rsi": 64,
+        "macd": "Bullish",
+        "momentum": 1.3948432167573126,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1W",
+        "rsi": 58,
+        "macd": "Bullish",
+        "momentum": 2.9291117239438456,
+        "signal": "bullish"
+      },
+      {
+        "tf": "1M",
+        "rsi": 51,
+        "macd": "Bullish",
+        "momentum": 1.5991850483063637,
+        "signal": "neutral"
+      },
+      {
+        "tf": "3M",
+        "rsi": 62,
+        "macd": "Bullish",
+        "momentum": 1.3188855935595374,
+        "signal": "bullish"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "IT Services",
+        "momentum": 3.1158374920293097,
+        "relativeStrength": 1.2051328585050791
+      },
+      {
+        "sector": "Technology",
+        "momentum": 1.5876828761651098,
+        "relativeStrength": 1.0438302183432846
+      },
+      {
+        "sector": "Nifty 50",
+        "momentum": 1.207232953925129,
+        "relativeStrength": 1
+      }
+    ]
+  }
+}

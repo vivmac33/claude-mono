@@ -1,0 +1,31 @@
+{
+  "id": "fair-value-forecaster",
+  "label": "Fair Value Forecaster",
+  "category": "value",
+  "tags": ["valuation", "dcf", "intrinsic value", "margin of safety", "fair value"],
+  "description": "Projects future fair value using DCF methodology with probability fan charts, sensitivity analysis, and margin of safety calculations.",
+  "dataSources": ["Fundamentals", "Estimates", "PriceHistory"],
+  "outputs": [
+    "Current price vs fair value",
+    "Margin of safety percentage",
+    "Probability fan chart (P5-P95)",
+    "Sensitivity to growth assumptions",
+    "Value driver attribution",
+    "Upside/downside potential"
+  ],
+  "layout": {
+    "type": "fair-value-forecaster",
+    "sections": [
+      "header-with-valuation-badge",
+      "metrics-strip",
+      "probability-fan-chart",
+      "sensitivity-grid",
+      "value-drivers",
+      "interpretation-footer"
+    ]
+  },
+  "api": {
+    "endpoint": "/api/analytics/fair-value-forecaster",
+    "params": ["symbol", "horizon"]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "tickers": {
+    "AAPL": {
+      "sales_growth_1y": -0.057,
+      "sales_growth_3y": 0.082,
+      "eps_growth_1y": 0.332,
+      "eps_growth_3y": 0.14
+    },
+    "MSFT": {
+      "sales_growth_1y": 0.427,
+      "sales_growth_3y": 0.046,
+      "eps_growth_1y": 0.25,
+      "eps_growth_3y": 0.25
+    },
+    "GOOGL": {
+      "sales_growth_1y": -0.174,
+      "sales_growth_3y": 0.187,
+      "eps_growth_1y": 0.448,
+      "eps_growth_3y": 0.014
+    },
+    "AMZN": {
+      "sales_growth_1y": -0.049,
+      "sales_growth_3y": 0.02,
+      "eps_growth_1y": -0.125,
+      "eps_growth_3y": 0.337
+    },
+    "META": {
+      "sales_growth_1y": -0.199,
+      "sales_growth_3y": 0.103,
+      "eps_growth_1y": -0.1,
+      "eps_growth_3y": 0.336
+    },
+    "NVDA": {
+      "sales_growth_1y": 0.065,
+      "sales_growth_3y": 0.091,
+      "eps_growth_1y": -0.215,
+      "eps_growth_3y": 0.367
+    },
+    "TSLA": {
+      "sales_growth_1y": -0.014,
+      "sales_growth_3y": 0.228,
+      "eps_growth_1y": 0.566,
+      "eps_growth_3y": 0.236
+    },
+    "SPY": {
+      "sales_growth_1y": 0.032,
+      "sales_growth_3y": 0.184,
+      "eps_growth_1y": 0.302,
+      "eps_growth_3y": 0.131
+    },
+    "QQQ": {
+      "sales_growth_1y": 0.257,
+      "sales_growth_3y": 0.121,
+      "eps_growth_1y": 0.211,
+      "eps_growth_3y": 0.151
+    },
+    "IWM": {
+      "sales_growth_1y": 0.056,
+      "sales_growth_3y": 0.128,
+      "eps_growth_1y": 0.34,
+      "eps_growth_3y": 0.21
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "TCS": {
+    "asOf": "2024-12-20",
+    "investmentAmount": 1000000,
+    "funds": [
+      {
+        "schemeCode": "120503",
+        "schemeName": "Axis Bluechip Fund",
+        "category": "Large Cap",
+        "currentWeight": 30,
+        "optimizedWeight": 35,
+        "amount": 300000,
+        "expectedReturn": 12.5,
+        "volatility": 14.2,
+        "sharpeRatio": 0.88
+      },
+      {
+        "schemeCode": "119551",
+        "schemeName": "Parag Parikh Flexicap",
+        "category": "Flexi Cap",
+        "currentWeight": 25,
+        "optimizedWeight": 25,
+        "amount": 250000,
+        "expectedReturn": 14.8,
+        "volatility": 15.5,
+        "sharpeRatio": 0.95
+      },
+      {
+        "schemeCode": "125354",
+        "schemeName": "Mirae Asset Large Cap",
+        "category": "Large Cap",
+        "currentWeight": 20,
+        "optimizedWeight": 15,
+        "amount": 200000,
+        "expectedReturn": 11.8,
+        "volatility": 13.8,
+        "sharpeRatio": 0.85
+      },
+      {
+        "schemeCode": "118989",
+        "schemeName": "SBI Small Cap Fund",
+        "category": "Small Cap",
+        "currentWeight": 15,
+        "optimizedWeight": 15,
+        "amount": 150000,
+        "expectedReturn": 18.5,
+        "volatility": 22.5,
+        "sharpeRatio": 0.82
+      },
+      {
+        "schemeCode": "119597",
+        "schemeName": "HDFC Balanced Advantage",
+        "category": "Hybrid",
+        "currentWeight": 10,
+        "optimizedWeight": 10,
+        "amount": 100000,
+        "expectedReturn": 10.2,
+        "volatility": 10.5,
+        "sharpeRatio": 0.97
+      }
+    ],
+    "correlationMatrix": [
+      [
+        1,
+        0.85,
+        0.82,
+        0.65,
+        0.55
+      ],
+      [
+        0.85,
+        1,
+        0.78,
+        0.72,
+        0.58
+      ],
+      [
+        0.82,
+        0.78,
+        1,
+        0.68,
+        0.52
+      ],
+      [
+        0.65,
+        0.72,
+        0.68,
+        1,
+        0.45
+      ],
+      [
+        0.55,
+        0.58,
+        0.52,
+        0.45,
+        1
+      ]
+    ],
+    "efficientFrontier": [
+      {
+        "risk": 10,
+        "return": 8.5,
+        "weights": {},
+        "sharpe": 0.85
+      },
+      {
+        "risk": 12,
+        "return": 10.8,
+        "weights": {},
+        "sharpe": 0.9
+      },
+      {
+        "risk": 14,
+        "return": 12.5,
+        "weights": {},
+        "sharpe": 0.89,
+        "isOptimal": true,
+        "label": "Optimal"
+      },
+      {
+        "risk": 16,
+        "return": 13.8,
+        "weights": {},
+        "sharpe": 0.86
+      },
+      {
+        "risk": 18,
+        "return": 14.8,
+        "weights": {},
+        "sharpe": 0.82
+      }
+    ],
+    "currentPortfolio": {
+      "expectedReturn": 13.2,
+      "volatility": 15.8,
+      "sharpeRatio": 0.84,
+      "maxDrawdown": -18.5,
+      "diversificationScore": 72
+    },
+    "optimizedPortfolio": {
+      "expectedReturn": 13.8,
+      "volatility": 14.2,
+      "sharpeRatio": 0.97,
+      "maxDrawdown": -15.2,
+      "diversificationScore": 85
+    },
+    "recommendations": [
+      {
+        "action": "increase",
+        "fund": "Axis Bluechip Fund",
+        "from": 30,
+        "to": 35,
+        "reason": "Higher Sharpe ratio in optimized portfolio"
+      },
+      {
+        "action": "decrease",
+        "fund": "Mirae Asset Large Cap",
+        "from": 20,
+        "to": 15,
+        "reason": "High correlation with Axis Bluechip"
+      }
+    ],
+    "assetAllocation": {
+      "equity": 85,
+      "debt": 5,
+      "hybrid": 10,
+      "other": 0
+    },
+    "capAllocation": {
+      "largeCap": 50,
+      "midCap": 20,
+      "smallCap": 15
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "portfolioId": "default",
+  "asOf": "2024-12-20",
+  "totalValue": 1000000,
+  "currentAllocation": [
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy",
+      "currentWeight": 18,
+      "targetWeight": 15,
+      "drift": 3,
+      "action": "Sell",
+      "shares": 50,
+      "value": 180000
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys",
+      "currentWeight": 10,
+      "targetWeight": 12,
+      "drift": -2,
+      "action": "Buy",
+      "shares": 40,
+      "value": 100000
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank",
+      "currentWeight": 14,
+      "targetWeight": 15,
+      "drift": -1,
+      "action": "Buy",
+      "shares": 20,
+      "value": 140000
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance",
+      "currentWeight": 20,
+      "targetWeight": 18,
+      "drift": 2,
+      "action": "Sell",
+      "shares": 15,
+      "value": 200000
+    }
+  ],
+  "metricsBefore": {
+    "expectedReturn": 14.5,
+    "volatility": 18.2,
+    "sharpe": 0.65,
+    "maxDrawdown": -15.5
+  },
+  "metricsAfter": {
+    "expectedReturn": 14.8,
+    "volatility": 17.5,
+    "sharpe": 0.72,
+    "maxDrawdown": -14.2
+  },
+  "rebalanceTrades": [
+    {
+      "symbol": "TCS",
+      "action": "Sell",
+      "shares": 50,
+      "value": 185000
+    },
+    {
+      "symbol": "INFY",
+      "action": "Buy",
+      "shares": 40,
+      "value": 72000
+    },
+    {
+      "symbol": "HDFCBANK",
+      "action": "Buy",
+      "shares": 20,
+      "value": 35000
+    },
+    {
+      "symbol": "RELIANCE",
+      "action": "Sell",
+      "shares": 15,
+      "value": 42000
+    }
+  ],
+  "taxImpact": 12500,
+  "urgency": "Medium"
+}

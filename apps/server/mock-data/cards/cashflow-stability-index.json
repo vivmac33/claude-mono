@@ -1,0 +1,827 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 85,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 10.776460128489461,
+      "fcfVolatility": 11.923507837373888,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.1660491133842295
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 85,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 9.627241189981326,
+      "fcfVolatility": 11.446945478641492,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.1590425781029789
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 91,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 8.12603901829149,
+      "fcfVolatility": 11.299987010832623,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.13668142910165273
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 86,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 11.318074872454776,
+      "fcfVolatility": 13.841942606869594,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.1382645996928082
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 93,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 11.976271422173255,
+      "fcfVolatility": 15.66895881208858,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.1477649265799465
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 94,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 10.28579763480285,
+      "fcfVolatility": 14.301257009635378,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.12820035886585116
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 86,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 8.549703341088696,
+      "fcfVolatility": 12.082132591167685,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.14305801033488452
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 87,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 10.087041342276912,
+      "fcfVolatility": 10.888356222486447,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.13256017124856226
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 89,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 11.552835320182862,
+      "fcfVolatility": 10.918069300365868,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.1651104820038141
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 91,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 12.730910487782051,
+      "fcfVolatility": 10.512194828077577,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.1385321076074961
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 85,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 12.860659654257743,
+      "fcfVolatility": 10.35311022611622,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.13026850201579873
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 86,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 10.275924902104764,
+      "fcfVolatility": 12.74882659210674,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.14789826130258865
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 92,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 12.326986016928949,
+      "fcfVolatility": 13.929543356049415,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.14326681644224543
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 94,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 11.423272453262385,
+      "fcfVolatility": 14.552470865181068,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.13102661092412562
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "stabilityIndex": 93,
+    "grade": "A",
+    "metrics": {
+      "ocfVolatility": 9.637967054870549,
+      "fcfVolatility": 11.699163511271342,
+      "ocfPositiveYears": 10,
+      "totalYears": 10,
+      "coefficientOfVariation": 0.16297349917801252
+    },
+    "historicalCashflow": [
+      {
+        "period": "FY20",
+        "ocf": 32000,
+        "fcf": 28000,
+        "capex": 4000
+      },
+      {
+        "period": "FY21",
+        "ocf": 36000,
+        "fcf": 31000,
+        "capex": 5000
+      },
+      {
+        "period": "FY22",
+        "ocf": 41000,
+        "fcf": 36000,
+        "capex": 5000
+      },
+      {
+        "period": "FY23",
+        "ocf": 45000,
+        "fcf": 40000,
+        "capex": 5000
+      },
+      {
+        "period": "FY24",
+        "ocf": 48000,
+        "fcf": 43000,
+        "capex": 5000
+      }
+    ],
+    "consistency": {
+      "streakYears": 10,
+      "averageOCF": 40000,
+      "trend": "Growing"
+    },
+    "qualityIndicators": {
+      "ocfToNetIncome": 1.1,
+      "fcfToOcf": 0.9,
+      "capexIntensity": 0.1
+    }
+  }
+}

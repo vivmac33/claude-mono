@@ -1,0 +1,1427 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 1,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "totalScore": 8,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": false,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 1,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": false,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": false,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 1,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": false,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "totalScore": 8,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": false,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": false,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 1,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": false,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "totalScore": 8,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 1,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": false,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "totalScore": 8,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": false,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": false,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": false,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": true,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "totalScore": 7,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": false,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "totalScore": 8,
+    "verdict": "Strong",
+    "previousScore": 6,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": true,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 1,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": false,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": false,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "totalScore": 8,
+    "verdict": "Strong",
+    "previousScore": 7,
+    "trend": "Improving",
+    "categories": {
+      "profitability": {
+        "score": 4,
+        "maxScore": 4,
+        "items": [
+          {
+            "name": "Positive Net Income",
+            "pass": true,
+            "value": "₹46,850 Cr"
+          },
+          {
+            "name": "Positive Operating CF",
+            "pass": true,
+            "value": "₹52,500 Cr"
+          },
+          {
+            "name": "ROA Improvement",
+            "pass": false,
+            "value": "+1.2%"
+          },
+          {
+            "name": "CFO > Net Income",
+            "pass": true,
+            "value": "112%"
+          }
+        ]
+      },
+      "leverage": {
+        "score": 2,
+        "maxScore": 3,
+        "items": [
+          {
+            "name": "Lower Long-term Debt",
+            "pass": true,
+            "value": "-5%"
+          },
+          {
+            "name": "Higher Current Ratio",
+            "pass": true,
+            "value": "2.8x"
+          },
+          {
+            "name": "No New Shares",
+            "pass": true,
+            "value": "No dilution"
+          }
+        ]
+      },
+      "efficiency": {
+        "score": 2,
+        "maxScore": 2,
+        "items": [
+          {
+            "name": "Higher Gross Margin",
+            "pass": true,
+            "value": "42.5%"
+          },
+          {
+            "name": "Higher Asset Turnover",
+            "pass": false,
+            "value": "1.15x"
+          }
+        ]
+      }
+    },
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 6
+      },
+      {
+        "year": "2021",
+        "score": 7
+      },
+      {
+        "year": "2022",
+        "score": 7
+      },
+      {
+        "year": "2023",
+        "score": 8
+      },
+      {
+        "year": "2024",
+        "score": 8
+      }
+    ]
+  }
+}

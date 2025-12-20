@@ -1,0 +1,48 @@
+{
+  "title": "Portfolio Correlation \u00b7 Sample Holdings",
+  "tickers": [
+    "AAA",
+    "BBB",
+    "CCC",
+    "DDD",
+    "EEE"
+  ],
+  "matrix": [
+    [
+      1.0,
+      0.72,
+      0.55,
+      0.6,
+      0.3
+    ],
+    [
+      0.72,
+      1.0,
+      0.48,
+      0.52,
+      0.25
+    ],
+    [
+      0.55,
+      0.48,
+      1.0,
+      0.88,
+      0.2
+    ],
+    [
+      0.6,
+      0.52,
+      0.88,
+      1.0,
+      0.22
+    ],
+    [
+      0.3,
+      0.25,
+      0.2,
+      0.22,
+      1.0
+    ]
+  ],
+  "meta": "Toy correlation matrix for a 5-name portfolio."
+}

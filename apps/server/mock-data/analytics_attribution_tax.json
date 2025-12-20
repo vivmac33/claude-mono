@@ -1,0 +1,36 @@
+{
+  "title": "Attribution & Tax Optimizer \u00b7 Sample Period",
+  "contributors": [
+    {
+      "symbol": "AAA",
+      "pnl_pct": 4.1
+    },
+    {
+      "symbol": "CCC",
+      "pnl_pct": 2.6
+    }
+  ],
+  "detractors": [
+    {
+      "symbol": "DDD",
+      "pnl_pct": -1.9
+    },
+    {
+      "symbol": "EEE",
+      "pnl_pct": -1.2
+    }
+  ],
+  "tax_lots": [
+    {
+      "symbol": "AAA",
+      "holding_period_days": 230,
+      "lt": true
+    },
+    {
+      "symbol": "DDD",
+      "holding_period_days": 40,
+      "lt": false
+    }
+  ],
+  "meta": "Very rough attribution and tax-lot sketch."
+}

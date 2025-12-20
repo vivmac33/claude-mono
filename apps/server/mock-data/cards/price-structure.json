@@ -1,0 +1,65 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "currentPrice": 3720,
+    "structure": "Higher Highs",
+    "levels": {
+      "resistance": [
+        {
+          "price": 3800,
+          "strength": "strong",
+          "type": "Previous High"
+        },
+        {
+          "price": 3850,
+          "strength": "moderate",
+          "type": "Fibonacci 61.8%"
+        },
+        {
+          "price": 3900,
+          "strength": "weak",
+          "type": "Round Number"
+        }
+      ],
+      "support": [
+        {
+          "price": 3650,
+          "strength": "strong",
+          "type": "20 DMA"
+        },
+        {
+          "price": 3600,
+          "strength": "moderate",
+          "type": "Previous Low"
+        },
+        {
+          "price": 3500,
+          "strength": "strong",
+          "type": "50 DMA"
+        }
+      ]
+    },
+    "pivots": {
+      "r3": 3920,
+      "r2": 3850,
+      "r1": 3780,
+      "pivot": 3710,
+      "s1": 3640,
+      "s2": 3570,
+      "s3": 3500
+    },
+    "keyLevels": {
+      "previousDayHigh": 3735,
+      "previousDayLow": 3695,
+      "weekHigh": 3750,
+      "weekLow": 3680
+    },
+    "nearestLevels": {
+      "resistance": 3800,
+      "resistanceDist": 2.15,
+      "support": 3650,
+      "supportDist": -1.88
+    }
+  }
+}

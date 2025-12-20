@@ -1,0 +1,74 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "currentYield": 1.45,
+    "forwardYield": 1.58,
+    "dividendGrowthRate5Y": 12.5,
+    "payoutRatio": 42,
+    "consecutiveYearsGrowth": 12,
+    "dividendSafety": "Very Safe",
+    "projection": [
+      {
+        "year": "2024",
+        "dividend": 54,
+        "yieldOnCost": 1.45
+      },
+      {
+        "year": "2025",
+        "dividend": 61,
+        "yieldOnCost": 1.64
+      },
+      {
+        "year": "2026",
+        "dividend": 68,
+        "yieldOnCost": 1.83
+      },
+      {
+        "year": "2027",
+        "dividend": 77,
+        "yieldOnCost": 2.07
+      },
+      {
+        "year": "2028",
+        "dividend": 86,
+        "yieldOnCost": 2.31
+      }
+    ],
+    "historicalDividends": [
+      {
+        "year": "2020",
+        "dividend": 36,
+        "growth": 8.5
+      },
+      {
+        "year": "2021",
+        "dividend": 40,
+        "growth": 11.1
+      },
+      {
+        "year": "2022",
+        "dividend": 45,
+        "growth": 12.5
+      },
+      {
+        "year": "2023",
+        "dividend": 50,
+        "growth": 11.1
+      },
+      {
+        "year": "2024",
+        "dividend": 54,
+        "growth": 8
+      }
+    ],
+    "incomeScenarios": {
+      "conservative": 58,
+      "base": 61,
+      "optimistic": 68
+    },
+    "nextExDate": "2025-01-15",
+    "nextPayDate": "2025-01-28",
+    "nextAmount": 15
+  }
+}

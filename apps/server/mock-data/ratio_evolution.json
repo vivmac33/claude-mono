@@ -1,0 +1,1205 @@
+{
+  "symbol": "AAPL",
+  "series": [
+    {
+      "t": "2024-09-26",
+      "pe": 32.57,
+      "growthSales": -0.032,
+      "growthEps": 0.148
+    },
+    {
+      "t": "2024-09-27",
+      "pe": 36.92,
+      "growthSales": 0.086,
+      "growthEps": 0.034
+    },
+    {
+      "t": "2024-09-30",
+      "pe": 27.5,
+      "growthSales": 0.038,
+      "growthEps": -0.027
+    },
+    {
+      "t": "2024-10-01",
+      "pe": 18.05,
+      "growthSales": 0.054,
+      "growthEps": 0.055
+    },
+    {
+      "t": "2024-10-02",
+      "pe": 26.01,
+      "growthSales": 0.068,
+      "growthEps": 0.068
+    },
+    {
+      "t": "2024-10-03",
+      "pe": 40.92,
+      "growthSales": 0.047,
+      "growthEps": -0.039
+    },
+    {
+      "t": "2024-10-04",
+      "pe": 44.99,
+      "growthSales": -0.004,
+      "growthEps": 0.025
+    },
+    {
+      "t": "2024-10-07",
+      "pe": 46.73,
+      "growthSales": -0.098,
+      "growthEps": 0.081
+    },
+    {
+      "t": "2024-10-08",
+      "pe": 27.9,
+      "growthSales": 0.093,
+      "growthEps": 0.069
+    },
+    {
+      "t": "2024-10-09",
+      "pe": 39.62,
+      "growthSales": -0.006,
+      "growthEps": 0.241
+    },
+    {
+      "t": "2024-10-10",
+      "pe": 27.32,
+      "growthSales": 0.178,
+      "growthEps": 0.267
+    },
+    {
+      "t": "2024-10-11",
+      "pe": 24.19,
+      "growthSales": 0.06,
+      "growthEps": -0.151
+    },
+    {
+      "t": "2024-10-14",
+      "pe": 27.64,
+      "growthSales": 0.208,
+      "growthEps": 0.015
+    },
+    {
+      "t": "2024-10-15",
+      "pe": 28.68,
+      "growthSales": 0.14,
+      "growthEps": 0.276
+    },
+    {
+      "t": "2024-10-16",
+      "pe": 15.9,
+      "growthSales": 0.073,
+      "growthEps": 0.076
+    },
+    {
+      "t": "2024-10-17",
+      "pe": 23.18,
+      "growthSales": 0.247,
+      "growthEps": -0.115
+    },
+    {
+      "t": "2024-10-18",
+      "pe": 41.79,
+      "growthSales": -0.061,
+      "growthEps": 0.262
+    },
+    {
+      "t": "2024-10-21",
+      "pe": 35.03,
+      "growthSales": 0.121,
+      "growthEps": -0.178
+    },
+    {
+      "t": "2024-10-22",
+      "pe": 31.29,
+      "growthSales": 0.105,
+      "growthEps": 0.232
+    },
+    {
+      "t": "2024-10-23",
+      "pe": 31.87,
+      "growthSales": -0.085,
+      "growthEps": 0.048
+    },
+    {
+      "t": "2024-10-24",
+      "pe": 29.91,
+      "growthSales": -0.04,
+      "growthEps": 0.263
+    },
+    {
+      "t": "2024-10-25",
+      "pe": 38.19,
+      "growthSales": 0.126,
+      "growthEps": -0.038
+    },
+    {
+      "t": "2024-10-28",
+      "pe": 33.6,
+      "growthSales": 0.156,
+      "growthEps": 0.293
+    },
+    {
+      "t": "2024-10-29",
+      "pe": 18.63,
+      "growthSales": 0.035,
+      "growthEps": 0.022
+    },
+    {
+      "t": "2024-10-30",
+      "pe": 45.44,
+      "growthSales": 0.226,
+      "growthEps": 0.134
+    },
+    {
+      "t": "2024-10-31",
+      "pe": 25.07,
+      "growthSales": 0.039,
+      "growthEps": 0.061
+    },
+    {
+      "t": "2024-11-01",
+      "pe": 16.92,
+      "growthSales": 0.024,
+      "growthEps": -0.104
+    },
+    {
+      "t": "2024-11-04",
+      "pe": 22.13,
+      "growthSales": 0.182,
+      "growthEps": 0.155
+    },
+    {
+      "t": "2024-11-05",
+      "pe": 15.29,
+      "growthSales": 0.094,
+      "growthEps": 0.296
+    },
+    {
+      "t": "2024-11-06",
+      "pe": 46.82,
+      "growthSales": 0.138,
+      "growthEps": 0.131
+    },
+    {
+      "t": "2024-11-07",
+      "pe": 29.09,
+      "growthSales": -0.026,
+      "growthEps": 0.157
+    },
+    {
+      "t": "2024-11-08",
+      "pe": 18.66,
+      "growthSales": -0.05,
+      "growthEps": -0.0
+    },
+    {
+      "t": "2024-11-11",
+      "pe": 22.11,
+      "growthSales": 0.074,
+      "growthEps": 0.049
+    },
+    {
+      "t": "2024-11-12",
+      "pe": 22.47,
+      "growthSales": 0.099,
+      "growthEps": 0.119
+    },
+    {
+      "t": "2024-11-13",
+      "pe": 47.82,
+      "growthSales": 0.095,
+      "growthEps": -0.117
+    },
+    {
+      "t": "2024-11-14",
+      "pe": 24.03,
+      "growthSales": 0.124,
+      "growthEps": 0.135
+    },
+    {
+      "t": "2024-11-15",
+      "pe": 17.56,
+      "growthSales": 0.13,
+      "growthEps": 0.083
+    },
+    {
+      "t": "2024-11-18",
+      "pe": 33.91,
+      "growthSales": -0.064,
+      "growthEps": -0.142
+    },
+    {
+      "t": "2024-11-19",
+      "pe": 24.42,
+      "growthSales": -0.024,
+      "growthEps": 0.067
+    },
+    {
+      "t": "2024-11-20",
+      "pe": 47.75,
+      "growthSales": 0.056,
+      "growthEps": -0.003
+    },
+    {
+      "t": "2024-11-21",
+      "pe": 20.02,
+      "growthSales": 0.054,
+      "growthEps": 0.214
+    },
+    {
+      "t": "2024-11-22",
+      "pe": 45.36,
+      "growthSales": 0.033,
+      "growthEps": 0.024
+    },
+    {
+      "t": "2024-11-25",
+      "pe": 33.93,
+      "growthSales": 0.145,
+      "growthEps": -0.178
+    },
+    {
+      "t": "2024-11-26",
+      "pe": 41.25,
+      "growthSales": 0.044,
+      "growthEps": -0.106
+    },
+    {
+      "t": "2024-11-27",
+      "pe": 39.98,
+      "growthSales": 0.079,
+      "growthEps": 0.123
+    },
+    {
+      "t": "2024-11-28",
+      "pe": 25.89,
+      "growthSales": -0.047,
+      "growthEps": 0.269
+    },
+    {
+      "t": "2024-11-29",
+      "pe": 35.55,
+      "growthSales": 0.113,
+      "growthEps": 0.275
+    },
+    {
+      "t": "2024-12-02",
+      "pe": 29.01,
+      "growthSales": 0.212,
+      "growthEps": 0.128
+    },
+    {
+      "t": "2024-12-03",
+      "pe": 17.32,
+      "growthSales": 0.006,
+      "growthEps": -0.148
+    },
+    {
+      "t": "2024-12-04",
+      "pe": 34.02,
+      "growthSales": 0.004,
+      "growthEps": 0.116
+    },
+    {
+      "t": "2024-12-05",
+      "pe": 47.12,
+      "growthSales": 0.018,
+      "growthEps": -0.182
+    },
+    {
+      "t": "2024-12-06",
+      "pe": 32.53,
+      "growthSales": -0.012,
+      "growthEps": -0.144
+    },
+    {
+      "t": "2024-12-09",
+      "pe": 19.75,
+      "growthSales": -0.071,
+      "growthEps": 0.231
+    },
+    {
+      "t": "2024-12-10",
+      "pe": 32.12,
+      "growthSales": 0.172,
+      "growthEps": 0.087
+    },
+    {
+      "t": "2024-12-11",
+      "pe": 24.38,
+      "growthSales": -0.066,
+      "growthEps": -0.031
+    },
+    {
+      "t": "2024-12-12",
+      "pe": 19.87,
+      "growthSales": -0.093,
+      "growthEps": -0.123
+    },
+    {
+      "t": "2024-12-13",
+      "pe": 40.89,
+      "growthSales": -0.045,
+      "growthEps": 0.263
+    },
+    {
+      "t": "2024-12-16",
+      "pe": 21.97,
+      "growthSales": -0.027,
+      "growthEps": 0.174
+    },
+    {
+      "t": "2024-12-17",
+      "pe": 31.57,
+      "growthSales": 0.147,
+      "growthEps": -0.031
+    },
+    {
+      "t": "2024-12-18",
+      "pe": 28.44,
+      "growthSales": 0.186,
+      "growthEps": 0.238
+    },
+    {
+      "t": "2024-12-19",
+      "pe": 35.0,
+      "growthSales": 0.191,
+      "growthEps": -0.187
+    },
+    {
+      "t": "2024-12-20",
+      "pe": 26.76,
+      "growthSales": 0.115,
+      "growthEps": 0.145
+    },
+    {
+      "t": "2024-12-23",
+      "pe": 44.88,
+      "growthSales": -0.048,
+      "growthEps": 0.093
+    },
+    {
+      "t": "2024-12-24",
+      "pe": 28.06,
+      "growthSales": 0.208,
+      "growthEps": 0.226
+    },
+    {
+      "t": "2024-12-25",
+      "pe": 36.43,
+      "growthSales": -0.055,
+      "growthEps": 0.277
+    },
+    {
+      "t": "2024-12-26",
+      "pe": 42.49,
+      "growthSales": 0.235,
+      "growthEps": 0.275
+    },
+    {
+      "t": "2024-12-27",
+      "pe": 15.79,
+      "growthSales": 0.196,
+      "growthEps": 0.247
+    },
+    {
+      "t": "2024-12-30",
+      "pe": 45.2,
+      "growthSales": -0.089,
+      "growthEps": 0.14
+    },
+    {
+      "t": "2024-12-31",
+      "pe": 37.9,
+      "growthSales": 0.188,
+      "growthEps": -0.09
+    },
+    {
+      "t": "2025-01-01",
+      "pe": 15.13,
+      "growthSales": -0.092,
+      "growthEps": 0.083
+    },
+    {
+      "t": "2025-01-02",
+      "pe": 45.47,
+      "growthSales": -0.082,
+      "growthEps": 0.103
+    },
+    {
+      "t": "2025-01-03",
+      "pe": 47.52,
+      "growthSales": -0.052,
+      "growthEps": -0.118
+    },
+    {
+      "t": "2025-01-06",
+      "pe": 47.31,
+      "growthSales": 0.067,
+      "growthEps": 0.022
+    },
+    {
+      "t": "2025-01-07",
+      "pe": 36.4,
+      "growthSales": 0.017,
+      "growthEps": 0.094
+    },
+    {
+      "t": "2025-01-08",
+      "pe": 35.9,
+      "growthSales": 0.11,
+      "growthEps": 0.207
+    },
+    {
+      "t": "2025-01-09",
+      "pe": 37.49,
+      "growthSales": 0.207,
+      "growthEps": 0.203
+    },
+    {
+      "t": "2025-01-10",
+      "pe": 26.04,
+      "growthSales": 0.137,
+      "growthEps": 0.286
+    },
+    {
+      "t": "2025-01-13",
+      "pe": 49.94,
+      "growthSales": -0.008,
+      "growthEps": 0.212
+    },
+    {
+      "t": "2025-01-14",
+      "pe": 38.15,
+      "growthSales": 0.157,
+      "growthEps": -0.091
+    },
+    {
+      "t": "2025-01-15",
+      "pe": 27.35,
+      "growthSales": 0.176,
+      "growthEps": 0.261
+    },
+    {
+      "t": "2025-01-16",
+      "pe": 20.09,
+      "growthSales": 0.25,
+      "growthEps": 0.243
+    },
+    {
+      "t": "2025-01-17",
+      "pe": 43.46,
+      "growthSales": -0.024,
+      "growthEps": 0.177
+    },
+    {
+      "t": "2025-01-20",
+      "pe": 15.63,
+      "growthSales": -0.007,
+      "growthEps": 0.253
+    },
+    {
+      "t": "2025-01-21",
+      "pe": 26.23,
+      "growthSales": 0.038,
+      "growthEps": -0.197
+    },
+    {
+      "t": "2025-01-22",
+      "pe": 46.75,
+      "growthSales": 0.232,
+      "growthEps": -0.174
+    },
+    {
+      "t": "2025-01-23",
+      "pe": 33.88,
+      "growthSales": 0.119,
+      "growthEps": -0.116
+    },
+    {
+      "t": "2025-01-24",
+      "pe": 34.08,
+      "growthSales": 0.228,
+      "growthEps": -0.111
+    },
+    {
+      "t": "2025-01-27",
+      "pe": 30.74,
+      "growthSales": 0.011,
+      "growthEps": 0.147
+    },
+    {
+      "t": "2025-01-28",
+      "pe": 28.44,
+      "growthSales": -0.074,
+      "growthEps": -0.038
+    },
+    {
+      "t": "2025-01-29",
+      "pe": 36.28,
+      "growthSales": -0.022,
+      "growthEps": 0.286
+    },
+    {
+      "t": "2025-01-30",
+      "pe": 20.02,
+      "growthSales": 0.214,
+      "growthEps": 0.161
+    },
+    {
+      "t": "2025-01-31",
+      "pe": 47.83,
+      "growthSales": -0.029,
+      "growthEps": -0.051
+    },
+    {
+      "t": "2025-02-03",
+      "pe": 41.17,
+      "growthSales": -0.093,
+      "growthEps": -0.082
+    },
+    {
+      "t": "2025-02-04",
+      "pe": 43.6,
+      "growthSales": 0.021,
+      "growthEps": 0.145
+    },
+    {
+      "t": "2025-02-05",
+      "pe": 48.38,
+      "growthSales": 0.238,
+      "growthEps": 0.245
+    },
+    {
+      "t": "2025-02-06",
+      "pe": 46.24,
+      "growthSales": 0.119,
+      "growthEps": 0.053
+    },
+    {
+      "t": "2025-02-07",
+      "pe": 21.5,
+      "growthSales": 0.011,
+      "growthEps": 0.087
+    },
+    {
+      "t": "2025-02-10",
+      "pe": 23.58,
+      "growthSales": -0.059,
+      "growthEps": 0.09
+    },
+    {
+      "t": "2025-02-11",
+      "pe": 46.2,
+      "growthSales": 0.22,
+      "growthEps": -0.125
+    },
+    {
+      "t": "2025-02-12",
+      "pe": 45.87,
+      "growthSales": 0.189,
+      "growthEps": -0.127
+    },
+    {
+      "t": "2025-02-13",
+      "pe": 42.17,
+      "growthSales": -0.051,
+      "growthEps": 0.127
+    },
+    {
+      "t": "2025-02-14",
+      "pe": 34.52,
+      "growthSales": -0.099,
+      "growthEps": 0.2
+    },
+    {
+      "t": "2025-02-17",
+      "pe": 30.3,
+      "growthSales": 0.067,
+      "growthEps": 0.273
+    },
+    {
+      "t": "2025-02-18",
+      "pe": 30.27,
+      "growthSales": -0.028,
+      "growthEps": -0.04
+    },
+    {
+      "t": "2025-02-19",
+      "pe": 16.0,
+      "growthSales": -0.057,
+      "growthEps": -0.038
+    },
+    {
+      "t": "2025-02-20",
+      "pe": 43.14,
+      "growthSales": 0.068,
+      "growthEps": -0.189
+    },
+    {
+      "t": "2025-02-21",
+      "pe": 41.09,
+      "growthSales": 0.172,
+      "growthEps": 0.125
+    },
+    {
+      "t": "2025-02-24",
+      "pe": 19.71,
+      "growthSales": -0.058,
+      "growthEps": 0.138
+    },
+    {
+      "t": "2025-02-25",
+      "pe": 23.79,
+      "growthSales": 0.23,
+      "growthEps": 0.117
+    },
+    {
+      "t": "2025-02-26",
+      "pe": 39.73,
+      "growthSales": 0.056,
+      "growthEps": -0.063
+    },
+    {
+      "t": "2025-02-27",
+      "pe": 28.58,
+      "growthSales": 0.236,
+      "growthEps": 0.069
+    },
+    {
+      "t": "2025-02-28",
+      "pe": 37.86,
+      "growthSales": 0.207,
+      "growthEps": 0.286
+    },
+    {
+      "t": "2025-03-03",
+      "pe": 25.59,
+      "growthSales": 0.107,
+      "growthEps": -0.14
+    },
+    {
+      "t": "2025-03-04",
+      "pe": 29.81,
+      "growthSales": 0.2,
+      "growthEps": 0.014
+    },
+    {
+      "t": "2025-03-05",
+      "pe": 20.94,
+      "growthSales": -0.025,
+      "growthEps": 0.008
+    },
+    {
+      "t": "2025-03-06",
+      "pe": 45.53,
+      "growthSales": 0.112,
+      "growthEps": -0.116
+    },
+    {
+      "t": "2025-03-07",
+      "pe": 48.38,
+      "growthSales": 0.094,
+      "growthEps": 0.26
+    },
+    {
+      "t": "2025-03-10",
+      "pe": 21.58,
+      "growthSales": -0.086,
+      "growthEps": -0.011
+    },
+    {
+      "t": "2025-03-11",
+      "pe": 21.72,
+      "growthSales": 0.013,
+      "growthEps": 0.138
+    },
+    {
+      "t": "2025-03-12",
+      "pe": 21.41,
+      "growthSales": 0.236,
+      "growthEps": 0.039
+    },
+    {
+      "t": "2025-03-13",
+      "pe": 22.29,
+      "growthSales": 0.141,
+      "growthEps": -0.016
+    },
+    {
+      "t": "2025-03-14",
+      "pe": 29.15,
+      "growthSales": 0.152,
+      "growthEps": 0.078
+    },
+    {
+      "t": "2025-03-17",
+      "pe": 38.45,
+      "growthSales": 0.145,
+      "growthEps": -0.149
+    },
+    {
+      "t": "2025-03-18",
+      "pe": 27.43,
+      "growthSales": 0.013,
+      "growthEps": -0.118
+    },
+    {
+      "t": "2025-03-19",
+      "pe": 17.63,
+      "growthSales": 0.082,
+      "growthEps": -0.108
+    },
+    {
+      "t": "2025-03-20",
+      "pe": 34.94,
+      "growthSales": 0.095,
+      "growthEps": -0.032
+    },
+    {
+      "t": "2025-03-21",
+      "pe": 43.97,
+      "growthSales": 0.147,
+      "growthEps": -0.128
+    },
+    {
+      "t": "2025-03-24",
+      "pe": 24.81,
+      "growthSales": 0.002,
+      "growthEps": -0.02
+    },
+    {
+      "t": "2025-03-25",
+      "pe": 20.7,
+      "growthSales": -0.054,
+      "growthEps": -0.023
+    },
+    {
+      "t": "2025-03-26",
+      "pe": 25.03,
+      "growthSales": -0.08,
+      "growthEps": 0.106
+    },
+    {
+      "t": "2025-03-27",
+      "pe": 37.5,
+      "growthSales": -0.052,
+      "growthEps": -0.154
+    },
+    {
+      "t": "2025-03-28",
+      "pe": 16.16,
+      "growthSales": 0.238,
+      "growthEps": -0.107
+    },
+    {
+      "t": "2025-03-31",
+      "pe": 17.79,
+      "growthSales": 0.187,
+      "growthEps": -0.189
+    },
+    {
+      "t": "2025-04-01",
+      "pe": 34.21,
+      "growthSales": 0.189,
+      "growthEps": -0.171
+    },
+    {
+      "t": "2025-04-02",
+      "pe": 47.0,
+      "growthSales": 0.014,
+      "growthEps": 0.211
+    },
+    {
+      "t": "2025-04-03",
+      "pe": 43.76,
+      "growthSales": -0.027,
+      "growthEps": -0.112
+    },
+    {
+      "t": "2025-04-04",
+      "pe": 33.24,
+      "growthSales": 0.034,
+      "growthEps": -0.125
+    },
+    {
+      "t": "2025-04-07",
+      "pe": 33.6,
+      "growthSales": 0.183,
+      "growthEps": 0.117
+    },
+    {
+      "t": "2025-04-08",
+      "pe": 20.04,
+      "growthSales": 0.002,
+      "growthEps": 0.062
+    },
+    {
+      "t": "2025-04-09",
+      "pe": 39.29,
+      "growthSales": 0.121,
+      "growthEps": -0.093
+    },
+    {
+      "t": "2025-04-10",
+      "pe": 38.13,
+      "growthSales": 0.173,
+      "growthEps": -0.17
+    },
+    {
+      "t": "2025-04-11",
+      "pe": 29.99,
+      "growthSales": 0.176,
+      "growthEps": 0.038
+    },
+    {
+      "t": "2025-04-14",
+      "pe": 34.53,
+      "growthSales": 0.087,
+      "growthEps": -0.02
+    },
+    {
+      "t": "2025-04-15",
+      "pe": 38.57,
+      "growthSales": 0.113,
+      "growthEps": 0.113
+    },
+    {
+      "t": "2025-04-16",
+      "pe": 27.63,
+      "growthSales": -0.079,
+      "growthEps": 0.135
+    },
+    {
+      "t": "2025-04-17",
+      "pe": 23.57,
+      "growthSales": 0.181,
+      "growthEps": 0.107
+    },
+    {
+      "t": "2025-04-18",
+      "pe": 25.36,
+      "growthSales": -0.089,
+      "growthEps": 0.129
+    },
+    {
+      "t": "2025-04-21",
+      "pe": 34.44,
+      "growthSales": 0.014,
+      "growthEps": 0.136
+    },
+    {
+      "t": "2025-04-22",
+      "pe": 36.91,
+      "growthSales": -0.086,
+      "growthEps": 0.091
+    },
+    {
+      "t": "2025-04-23",
+      "pe": 44.34,
+      "growthSales": -0.085,
+      "growthEps": 0.296
+    },
+    {
+      "t": "2025-04-24",
+      "pe": 28.05,
+      "growthSales": 0.118,
+      "growthEps": 0.221
+    },
+    {
+      "t": "2025-04-25",
+      "pe": 28.46,
+      "growthSales": 0.009,
+      "growthEps": 0.168
+    },
+    {
+      "t": "2025-04-28",
+      "pe": 40.98,
+      "growthSales": 0.038,
+      "growthEps": 0.123
+    },
+    {
+      "t": "2025-04-29",
+      "pe": 47.76,
+      "growthSales": 0.17,
+      "growthEps": -0.01
+    },
+    {
+      "t": "2025-04-30",
+      "pe": 25.28,
+      "growthSales": -0.062,
+      "growthEps": 0.188
+    },
+    {
+      "t": "2025-05-01",
+      "pe": 17.33,
+      "growthSales": 0.087,
+      "growthEps": 0.294
+    },
+    {
+      "t": "2025-05-02",
+      "pe": 29.08,
+      "growthSales": 0.144,
+      "growthEps": 0.094
+    },
+    {
+      "t": "2025-05-05",
+      "pe": 37.18,
+      "growthSales": -0.031,
+      "growthEps": -0.173
+    },
+    {
+      "t": "2025-05-06",
+      "pe": 15.41,
+      "growthSales": 0.116,
+      "growthEps": -0.042
+    },
+    {
+      "t": "2025-05-07",
+      "pe": 30.33,
+      "growthSales": 0.071,
+      "growthEps": 0.209
+    },
+    {
+      "t": "2025-05-08",
+      "pe": 15.4,
+      "growthSales": 0.242,
+      "growthEps": 0.054
+    },
+    {
+      "t": "2025-05-09",
+      "pe": 38.69,
+      "growthSales": 0.197,
+      "growthEps": -0.087
+    },
+    {
+      "t": "2025-05-12",
+      "pe": 16.39,
+      "growthSales": 0.117,
+      "growthEps": 0.112
+    },
+    {
+      "t": "2025-05-13",
+      "pe": 43.08,
+      "growthSales": 0.104,
+      "growthEps": 0.253
+    },
+    {
+      "t": "2025-05-14",
+      "pe": 20.19,
+      "growthSales": 0.18,
+      "growthEps": 0.112
+    },
+    {
+      "t": "2025-05-15",
+      "pe": 43.66,
+      "growthSales": -0.023,
+      "growthEps": -0.063
+    },
+    {
+      "t": "2025-05-16",
+      "pe": 45.44,
+      "growthSales": 0.081,
+      "growthEps": 0.245
+    },
+    {
+      "t": "2025-05-19",
+      "pe": 38.2,
+      "growthSales": -0.037,
+      "growthEps": -0.048
+    },
+    {
+      "t": "2025-05-20",
+      "pe": 40.88,
+      "growthSales": 0.149,
+      "growthEps": -0.01
+    },
+    {
+      "t": "2025-05-21",
+      "pe": 36.59,
+      "growthSales": 0.04,
+      "growthEps": 0.036
+    },
+    {
+      "t": "2025-05-22",
+      "pe": 25.33,
+      "growthSales": -0.02,
+      "growthEps": 0.269
+    },
+    {
+      "t": "2025-05-23",
+      "pe": 17.35,
+      "growthSales": 0.088,
+      "growthEps": -0.16
+    },
+    {
+      "t": "2025-05-26",
+      "pe": 37.51,
+      "growthSales": 0.023,
+      "growthEps": 0.074
+    },
+    {
+      "t": "2025-05-27",
+      "pe": 16.28,
+      "growthSales": 0.126,
+      "growthEps": 0.139
+    },
+    {
+      "t": "2025-05-28",
+      "pe": 22.83,
+      "growthSales": -0.023,
+      "growthEps": 0.113
+    },
+    {
+      "t": "2025-05-29",
+      "pe": 21.19,
+      "growthSales": 0.034,
+      "growthEps": -0.159
+    },
+    {
+      "t": "2025-05-30",
+      "pe": 23.88,
+      "growthSales": 0.15,
+      "growthEps": -0.107
+    },
+    {
+      "t": "2025-06-02",
+      "pe": 40.76,
+      "growthSales": 0.039,
+      "growthEps": -0.121
+    },
+    {
+      "t": "2025-06-03",
+      "pe": 46.44,
+      "growthSales": 0.182,
+      "growthEps": 0.174
+    },
+    {
+      "t": "2025-06-04",
+      "pe": 48.02,
+      "growthSales": 0.0,
+      "growthEps": 0.266
+    },
+    {
+      "t": "2025-06-05",
+      "pe": 19.09,
+      "growthSales": 0.088,
+      "growthEps": 0.031
+    },
+    {
+      "t": "2025-06-06",
+      "pe": 40.97,
+      "growthSales": -0.074,
+      "growthEps": 0.235
+    },
+    {
+      "t": "2025-06-09",
+      "pe": 27.06,
+      "growthSales": 0.065,
+      "growthEps": 0.137
+    },
+    {
+      "t": "2025-06-10",
+      "pe": 21.62,
+      "growthSales": -0.063,
+      "growthEps": -0.04
+    },
+    {
+      "t": "2025-06-11",
+      "pe": 33.96,
+      "growthSales": 0.096,
+      "growthEps": -0.039
+    },
+    {
+      "t": "2025-06-12",
+      "pe": 25.22,
+      "growthSales": 0.133,
+      "growthEps": -0.065
+    },
+    {
+      "t": "2025-06-13",
+      "pe": 28.85,
+      "growthSales": 0.093,
+      "growthEps": 0.034
+    },
+    {
+      "t": "2025-06-16",
+      "pe": 24.68,
+      "growthSales": 0.136,
+      "growthEps": 0.213
+    },
+    {
+      "t": "2025-06-17",
+      "pe": 39.71,
+      "growthSales": 0.198,
+      "growthEps": 0.076
+    },
+    {
+      "t": "2025-06-18",
+      "pe": 39.27,
+      "growthSales": 0.033,
+      "growthEps": 0.122
+    },
+    {
+      "t": "2025-06-19",
+      "pe": 24.33,
+      "growthSales": 0.053,
+      "growthEps": 0.141
+    },
+    {
+      "t": "2025-06-20",
+      "pe": 19.29,
+      "growthSales": 0.096,
+      "growthEps": 0.054
+    },
+    {
+      "t": "2025-06-23",
+      "pe": 46.5,
+      "growthSales": 0.103,
+      "growthEps": 0.091
+    },
+    {
+      "t": "2025-06-24",
+      "pe": 44.8,
+      "growthSales": 0.232,
+      "growthEps": -0.115
+    },
+    {
+      "t": "2025-06-25",
+      "pe": 18.07,
+      "growthSales": -0.075,
+      "growthEps": 0.2
+    },
+    {
+      "t": "2025-06-26",
+      "pe": 37.32,
+      "growthSales": 0.01,
+      "growthEps": 0.236
+    },
+    {
+      "t": "2025-06-27",
+      "pe": 24.9,
+      "growthSales": -0.088,
+      "growthEps": 0.281
+    },
+    {
+      "t": "2025-06-30",
+      "pe": 48.28,
+      "growthSales": 0.244,
+      "growthEps": 0.295
+    },
+    {
+      "t": "2025-07-01",
+      "pe": 22.7,
+      "growthSales": 0.116,
+      "growthEps": 0.144
+    },
+    {
+      "t": "2025-07-02",
+      "pe": 47.7,
+      "growthSales": -0.067,
+      "growthEps": 0.119
+    }
+  ]
+}

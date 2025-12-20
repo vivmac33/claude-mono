@@ -1,0 +1,902 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "roe": 50.381020466083186,
+    "roePrevious": 48.002123708238756,
+    "decomposition": {
+      "netProfitMargin": 24.376464932487423,
+      "assetTurnover": 1.2732429496726123,
+      "equityMultiplier": 1.3763888133179505
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 20.748572261169503,
+      "assetTurnover": 1.0741715390142574,
+      "equityMultiplier": 1.1664593141582555
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "roe": 54.952472044296684,
+    "roePrevious": 52.18081909525489,
+    "decomposition": {
+      "netProfitMargin": 19.723462372283024,
+      "assetTurnover": 1.0050857513565232,
+      "equityMultiplier": 1.3405055618729855
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 22.719703815105515,
+      "assetTurnover": 1.0718902765827174,
+      "equityMultiplier": 1.2570406703833896
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "roe": 45.661990824172214,
+    "roePrevious": 52.16751014191538,
+    "decomposition": {
+      "netProfitMargin": 19.540341268969392,
+      "assetTurnover": 1.1814392251141594,
+      "equityMultiplier": 1.3207445311253578
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 19.990886575320495,
+      "assetTurnover": 1.1659430018752375,
+      "equityMultiplier": 1.3943863555074145
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "roe": 50.23287980478773,
+    "roePrevious": 49.344064591276066,
+    "decomposition": {
+      "netProfitMargin": 22.743147202375493,
+      "assetTurnover": 1.1989181865242728,
+      "equityMultiplier": 1.2344506682163425
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 17.302592884375322,
+      "assetTurnover": 0.9994096021960297,
+      "equityMultiplier": 1.2468833674287643
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "roe": 52.14115290181479,
+    "roePrevious": 49.45736149191509,
+    "decomposition": {
+      "netProfitMargin": 20.087334291020696,
+      "assetTurnover": 1.2447094101067704,
+      "equityMultiplier": 1.296184757356957
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 21.357574151403806,
+      "assetTurnover": 1.1967925277637412,
+      "equityMultiplier": 1.3406958080501719
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "roe": 59.86542241375809,
+    "roePrevious": 44.436405731624276,
+    "decomposition": {
+      "netProfitMargin": 18.086289214152494,
+      "assetTurnover": 1.0419562962314584,
+      "equityMultiplier": 1.2484550010885793
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 20.623043939483452,
+      "assetTurnover": 1.1066355251312303,
+      "equityMultiplier": 1.336699942437381
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "roe": 45.494229359138444,
+    "roePrevious": 51.995048596415096,
+    "decomposition": {
+      "netProfitMargin": 22.233267166238576,
+      "assetTurnover": 1.1577811896244543,
+      "equityMultiplier": 1.211945165864902
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 17.88219260757279,
+      "assetTurnover": 1.0076470816255654,
+      "equityMultiplier": 1.2989462114556785
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "roe": 59.355800160074466,
+    "roePrevious": 48.53461060797468,
+    "decomposition": {
+      "netProfitMargin": 25.29365023603119,
+      "assetTurnover": 1.0484750376138505,
+      "equityMultiplier": 1.2897494870258555
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 18.274056668186255,
+      "assetTurnover": 1.1852518898187159,
+      "equityMultiplier": 1.1842205136198982
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "roe": 46.7256310112601,
+    "roePrevious": 50.96910739605304,
+    "decomposition": {
+      "netProfitMargin": 24.87156531877743,
+      "assetTurnover": 1.0999142597376206,
+      "equityMultiplier": 1.242053521042396
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 19.830588142564373,
+      "assetTurnover": 0.9751787680824446,
+      "equityMultiplier": 1.1944961577439686
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "roe": 50.1459009447743,
+    "roePrevious": 44.20699357991621,
+    "decomposition": {
+      "netProfitMargin": 20.883300917278817,
+      "assetTurnover": 1.179446396200559,
+      "equityMultiplier": 1.3590853307362256
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 17.706058265875015,
+      "assetTurnover": 1.1074211782808454,
+      "equityMultiplier": 1.190222811295953
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "roe": 47.65548285089324,
+    "roePrevious": 45.24171102766765,
+    "decomposition": {
+      "netProfitMargin": 20.04046169369631,
+      "assetTurnover": 1.1677148298586286,
+      "equityMultiplier": 1.3758050803553337
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 21.06253865072877,
+      "assetTurnover": 0.9950338448052648,
+      "equityMultiplier": 1.3699062819598902
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "roe": 51.17286202325474,
+    "roePrevious": 44.78221993431425,
+    "decomposition": {
+      "netProfitMargin": 18.286152225613794,
+      "assetTurnover": 1.0040315815724992,
+      "equityMultiplier": 1.284355894635091
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 18.91710728191399,
+      "assetTurnover": 0.9813584867600492,
+      "equityMultiplier": 1.2617414240416056
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "roe": 55.39137998939515,
+    "roePrevious": 44.856409548912794,
+    "decomposition": {
+      "netProfitMargin": 18.42027139951778,
+      "assetTurnover": 1.2143729637541352,
+      "equityMultiplier": 1.3134329029369176
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 18.993862280297492,
+      "assetTurnover": 1.1994931456907278,
+      "equityMultiplier": 1.3434511787772792
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "roe": 47.49338879203328,
+    "roePrevious": 48.623144219831985,
+    "decomposition": {
+      "netProfitMargin": 20.947998022942034,
+      "assetTurnover": 1.0448893770549814,
+      "equityMultiplier": 1.4245305340052459
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 20.04500610447465,
+      "assetTurnover": 1.0131798951366178,
+      "equityMultiplier": 1.1709771045641848
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "roe": 53.789652165456324,
+    "roePrevious": 45.09817279157734,
+    "decomposition": {
+      "netProfitMargin": 23.63033044410195,
+      "assetTurnover": 1.259369367464345,
+      "equityMultiplier": 1.3411072278054381
+    },
+    "decompositionPrevious": {
+      "netProfitMargin": 22.189411737975917,
+      "assetTurnover": 1.0561090465686438,
+      "equityMultiplier": 1.3655014403842287
+    },
+    "historicalTrend": [
+      {
+        "period": "FY2020",
+        "roe": 38,
+        "margin": 16,
+        "turnover": 1.05,
+        "leverage": 1.15
+      },
+      {
+        "period": "FY2021",
+        "roe": 42,
+        "margin": 17.5,
+        "turnover": 1.08,
+        "leverage": 1.18
+      },
+      {
+        "period": "FY2022",
+        "roe": 45,
+        "margin": 18.2,
+        "turnover": 1.1,
+        "leverage": 1.2
+      },
+      {
+        "period": "FY2023",
+        "roe": 48,
+        "margin": 19,
+        "turnover": 1.12,
+        "leverage": 1.22
+      },
+      {
+        "period": "FY2024",
+        "roe": 52,
+        "margin": 19.5,
+        "turnover": 1.15,
+        "leverage": 1.25
+      }
+    ],
+    "peerComparison": {
+      "avgROE": 35,
+      "avgMargin": 15,
+      "avgTurnover": 0.95,
+      "avgLeverage": 1.5
+    },
+    "primaryDriver": "Margin"
+  }
+}

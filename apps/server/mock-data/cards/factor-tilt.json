@@ -1,0 +1,497 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.6227831820130159,
+        "percentile": 69
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7090388874867799,
+        "percentile": 74
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8649859777030063,
+        "percentile": 93
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.47209768399739793,
+        "percentile": 31
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7478253013064387,
+        "percentile": 86
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.5720059817765712,
+        "percentile": 65
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7022065482724649,
+        "percentile": 78
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.9011070801567396,
+        "percentile": 90
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.4736225142752622,
+        "percentile": 30
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8502164239951897,
+        "percentile": 82
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.5494981981462648,
+        "percentile": 45
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7774301673542352,
+        "percentile": 67
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8747332962855913,
+        "percentile": 87
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.40114142306387773,
+        "percentile": 39
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8967695840735349,
+        "percentile": 80
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.5781920345078264,
+        "percentile": 59
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.768874318757192,
+        "percentile": 74
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.9282542172216057,
+        "percentile": 90
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.39303581732164716,
+        "percentile": 31
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8948636505453156,
+        "percentile": 88
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.43759538832618594,
+        "percentile": 60
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7941509053836334,
+        "percentile": 75
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8073568059371758,
+        "percentile": 88
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.49324838424954476,
+        "percentile": 35
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7896745494245423,
+        "percentile": 89
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.4245381984998376,
+        "percentile": 57
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.6840066233164361,
+        "percentile": 61
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8594429001898505,
+        "percentile": 92
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.4465383638318132,
+        "percentile": 33
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7430772786439189,
+        "percentile": 84
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.4310220176728069,
+        "percentile": 51
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7458604900428861,
+        "percentile": 80
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.9046110277814834,
+        "percentile": 95
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.44995310063197075,
+        "percentile": 25
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8127210896300325,
+        "percentile": 92
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.4838446036299423,
+        "percentile": 49
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7185192353030124,
+        "percentile": 81
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8746220793611806,
+        "percentile": 87
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.4595977448407616,
+        "percentile": 26
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7444074846262577,
+        "percentile": 88
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.4365947612401957,
+        "percentile": 54
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.6735160690939397,
+        "percentile": 74
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8829614318602985,
+        "percentile": 87
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.30083641278475887,
+        "percentile": 31
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7097083663323188,
+        "percentile": 85
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.6489278618477989,
+        "percentile": 44
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.6835214406968362,
+        "percentile": 66
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8702496054817389,
+        "percentile": 87
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.41624898596032767,
+        "percentile": 30
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8543630884930854,
+        "percentile": 81
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.4947615843712957,
+        "percentile": 59
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7291017847540207,
+        "percentile": 70
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.943948227483224,
+        "percentile": 89
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.4482343473112701,
+        "percentile": 29
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7698378726164593,
+        "percentile": 87
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.5837178087841386,
+        "percentile": 63
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.7409687853118713,
+        "percentile": 60
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.933199736781902,
+        "percentile": 88
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.43222861327469064,
+        "percentile": 33
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8700508090323644,
+        "percentile": 90
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.5249990265792204,
+        "percentile": 67
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.5818051138155982,
+        "percentile": 68
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.9108030321827584,
+        "percentile": 96
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.4425743811262913,
+        "percentile": 34
+      },
+      {
+        "name": "Size",
+        "exposure": 0.8422361516946616,
+        "percentile": 91
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.5910463761516334,
+        "percentile": 62
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.5354446232112853,
+        "percentile": 67
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.9307571094022993,
+        "percentile": 93
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.44231595456033257,
+        "percentile": 32
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7280001660134103,
+        "percentile": 85
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "factors": [
+      {
+        "name": "Value",
+        "exposure": 0.49209186658589565,
+        "percentile": 42
+      },
+      {
+        "name": "Momentum",
+        "exposure": 0.6579538159762035,
+        "percentile": 69
+      },
+      {
+        "name": "Quality",
+        "exposure": 0.8907539097651773,
+        "percentile": 87
+      },
+      {
+        "name": "Volatility",
+        "exposure": -0.34008954930809665,
+        "percentile": 35
+      },
+      {
+        "name": "Size",
+        "exposure": 0.7759755822953376,
+        "percentile": 86
+      }
+    ],
+    "dominantFactor": "Quality",
+    "factorMomentum": "Favorable"
+  }
+}

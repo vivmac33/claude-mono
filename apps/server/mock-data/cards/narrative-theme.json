@@ -1,0 +1,56 @@
+{
+  "TCS": {
+    "themes": [
+      {
+        "id": "it-digital",
+        "name": "Digital Transformation",
+        "description": "Enterprise digital transformation driving IT services demand",
+        "type": "long_term",
+        "strength": 82,
+        "momentum": "stable",
+        "fundFlow": "inflow",
+        "duration": "24 months",
+        "startDate": "2022-06-01",
+        "leaders": [
+          {
+            "symbol": "TCS",
+            "name": "Tata Consultancy",
+            "return1m": 5.2,
+            "return3m": 12.5,
+            "relativeStrength": 1.25
+          },
+          {
+            "symbol": "INFY",
+            "name": "Infosys",
+            "return1m": 4.8,
+            "return3m": 11.2,
+            "relativeStrength": 1.18
+          }
+        ],
+        "laggards": [
+          {
+            "symbol": "TECHM",
+            "name": "Tech Mahindra",
+            "return1m": -1.2,
+            "return3m": 3.5,
+            "relativeStrength": 0.85
+          }
+        ],
+        "catalysts": [
+          "Cloud adoption",
+          "AI integration",
+          "Cost optimization"
+        ],
+        "risks": [
+          "Currency volatility",
+          "Client spending cuts"
+        ],
+        "mfExposure": 18.5,
+        "fiiActivity": "buying",
+        "retailSentiment": "bullish",
+        "technicalSetup": "Trading above 50 DMA with strong volume"
+      }
+    ],
+    "lastUpdated": "2024-12-20"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "DuPont Analysis \u00b7 Sample Manufacturer",
+  "roe_breakdown": {
+    "roe_pct": 18.2,
+    "profit_margin_pct": 8.4,
+    "asset_turnover": 1.6,
+    "equity_multiplier": 1.35
+  },
+  "meta": "ROE decomposed into margin \u00d7 turnover \u00d7 leverage."
+}

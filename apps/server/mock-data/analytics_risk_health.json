@@ -1,0 +1,35 @@
+{
+  "title": "Risk Health Dashboard \u00b7 Sample Basket",
+  "score": 6.3,
+  "pillars": [
+    {
+      "name": "Leverage",
+      "score": 5
+    },
+    {
+      "name": "Liquidity",
+      "score": 7
+    },
+    {
+      "name": "Pledging",
+      "score": 4
+    },
+    {
+      "name": "Governance",
+      "score": 8
+    }
+  ],
+  "red_flags": [
+    {
+      "type": "Pledge",
+      "symbol": "XYZ",
+      "pct_pledged": 42
+    },
+    {
+      "type": "Audit",
+      "symbol": "QWE",
+      "note": "Auditor change last quarter"
+    }
+  ],
+  "meta": "Synthetic risk snapshot combining pledging, leverage and governance signals."
+}

@@ -1,0 +1,797 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "qualityScore": 88,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.217026261394256,
+      "fcfToNetIncome": 0.9551927364014217,
+      "accrualRatio": -0.013279995494522964
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "qualityScore": 90,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.136776631954438,
+      "fcfToNetIncome": 0.929775812048,
+      "accrualRatio": -0.002904240296752167
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "qualityScore": 89,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.2303589595022457,
+      "fcfToNetIncome": 0.9665602250405108,
+      "accrualRatio": 0.0031433428272627517
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "qualityScore": 88,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.1457378974515862,
+      "fcfToNetIncome": 0.9197467018964299,
+      "accrualRatio": 0.0033880104925922035
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "qualityScore": 88,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.245449528408726,
+      "fcfToNetIncome": 0.9658307582154957,
+      "accrualRatio": 0.004656859080128084
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "qualityScore": 95,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.2424671026556005,
+      "fcfToNetIncome": 0.9994494194251816,
+      "accrualRatio": -0.012863828446636453
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "qualityScore": 89,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.2050661455592069,
+      "fcfToNetIncome": 0.9207577192940196,
+      "accrualRatio": 0.009731795132694388
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "qualityScore": 93,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.1841239592517492,
+      "fcfToNetIncome": 0.9570912319801071,
+      "accrualRatio": -0.0032509437480361947
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "qualityScore": 95,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.2203847404305557,
+      "fcfToNetIncome": 0.9847472303975653,
+      "accrualRatio": -0.0026182681065672828
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "qualityScore": 91,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.1078265593788768,
+      "fcfToNetIncome": 0.9251855399794321,
+      "accrualRatio": -0.003145221132667901
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "qualityScore": 89,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.2221457856097713,
+      "fcfToNetIncome": 0.9479624976808685,
+      "accrualRatio": 0.0016960071717668224
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "qualityScore": 90,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.2362530711565318,
+      "fcfToNetIncome": 0.9761138736906213,
+      "accrualRatio": 0.0014711747701474862
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "qualityScore": 94,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.1567689544890742,
+      "fcfToNetIncome": 0.9906222861774172,
+      "accrualRatio": -0.008724176038848801
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "qualityScore": 92,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.1164273127408624,
+      "fcfToNetIncome": 0.9616640338713873,
+      "accrualRatio": -0.006346658617140937
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "qualityScore": 91,
+    "grade": "High",
+    "currentRatios": {
+      "ocfToNetIncome": 1.216557679253512,
+      "fcfToNetIncome": 0.9501212258920958,
+      "accrualRatio": -0.006015068786815838
+    },
+    "historical": [
+      {
+        "period": "Q1FY24",
+        "netIncome": 11200,
+        "ocf": 12500,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q2FY24",
+        "netIncome": 11500,
+        "ocf": 12800,
+        "conversionRate": 111
+      },
+      {
+        "period": "Q3FY24",
+        "netIncome": 11800,
+        "ocf": 13200,
+        "conversionRate": 112
+      },
+      {
+        "period": "Q4FY24",
+        "netIncome": 12200,
+        "ocf": 13600,
+        "conversionRate": 111
+      }
+    ],
+    "qualityFlags": [
+      {
+        "flag": "Consistent Cash Conversion",
+        "severity": "positive",
+        "description": "OCF exceeds net income consistently"
+      },
+      {
+        "flag": "Low Accruals",
+        "severity": "positive",
+        "description": "Minimal accounting adjustments"
+      }
+    ],
+    "benchmarks": {
+      "industryAvg": 95,
+      "topQuartile": 110
+    }
+  }
+}

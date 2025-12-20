@@ -1,0 +1,42 @@
+{
+  "asOf": "2024-12-20",
+  "fund": {
+    "name": "HDFC Flexi Cap",
+    "category": "Equity - Flexi Cap",
+    "aum": 45000,
+    "expense": 1.65,
+    "return1Y": 22.5,
+    "return3Y": 18.2,
+    "return5Y": 15.8,
+    "rating": 5,
+    "riskLevel": "Moderately High"
+  },
+  "holdings": [
+    {
+      "stock": "HDFC Bank",
+      "weight": 8.5
+    },
+    {
+      "stock": "ICICI Bank",
+      "weight": 7.2
+    },
+    {
+      "stock": "Reliance",
+      "weight": 6.8
+    },
+    {
+      "stock": "TCS",
+      "weight": 5.5
+    },
+    {
+      "stock": "Infosys",
+      "weight": 4.8
+    }
+  ],
+  "performance": {
+    "vs_benchmark": 2.5,
+    "sharpe": 1.25,
+    "alpha": 3.2,
+    "beta": 0.95
+  }
+}

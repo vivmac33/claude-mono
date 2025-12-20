@@ -1,0 +1,45 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "playbooks": [
+      {
+        "id": "PB001",
+        "name": "Breakout Trade",
+        "setupConditions": [
+          "Price above 20 DMA",
+          "RSI > 50",
+          "Volume > avg"
+        ],
+        "entry": "Above previous day high",
+        "stopLoss": "Below 20 DMA",
+        "targets": [
+          "1R",
+          "2R",
+          "Trail"
+        ],
+        "historicalWinRate": 62,
+        "avgRMultiple": 1.8
+      },
+      {
+        "id": "PB002",
+        "name": "Pullback to Support",
+        "setupConditions": [
+          "Uptrend intact",
+          "Price at 20 DMA",
+          "RSI 40-50"
+        ],
+        "entry": "Bounce from support",
+        "stopLoss": "Below support zone",
+        "targets": [
+          "Recent high",
+          "1.5R"
+        ],
+        "historicalWinRate": 58,
+        "avgRMultiple": 1.5
+      }
+    ],
+    "activePlaybook": "PB001",
+    "currentSetupMatch": 75
+  }
+}

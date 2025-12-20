@@ -1,0 +1,33 @@
+{
+  "asOf": "2024-12-20",
+  "totalFunds": 2600,
+  "categories": {
+    "equity": 1250,
+    "debt": 850,
+    "hybrid": 320,
+    "other": 180
+  },
+  "topFunds": [
+    {
+      "name": "HDFC Flexi Cap",
+      "category": "Equity",
+      "aum": 45000,
+      "return1Y": 22.5,
+      "rating": 5
+    },
+    {
+      "name": "ICICI Bluechip",
+      "category": "Equity",
+      "aum": 38000,
+      "return1Y": 18.5,
+      "rating": 4
+    },
+    {
+      "name": "SBI Small Cap",
+      "category": "Equity",
+      "aum": 22000,
+      "return1Y": 28.5,
+      "rating": 5
+    }
+  ]
+}

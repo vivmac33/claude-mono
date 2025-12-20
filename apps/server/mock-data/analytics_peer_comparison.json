@@ -1,0 +1,25 @@
+{
+  "title": "Peer Comparison \u00b7 Sample Sector",
+  "metric": "PE",
+  "peers": [
+    {
+      "symbol": "AAA",
+      "pe": 20.5,
+      "roe": 16.2,
+      "de_ratio": 0.5
+    },
+    {
+      "symbol": "BBB",
+      "pe": 19.1,
+      "roe": 17.4,
+      "de_ratio": 0.7
+    },
+    {
+      "symbol": "CCC",
+      "pe": 17.3,
+      "roe": 15.8,
+      "de_ratio": 0.4
+    }
+  ],
+  "meta": "Lightweight peer snapshot for a sample sector."
+}

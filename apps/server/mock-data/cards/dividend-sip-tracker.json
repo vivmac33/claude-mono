@@ -1,0 +1,82 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "sipDetails": {
+      "monthlyAmount": 10000,
+      "tenure": 60,
+      "totalInvested": 600000,
+      "currentValue": 925000,
+      "dividendsReceived": 45000,
+      "dividendsReinvested": true
+    },
+    "returns": {
+      "absoluteReturn": 54.2,
+      "xirr": 18.5,
+      "dividendContribution": 7.5
+    },
+    "projection": [
+      {
+        "year": "2025",
+        "invested": 720000,
+        "valueWithDRIP": 1120000,
+        "valueWithoutDRIP": 1050000,
+        "dividends": 52000
+      },
+      {
+        "year": "2026",
+        "invested": 840000,
+        "valueWithDRIP": 1380000,
+        "valueWithoutDRIP": 1250000,
+        "dividends": 65000
+      },
+      {
+        "year": "2027",
+        "invested": 960000,
+        "valueWithDRIP": 1680000,
+        "valueWithoutDRIP": 1480000,
+        "dividends": 82000
+      },
+      {
+        "year": "2028",
+        "invested": 1080000,
+        "valueWithDRIP": 2050000,
+        "valueWithoutDRIP": 1750000,
+        "dividends": 102000
+      },
+      {
+        "year": "2029",
+        "invested": 1200000,
+        "valueWithDRIP": 2500000,
+        "valueWithoutDRIP": 2080000,
+        "dividends": 125000
+      }
+    ],
+    "dividendHistory": [
+      {
+        "date": "2024-06",
+        "amount": 22,
+        "yieldOnCost": 1.8
+      },
+      {
+        "date": "2024-03",
+        "amount": 20,
+        "yieldOnCost": 1.7
+      },
+      {
+        "date": "2023-12",
+        "amount": 18,
+        "yieldOnCost": 1.5
+      },
+      {
+        "date": "2023-09",
+        "amount": 16,
+        "yieldOnCost": 1.4
+      }
+    ],
+    "yieldOnCost": {
+      "current": 2.8,
+      "projected5Y": 4.5
+    }
+  }
+}

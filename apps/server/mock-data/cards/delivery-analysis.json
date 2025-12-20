@@ -1,0 +1,977 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 46.22466339917595,
+    "avgDeliveryPct30D": 39.590672879522224,
+    "deliveryPctile": 64,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 75,
+    "accumulationScore": 70,
+    "distributionScore": 15,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 192,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 62.17519745680288,
+    "avgDeliveryPct30D": 47.10131383534252,
+    "deliveryPctile": 63,
+    "deliveryTrend": "Stable",
+    "deliveryTrendStrength": 78,
+    "accumulationScore": 87,
+    "distributionScore": 31,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 171,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 42.82125937400566,
+    "avgDeliveryPct30D": 40.824560864630456,
+    "deliveryPctile": 64,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 76,
+    "accumulationScore": 59,
+    "distributionScore": 25,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 170,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 61.28702741414277,
+    "avgDeliveryPct30D": 44.954362825590756,
+    "deliveryPctile": 60,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 82,
+    "accumulationScore": 64,
+    "distributionScore": 18,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 203,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 59.463021787848575,
+    "avgDeliveryPct30D": 47.00054295474602,
+    "deliveryPctile": 85,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 67,
+    "accumulationScore": 57,
+    "distributionScore": 28,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 179,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 49.75260640871117,
+    "avgDeliveryPct30D": 45.01112462051651,
+    "deliveryPctile": 75,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 82,
+    "accumulationScore": 86,
+    "distributionScore": 22,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 222,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 41.35826757873324,
+    "avgDeliveryPct30D": 43.56675103618615,
+    "deliveryPctile": 87,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 88,
+    "accumulationScore": 66,
+    "distributionScore": 31,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 173,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 55.36992201943993,
+    "avgDeliveryPct30D": 38.793405417496224,
+    "deliveryPctile": 71,
+    "deliveryTrend": "Stable",
+    "deliveryTrendStrength": 82,
+    "accumulationScore": 81,
+    "distributionScore": 28,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 238,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 50.30647465895834,
+    "avgDeliveryPct30D": 47.094533176203825,
+    "deliveryPctile": 70,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 76,
+    "accumulationScore": 65,
+    "distributionScore": 39,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 161,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 64.15138815280216,
+    "avgDeliveryPct30D": 46.36350349780816,
+    "deliveryPctile": 62,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 87,
+    "accumulationScore": 77,
+    "distributionScore": 21,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 227,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 42.38606221123461,
+    "avgDeliveryPct30D": 40.85474727166563,
+    "deliveryPctile": 84,
+    "deliveryTrend": "Stable",
+    "deliveryTrendStrength": 82,
+    "accumulationScore": 55,
+    "distributionScore": 31,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 209,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 48.49986098790377,
+    "avgDeliveryPct30D": 38.94829844948998,
+    "deliveryPctile": 89,
+    "deliveryTrend": "Stable",
+    "deliveryTrendStrength": 66,
+    "accumulationScore": 78,
+    "distributionScore": 29,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 245,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 48.865103797498094,
+    "avgDeliveryPct30D": 44.721535945525076,
+    "deliveryPctile": 84,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 80,
+    "accumulationScore": 68,
+    "distributionScore": 31,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 236,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 52.532326447130025,
+    "avgDeliveryPct30D": 38.38631240047803,
+    "deliveryPctile": 86,
+    "deliveryTrend": "Stable",
+    "deliveryTrendStrength": 79,
+    "accumulationScore": 76,
+    "distributionScore": 35,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 191,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "currentDeliveryPct": 54.90275004256195,
+    "avgDeliveryPct30D": 38.986685641973345,
+    "deliveryPctile": 72,
+    "deliveryTrend": "Rising",
+    "deliveryTrendStrength": 74,
+    "accumulationScore": 63,
+    "distributionScore": 19,
+    "smartMoneySignal": "Accumulation",
+    "priceTrend": "Up",
+    "deliveryDivergence": "None",
+    "divergenceStrength": 20,
+    "volumeQuality": "High",
+    "avgTradeSize": 187,
+    "tradeSizeTrend": "Increasing",
+    "history": [
+      {
+        "date": "2024-12-16",
+        "close": 3680,
+        "volume": 2500000,
+        "deliveryQty": 1050000,
+        "deliveryPct": 42,
+        "avgTradeSize": 155
+      },
+      {
+        "date": "2024-12-17",
+        "close": 3700,
+        "volume": 2800000,
+        "deliveryQty": 1260000,
+        "deliveryPct": 45,
+        "avgTradeSize": 162
+      },
+      {
+        "date": "2024-12-18",
+        "close": 3710,
+        "volume": 3200000,
+        "deliveryQty": 1500000,
+        "deliveryPct": 47,
+        "avgTradeSize": 170
+      },
+      {
+        "date": "2024-12-19",
+        "close": 3715,
+        "volume": 2900000,
+        "deliveryQty": 1300000,
+        "deliveryPct": 45,
+        "avgTradeSize": 165
+      },
+      {
+        "date": "2024-12-20",
+        "close": 3720,
+        "volume": 2600000,
+        "deliveryQty": 1170000,
+        "deliveryPct": 45,
+        "avgTradeSize": 160
+      }
+    ],
+    "insights": [
+      "Delivery percentage above 30-day average",
+      "Increasing average trade size indicates institutional activity",
+      "Volume quality is high with genuine buying interest"
+    ]
+  }
+}

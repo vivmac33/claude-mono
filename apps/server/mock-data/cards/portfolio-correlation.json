@@ -1,0 +1,92 @@
+{
+  "asOf": "2024-12-20",
+  "diversificationScore": 72,
+  "avgCorrelation": 0.45,
+  "correlationMatrix": [
+    {
+      "symbol1": "TCS",
+      "symbol2": "INFY",
+      "correlation": 0.85
+    },
+    {
+      "symbol1": "TCS",
+      "symbol2": "WIPRO",
+      "correlation": 0.78
+    },
+    {
+      "symbol1": "TCS",
+      "symbol2": "HDFCBANK",
+      "correlation": 0.35
+    },
+    {
+      "symbol1": "TCS",
+      "symbol2": "RELIANCE",
+      "correlation": 0.42
+    },
+    {
+      "symbol1": "INFY",
+      "symbol2": "WIPRO",
+      "correlation": 0.82
+    },
+    {
+      "symbol1": "HDFCBANK",
+      "symbol2": "ICICIBANK",
+      "correlation": 0.88
+    },
+    {
+      "symbol1": "RELIANCE",
+      "symbol2": "HDFCBANK",
+      "correlation": 0.38
+    },
+    {
+      "symbol1": "INFY",
+      "symbol2": "HDFCBANK",
+      "correlation": 0.32
+    }
+  ],
+  "holdings": [
+    {
+      "symbol": "TCS",
+      "weight": 15
+    },
+    {
+      "symbol": "INFY",
+      "weight": 12
+    },
+    {
+      "symbol": "HDFCBANK",
+      "weight": 14
+    },
+    {
+      "symbol": "RELIANCE",
+      "weight": 18
+    },
+    {
+      "symbol": "ICICIBANK",
+      "weight": 10
+    }
+  ],
+  "clusters": [
+    {
+      "name": "IT Services",
+      "holdings": [
+        "TCS",
+        "INFY",
+        "WIPRO"
+      ],
+      "intraCorr": 0.82
+    },
+    {
+      "name": "Banking",
+      "holdings": [
+        "HDFCBANK",
+        "ICICIBANK"
+      ],
+      "intraCorr": 0.88
+    }
+  ],
+  "recommendations": [
+    "Consider adding uncorrelated assets",
+    "IT cluster highly correlated"
+  ]
+}

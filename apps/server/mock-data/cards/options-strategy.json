@@ -1,0 +1,11 @@
+{
+  "TCS": {
+    "underlying": "TCS",
+    "spotPrice": 3720,
+    "lotSize": 250,
+    "iv": 22.5,
+    "historicalVol30d": 18.8,
+    "daysToExpiry": 14,
+    "riskFreeRate": 6.5
+  }
+}

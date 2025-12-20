@@ -1,0 +1,312 @@
+{
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "swingHigh": 1328.40,
+    "swingHighDate": "2025-11-28",
+    "swingLow": 1245.60,
+    "swingLowDate": "2025-10-28",
+    "swingRange": 6.64,
+    "trendDirection": "Uptrend",
+    "currentPrice": 1291.80,
+    "pricePosition": "Between 50% and 61.8%",
+    "currentRetracement": 44.2,
+    "retracementLevels": [
+      { "level": 0.236, "price": 1308.85, "type": "Retracement", "status": "Above", "isKeyLevel": false },
+      { "level": 0.382, "price": 1296.75, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.5, "price": 1287.00, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.618, "price": 1277.25, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.786, "price": 1263.30, "type": "Retracement", "status": "Below", "isKeyLevel": false },
+      { "level": 1.0, "price": 1245.60, "type": "Retracement", "status": "Below", "isKeyLevel": false }
+    ],
+    "extensionLevels": [
+      { "level": 1.272, "price": 1351.00, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 1.618, "price": 1379.60, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 2.0, "price": 1411.20, "type": "Extension", "status": "Target", "isKeyLevel": false },
+      { "level": 2.618, "price": 1462.40, "type": "Extension", "status": "Target", "isKeyLevel": false }
+    ],
+    "nearestSupport": { "level": 0.5, "price": 1287.00, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+    "nearestResistance": { "level": 0.382, "price": 1296.75, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+    "goldenPocket": { "low": 1277.25, "high": 1283.10 },
+    "confluenceZones": [
+      { "price": 1287.00, "factors": ["50% Fib", "20 EMA", "Prior resistance turned support"] },
+      { "price": 1277.25, "factors": ["61.8% Fib (Golden Ratio)", "Volume shelf", "Weekly pivot"] },
+      { "price": 1308.85, "factors": ["23.6% Fib", "Recent swing high", "Psychological ₹1310"] }
+    ],
+    "bias": "Bullish",
+    "biasReason": "Healthy 44% retracement in uptrend. Price holding above golden pocket zone suggests buyers stepping in.",
+    "entryZone": { "low": 1277.25, "high": 1287.00, "reason": "Golden pocket to 50% retracement" },
+    "targetZone": { "low": 1328.40, "high": 1351.00, "reason": "Swing high to 127.2% extension" },
+    "stopLossZone": { "price": 1263.30, "reason": "Below 78.6% retracement" },
+    "retracementQuality": "Healthy",
+    "qualityImplication": "Healthy retracement between 38.2% and 61.8% indicates trend is intact with buyers defending key levels.",
+    "historicalReactions": [
+      { "level": 0.382, "reactionCount": 4, "avgBounce": 2.8 },
+      { "level": 0.5, "reactionCount": 6, "avgBounce": 3.2 },
+      { "level": 0.618, "reactionCount": 5, "avgBounce": 4.1 }
+    ],
+    "priceHistory": [
+      { "date": "2025-10-28", "price": 1245.60, "high": 1252.40, "low": 1238.80 },
+      { "date": "2025-11-04", "price": 1268.40, "high": 1275.20, "low": 1258.60 },
+      { "date": "2025-11-11", "price": 1285.80, "high": 1292.40, "low": 1278.20 },
+      { "date": "2025-11-18", "price": 1308.20, "high": 1318.60, "low": 1298.40 },
+      { "date": "2025-11-25", "price": 1322.60, "high": 1328.40, "low": 1315.80 },
+      { "date": "2025-12-02", "price": 1305.40, "high": 1318.20, "low": 1298.60 },
+      { "date": "2025-12-09", "price": 1291.80, "high": 1302.40, "low": 1282.60 }
+    ],
+    "insights": [
+      "Healthy 44% retracement - trend remains intact",
+      "Price bouncing from golden pocket (61.8%-65%) zone",
+      "50% level (₹1287) acting as strong support",
+      "6 historical reactions at 50% level with avg 3.2% bounce"
+    ]
+  },
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "swingHigh": 4185.60,
+    "swingHighDate": "2025-11-15",
+    "swingLow": 4025.40,
+    "swingLowDate": "2025-10-18",
+    "swingRange": 3.98,
+    "trendDirection": "Uptrend",
+    "currentPrice": 4098.60,
+    "pricePosition": "Between 50% and 61.8%",
+    "currentRetracement": 54.3,
+    "retracementLevels": [
+      { "level": 0.236, "price": 4147.80, "type": "Retracement", "status": "Above", "isKeyLevel": false },
+      { "level": 0.382, "price": 4124.40, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.5, "price": 4105.50, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.618, "price": 4086.60, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.786, "price": 4059.65, "type": "Retracement", "status": "Below", "isKeyLevel": false },
+      { "level": 1.0, "price": 4025.40, "type": "Retracement", "status": "Below", "isKeyLevel": false }
+    ],
+    "extensionLevels": [
+      { "level": 1.272, "price": 4229.30, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 1.618, "price": 4284.60, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 2.0, "price": 4345.60, "type": "Extension", "status": "Target", "isKeyLevel": false }
+    ],
+    "nearestSupport": { "level": 0.618, "price": 4086.60, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+    "nearestResistance": { "level": 0.5, "price": 4105.50, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+    "goldenPocket": { "low": 4086.60, "high": 4094.50 },
+    "confluenceZones": [
+      { "price": 4086.60, "factors": ["61.8% Fib", "200 DMA nearby", "Psychological ₹4100"] },
+      { "price": 4105.50, "factors": ["50% Fib", "Prior breakout level", "Volume node"] },
+      { "price": 4059.65, "factors": ["78.6% Fib", "Major support zone"] }
+    ],
+    "bias": "Neutral",
+    "biasReason": "54% retracement approaching golden pocket. Critical test of 61.8% support will determine trend continuation.",
+    "entryZone": { "low": 4086.60, "high": 4105.50, "reason": "Golden pocket to 50% retracement" },
+    "targetZone": { "low": 4185.60, "high": 4229.30, "reason": "Swing high to 127.2% extension" },
+    "stopLossZone": { "price": 4059.65, "reason": "Below 78.6% retracement" },
+    "retracementQuality": "Deep",
+    "qualityImplication": "Deep retracement beyond 50% suggests weakening momentum. 61.8% is critical support for trend to remain intact.",
+    "historicalReactions": [
+      { "level": 0.382, "reactionCount": 3, "avgBounce": 2.2 },
+      { "level": 0.5, "reactionCount": 5, "avgBounce": 2.8 },
+      { "level": 0.618, "reactionCount": 4, "avgBounce": 3.5 }
+    ],
+    "priceHistory": [
+      { "date": "2025-10-18", "price": 4025.40, "high": 4042.60, "low": 4012.80 },
+      { "date": "2025-10-25", "price": 4068.40, "high": 4085.20, "low": 4052.60 },
+      { "date": "2025-11-01", "price": 4108.80, "high": 4125.40, "low": 4095.60 },
+      { "date": "2025-11-08", "price": 4155.60, "high": 4172.40, "low": 4138.80 },
+      { "date": "2025-11-15", "price": 4178.40, "high": 4185.60, "low": 4165.20 },
+      { "date": "2025-11-22", "price": 4142.60, "high": 4162.40, "low": 4128.80 },
+      { "date": "2025-11-29", "price": 4115.80, "high": 4135.40, "low": 4102.60 },
+      { "date": "2025-12-06", "price": 4098.60, "high": 4118.20, "low": 4085.40 }
+    ],
+    "insights": [
+      "Deep 54% retracement - approaching critical 61.8% level",
+      "Golden pocket (₹4086-4094) is make-or-break zone",
+      "Break below 61.8% would suggest trend reversal",
+      "200 DMA confluence at 61.8% adds significance"
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "swingHigh": 1785.40,
+    "swingHighDate": "2025-11-22",
+    "swingLow": 1695.60,
+    "swingLowDate": "2025-10-25",
+    "swingRange": 5.29,
+    "trendDirection": "Uptrend",
+    "currentPrice": 1718.40,
+    "pricePosition": "Between 61.8% and 78.6%",
+    "currentRetracement": 74.6,
+    "retracementLevels": [
+      { "level": 0.236, "price": 1764.20, "type": "Retracement", "status": "Above", "isKeyLevel": false },
+      { "level": 0.382, "price": 1751.10, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.5, "price": 1740.50, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.618, "price": 1729.90, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.786, "price": 1714.80, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 1.0, "price": 1695.60, "type": "Retracement", "status": "Below", "isKeyLevel": false }
+    ],
+    "extensionLevels": [
+      { "level": 1.272, "price": 1809.80, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 1.618, "price": 1840.90, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 2.0, "price": 1875.40, "type": "Extension", "status": "Target", "isKeyLevel": false }
+    ],
+    "nearestSupport": { "level": 0.786, "price": 1714.80, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+    "nearestResistance": { "level": 0.618, "price": 1729.90, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+    "goldenPocket": { "low": 1729.90, "high": 1735.20 },
+    "confluenceZones": [
+      { "price": 1714.80, "factors": ["78.6% Fib", "Prior swing low support", "Psychological ₹1715"] },
+      { "price": 1695.60, "factors": ["100% Fib", "Major support", "Trend reversal level"] },
+      { "price": 1729.90, "factors": ["61.8% Fib", "First resistance for bounce"] }
+    ],
+    "bias": "Bearish",
+    "biasReason": "Deep 74.6% retracement broke below golden pocket. Trend weakening, only 78.6% support remaining before full retracement.",
+    "entryZone": { "low": 1714.80, "high": 1729.90, "reason": "78.6% to 61.8% for countertrend bounce" },
+    "targetZone": { "low": 1740.50, "high": 1751.10, "reason": "50% to 38.2% retracement" },
+    "stopLossZone": { "price": 1695.60, "reason": "Below swing low (100% retracement)" },
+    "retracementQuality": "Broken",
+    "qualityImplication": "Retracement beyond 78.6% indicates trend is likely broken. Watch for full retracement to swing low.",
+    "historicalReactions": [
+      { "level": 0.618, "reactionCount": 3, "avgBounce": 2.5 },
+      { "level": 0.786, "reactionCount": 2, "avgBounce": 3.8 },
+      { "level": 1.0, "reactionCount": 4, "avgBounce": 5.2 }
+    ],
+    "priceHistory": [
+      { "date": "2025-10-25", "price": 1695.60, "high": 1708.40, "low": 1688.20 },
+      { "date": "2025-11-01", "price": 1728.40, "high": 1742.60, "low": 1718.80 },
+      { "date": "2025-11-08", "price": 1758.60, "high": 1768.40, "low": 1745.20 },
+      { "date": "2025-11-15", "price": 1775.80, "high": 1782.60, "low": 1762.40 },
+      { "date": "2025-11-22", "price": 1782.40, "high": 1785.40, "low": 1772.60 },
+      { "date": "2025-11-29", "price": 1752.60, "high": 1768.20, "low": 1742.80 },
+      { "date": "2025-12-06", "price": 1728.80, "high": 1745.40, "low": 1718.60 },
+      { "date": "2025-12-11", "price": 1718.40, "high": 1748.80, "low": 1715.20 }
+    ],
+    "insights": [
+      "Deep 74.6% retracement - trend integrity compromised",
+      "Broke below golden pocket - bearish signal",
+      "78.6% (₹1714.80) is last defense before full retracement",
+      "Banking sector weakness adding to selling pressure"
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "swingHigh": 1925.30,
+    "swingHighDate": "2025-12-11",
+    "swingLow": 1825.40,
+    "swingLowDate": "2025-11-05",
+    "swingRange": 5.47,
+    "trendDirection": "Uptrend",
+    "currentPrice": 1925.30,
+    "pricePosition": "At Swing High",
+    "currentRetracement": 0,
+    "retracementLevels": [
+      { "level": 0.236, "price": 1901.70, "type": "Retracement", "status": "Below", "isKeyLevel": false },
+      { "level": 0.382, "price": 1887.15, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.5, "price": 1875.35, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.618, "price": 1863.55, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.786, "price": 1846.85, "type": "Retracement", "status": "Below", "isKeyLevel": false },
+      { "level": 1.0, "price": 1825.40, "type": "Retracement", "status": "Below", "isKeyLevel": false }
+    ],
+    "extensionLevels": [
+      { "level": 1.272, "price": 1952.55, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 1.618, "price": 1987.00, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 2.0, "price": 2025.20, "type": "Extension", "status": "Target", "isKeyLevel": false },
+      { "level": 2.618, "price": 2086.95, "type": "Extension", "status": "Target", "isKeyLevel": false }
+    ],
+    "nearestSupport": { "level": 0.236, "price": 1901.70, "type": "Retracement", "status": "Below", "isKeyLevel": false },
+    "nearestResistance": { "level": 1.272, "price": 1952.55, "type": "Extension", "status": "Target", "isKeyLevel": true },
+    "goldenPocket": { "low": 1863.55, "high": 1869.75 },
+    "confluenceZones": [
+      { "price": 1901.70, "factors": ["23.6% Fib", "Immediate support", "Breakout level"] },
+      { "price": 1952.55, "factors": ["127.2% Extension", "First target", "Psychological ₹1950"] },
+      { "price": 1987.00, "factors": ["161.8% Extension", "Major target", "Psychological ₹2000"] }
+    ],
+    "bias": "Bullish",
+    "biasReason": "Price at swing high with strong momentum. Extension targets in play. 127.2% (₹1952.55) is next target.",
+    "entryZone": { "low": 1887.15, "high": 1901.70, "reason": "Pullback to 23.6%-38.2% for trend continuation" },
+    "targetZone": { "low": 1952.55, "high": 1987.00, "reason": "127.2% to 161.8% extension" },
+    "stopLossZone": { "price": 1875.35, "reason": "Below 50% retracement" },
+    "retracementQuality": "Shallow",
+    "qualityImplication": "No retracement yet - price at highs. Strong momentum, but pullback to 23.6%-38.2% would offer better entry.",
+    "historicalReactions": [
+      { "level": 0.236, "reactionCount": 5, "avgBounce": 2.2 },
+      { "level": 0.382, "reactionCount": 4, "avgBounce": 3.0 },
+      { "level": 0.5, "reactionCount": 3, "avgBounce": 3.5 }
+    ],
+    "priceHistory": [
+      { "date": "2025-11-05", "price": 1825.40, "high": 1838.60, "low": 1818.20 },
+      { "date": "2025-11-12", "price": 1858.60, "high": 1872.40, "low": 1848.80 },
+      { "date": "2025-11-19", "price": 1882.40, "high": 1895.60, "low": 1872.20 },
+      { "date": "2025-11-26", "price": 1898.80, "high": 1908.40, "low": 1885.60 },
+      { "date": "2025-12-03", "price": 1912.60, "high": 1918.80, "low": 1902.40 },
+      { "date": "2025-12-10", "price": 1918.40, "high": 1925.30, "low": 1908.60 },
+      { "date": "2025-12-11", "price": 1925.30, "high": 1925.30, "low": 1888.50 }
+    ],
+    "insights": [
+      "Price at new swing high - strong bullish momentum",
+      "127.2% extension target at ₹1952.55",
+      "Wait for pullback to 23.6%-38.2% for better entry",
+      "Strong trend - shallow pullbacks expected"
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "swingHigh": 1352.80,
+    "swingHighDate": "2025-11-18",
+    "swingLow": 1298.40,
+    "swingLowDate": "2025-10-22",
+    "swingRange": 4.19,
+    "trendDirection": "Uptrend",
+    "currentPrice": 1325.80,
+    "pricePosition": "Between 38.2% and 50%",
+    "currentRetracement": 49.6,
+    "retracementLevels": [
+      { "level": 0.236, "price": 1340.00, "type": "Retracement", "status": "Above", "isKeyLevel": false },
+      { "level": 0.382, "price": 1332.00, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+      { "level": 0.5, "price": 1325.60, "type": "Retracement", "status": "At", "isKeyLevel": true },
+      { "level": 0.618, "price": 1319.20, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+      { "level": 0.786, "price": 1310.00, "type": "Retracement", "status": "Below", "isKeyLevel": false },
+      { "level": 1.0, "price": 1298.40, "type": "Retracement", "status": "Below", "isKeyLevel": false }
+    ],
+    "extensionLevels": [
+      { "level": 1.272, "price": 1367.60, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 1.618, "price": 1386.40, "type": "Extension", "status": "Target", "isKeyLevel": true },
+      { "level": 2.0, "price": 1407.20, "type": "Extension", "status": "Target", "isKeyLevel": false }
+    ],
+    "nearestSupport": { "level": 0.618, "price": 1319.20, "type": "Retracement", "status": "Below", "isKeyLevel": true },
+    "nearestResistance": { "level": 0.382, "price": 1332.00, "type": "Retracement", "status": "Above", "isKeyLevel": true },
+    "goldenPocket": { "low": 1319.20, "high": 1323.60 },
+    "confluenceZones": [
+      { "price": 1325.60, "factors": ["50% Fib", "Psychological ₹1325", "Current price zone"] },
+      { "price": 1319.20, "factors": ["61.8% Fib (Golden Ratio)", "Volume support", "20 EMA"] },
+      { "price": 1332.00, "factors": ["38.2% Fib", "Resistance zone", "Prior support"] }
+    ],
+    "bias": "Neutral",
+    "biasReason": "Price at exact 50% retracement - pivotal level. Break above 38.2% confirms bullish, break below 61.8% turns bearish.",
+    "entryZone": { "low": 1319.20, "high": 1325.60, "reason": "Golden pocket to 50% for long setup" },
+    "targetZone": { "low": 1352.80, "high": 1367.60, "reason": "Swing high to 127.2% extension" },
+    "stopLossZone": { "price": 1310.00, "reason": "Below 78.6% retracement" },
+    "retracementQuality": "Healthy",
+    "qualityImplication": "50% retracement is textbook healthy pullback. Key decision point - direction from here sets next leg.",
+    "historicalReactions": [
+      { "level": 0.382, "reactionCount": 4, "avgBounce": 2.4 },
+      { "level": 0.5, "reactionCount": 6, "avgBounce": 2.8 },
+      { "level": 0.618, "reactionCount": 3, "avgBounce": 3.2 }
+    ],
+    "priceHistory": [
+      { "date": "2025-10-22", "price": 1298.40, "high": 1308.60, "low": 1292.80 },
+      { "date": "2025-10-29", "price": 1315.60, "high": 1328.40, "low": 1308.20 },
+      { "date": "2025-11-05", "price": 1332.80, "high": 1342.60, "low": 1325.40 },
+      { "date": "2025-11-12", "price": 1345.60, "high": 1352.80, "low": 1338.20 },
+      { "date": "2025-11-19", "price": 1348.40, "high": 1352.80, "low": 1342.60 },
+      { "date": "2025-11-26", "price": 1338.60, "high": 1348.20, "low": 1332.40 },
+      { "date": "2025-12-03", "price": 1328.40, "high": 1342.60, "low": 1322.80 },
+      { "date": "2025-12-10", "price": 1325.80, "high": 1332.40, "low": 1318.60 }
+    ],
+    "insights": [
+      "Textbook 50% retracement - key decision point",
+      "Golden pocket (₹1319-1323) is critical support",
+      "6 historical reactions at 50% with avg 2.8% bounce",
+      "Break above ₹1332 confirms bullish continuation"
+    ]
+  }
+}

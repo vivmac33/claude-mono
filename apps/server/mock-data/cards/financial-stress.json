@@ -1,0 +1,33 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "stressScore": 15,
+    "grade": "Healthy",
+    "components": {
+      "leverage": {
+        "score": 95,
+        "value": 0.02
+      },
+      "liquidity": {
+        "score": 90,
+        "value": 2.8
+      },
+      "coverage": {
+        "score": 88,
+        "value": 45.5
+      },
+      "cashBurn": {
+        "score": 92,
+        "value": 0
+      }
+    },
+    "trend": "Stable",
+    "peerComparison": {
+      "company": 15,
+      "sectorAvg": 28,
+      "sectorBest": 12
+    },
+    "alerts": []
+  }
+}

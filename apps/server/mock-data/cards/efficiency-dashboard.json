@@ -1,0 +1,992 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "overallScore": 85,
+    "grade": "A",
+    "margins": {
+      "gross": 46.56196782605477,
+      "operating": 29.016774613370874,
+      "net": 21.688826400693934,
+      "ebitda": 29.312998049454738
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.2435271549438425,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.929345107926871,
+      "payablesTurnover": 8.705426143850461
+    },
+    "workingCapitalDays": {
+      "dso": 74,
+      "dio": 0,
+      "dpo": 46,
+      "ccc": 31
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "overallScore": 93,
+    "grade": "A",
+    "margins": {
+      "gross": 42.57464513995713,
+      "operating": 28.38179185093885,
+      "net": 18.75700092673265,
+      "ebitda": 28.383643542629184
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.129438115953991,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.263110726813175,
+      "payablesTurnover": 8.525499957716539
+    },
+    "workingCapitalDays": {
+      "dso": 79,
+      "dio": 0,
+      "dpo": 50,
+      "ccc": 31
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 90,
+    "grade": "A",
+    "margins": {
+      "gross": 45.83453340433663,
+      "operating": 28.177970158148145,
+      "net": 21.66168719611434,
+      "ebitda": 28.032705807220132
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.2009587819823453,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.273580333281777,
+      "payablesTurnover": 8.885841149628467
+    },
+    "workingCapitalDays": {
+      "dso": 75,
+      "dio": 0,
+      "dpo": 46,
+      "ccc": 28
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "overallScore": 83,
+    "grade": "A",
+    "margins": {
+      "gross": 44.38876319893437,
+      "operating": 27.210317111817822,
+      "net": 22.56149874206535,
+      "ebitda": 33.93611665498558
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.191277346026448,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.241115583424827,
+      "payablesTurnover": 8.391795755213233
+    },
+    "workingCapitalDays": {
+      "dso": 73,
+      "dio": 0,
+      "dpo": 50,
+      "ccc": 29
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 93,
+    "grade": "A",
+    "margins": {
+      "gross": 47.49912395882961,
+      "operating": 26.684076101981816,
+      "net": 19.586726187381984,
+      "ebitda": 32.74013203063339
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.1652516790223877,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.809686019683782,
+      "payablesTurnover": 8.166571577734945
+    },
+    "workingCapitalDays": {
+      "dso": 72,
+      "dio": 0,
+      "dpo": 47,
+      "ccc": 34
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "overallScore": 91,
+    "grade": "A",
+    "margins": {
+      "gross": 42.25642055339335,
+      "operating": 26.502744124810178,
+      "net": 18.416542421295322,
+      "ebitda": 32.135921105528354
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.234364820909112,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.640357496584815,
+      "payablesTurnover": 8.474116482448887
+    },
+    "workingCapitalDays": {
+      "dso": 71,
+      "dio": 0,
+      "dpo": 53,
+      "ccc": 25
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "overallScore": 83,
+    "grade": "A",
+    "margins": {
+      "gross": 42.2869408649166,
+      "operating": 27.848187405233837,
+      "net": 22.06906380616958,
+      "ebitda": 28.150525888541388
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.1887514747331165,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.546506617618858,
+      "payablesTurnover": 8.213268400457869
+    },
+    "workingCapitalDays": {
+      "dso": 77,
+      "dio": 0,
+      "dpo": 51,
+      "ccc": 31
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "overallScore": 87,
+    "grade": "A",
+    "margins": {
+      "gross": 40.59923264120066,
+      "operating": 26.224972636842804,
+      "net": 21.536909205909797,
+      "ebitda": 29.279070280728344
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.273939427465705,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.297164027817447,
+      "payablesTurnover": 8.971280205187973
+    },
+    "workingCapitalDays": {
+      "dso": 76,
+      "dio": 0,
+      "dpo": 49,
+      "ccc": 32
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 85,
+    "grade": "A",
+    "margins": {
+      "gross": 40.48429728291874,
+      "operating": 24.997707677632466,
+      "net": 18.514561086225573,
+      "ebitda": 32.20271433405016
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.2017893831488005,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 6.100323491254315,
+      "payablesTurnover": 8.959986748593462
+    },
+    "workingCapitalDays": {
+      "dso": 78,
+      "dio": 0,
+      "dpo": 54,
+      "ccc": 34
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "overallScore": 92,
+    "grade": "A",
+    "margins": {
+      "gross": 46.830448576617336,
+      "operating": 24.42526465534473,
+      "net": 19.43690914184566,
+      "ebitda": 31.078504930048922
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.111901635485686,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 6.030662530273207,
+      "payablesTurnover": 8.251065944318455
+    },
+    "workingCapitalDays": {
+      "dso": 78,
+      "dio": 0,
+      "dpo": 47,
+      "ccc": 29
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "overallScore": 92,
+    "grade": "A",
+    "margins": {
+      "gross": 46.33354895110299,
+      "operating": 25.15827165700213,
+      "net": 18.485670499281195,
+      "ebitda": 29.033105389131265
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.1016730598107243,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.925665044019979,
+      "payablesTurnover": 8.43059214765836
+    },
+    "workingCapitalDays": {
+      "dso": 74,
+      "dio": 0,
+      "dpo": 47,
+      "ccc": 34
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "overallScore": 88,
+    "grade": "A",
+    "margins": {
+      "gross": 41.0695975334285,
+      "operating": 25.92847314922191,
+      "net": 19.299681782195318,
+      "ebitda": 33.97205061666628
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.10692068828434,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.886834138704093,
+      "payablesTurnover": 8.488573976448924
+    },
+    "workingCapitalDays": {
+      "dso": 79,
+      "dio": 0,
+      "dpo": 47,
+      "ccc": 29
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "overallScore": 84,
+    "grade": "A",
+    "margins": {
+      "gross": 46.46621284798419,
+      "operating": 24.012127075371335,
+      "net": 19.669027570418496,
+      "ebitda": 28.67909046552142
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.2739866159154052,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 6.015822013921679,
+      "payablesTurnover": 8.355418695060601
+    },
+    "workingCapitalDays": {
+      "dso": 75,
+      "dio": 0,
+      "dpo": 48,
+      "ccc": 33
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "overallScore": 85,
+    "grade": "A",
+    "margins": {
+      "gross": 46.56333471011072,
+      "operating": 29.847750939814365,
+      "net": 19.289096720354102,
+      "ebitda": 28.884067262218807
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.1030032489798103,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.57983087048052,
+      "payablesTurnover": 8.779098225776803
+    },
+    "workingCapitalDays": {
+      "dso": 71,
+      "dio": 0,
+      "dpo": 45,
+      "ccc": 27
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "overallScore": 85,
+    "grade": "A",
+    "margins": {
+      "gross": 44.81583871747961,
+      "operating": 24.612102116582307,
+      "net": 19.50272059478673,
+      "ebitda": 28.693743201308138
+    },
+    "marginTrends": [
+      {
+        "period": "FY2020",
+        "gross": 38,
+        "operating": 22,
+        "net": 16
+      },
+      {
+        "period": "FY2021",
+        "gross": 40,
+        "operating": 24,
+        "net": 17
+      },
+      {
+        "period": "FY2022",
+        "gross": 41,
+        "operating": 25,
+        "net": 18
+      },
+      {
+        "period": "FY2023",
+        "gross": 42,
+        "operating": 26,
+        "net": 19
+      },
+      {
+        "period": "FY2024",
+        "gross": 43,
+        "operating": 27,
+        "net": 20
+      }
+    ],
+    "efficiencyRatios": {
+      "assetTurnover": 1.1834127481726395,
+      "inventoryTurnover": 0,
+      "receivablesTurnover": 5.652582599830701,
+      "payablesTurnover": 8.835068278950448
+    },
+    "workingCapitalDays": {
+      "dso": 75,
+      "dio": 0,
+      "dpo": 45,
+      "ccc": 32
+    },
+    "peerComparison": {
+      "operatingMargin": {
+        "company": 26.5,
+        "peer": 22
+      },
+      "assetTurnover": {
+        "company": 1.15,
+        "peer": 0.95
+      }
+    }
+  }
+}

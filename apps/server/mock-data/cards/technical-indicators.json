@@ -1,0 +1,857 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 72,
+    "indicators": {
+      "rsi": {
+        "value": 60,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 19.752198483545747,
+        "signal": "Bullish",
+        "histogram": 2.160648033248555
+      },
+      "stochastic": {
+        "k": 78,
+        "d": 66,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 33,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 83,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -44,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 7,
+      "bearish": 1,
+      "neutral": 2
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 70,
+    "indicators": {
+      "rsi": {
+        "value": 64,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 13.529866484768064,
+        "signal": "Bullish",
+        "histogram": 4.546649175010829
+      },
+      "stochastic": {
+        "k": 76,
+        "d": 59,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 34,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 83,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -40,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 9,
+      "bearish": 3,
+      "neutral": 2
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "overallSignal": "Neutral",
+    "score": 81,
+    "indicators": {
+      "rsi": {
+        "value": 67,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 16.690471851323956,
+        "signal": "Bullish",
+        "histogram": 3.6479566463937814
+      },
+      "stochastic": {
+        "k": 71,
+        "d": 60,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 28,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 84,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -47,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 10,
+      "bearish": 2,
+      "neutral": 3
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "overallSignal": "Neutral",
+    "score": 76,
+    "indicators": {
+      "rsi": {
+        "value": 55,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 12.237145032144968,
+        "signal": "Bullish",
+        "histogram": 2.703453755543319
+      },
+      "stochastic": {
+        "k": 76,
+        "d": 59,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 26,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 82,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -42,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 9,
+      "bearish": 2,
+      "neutral": 4
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 73,
+    "indicators": {
+      "rsi": {
+        "value": 65,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 16.814534570698296,
+        "signal": "Bullish",
+        "histogram": 2.9506682937399473
+      },
+      "stochastic": {
+        "k": 68,
+        "d": 69,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 25,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 92,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -44,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 8,
+      "bearish": 3,
+      "neutral": 2
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "overallSignal": "Neutral",
+    "score": 80,
+    "indicators": {
+      "rsi": {
+        "value": 63,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 13.67540496049166,
+        "signal": "Bullish",
+        "histogram": 3.0474286126657297
+      },
+      "stochastic": {
+        "k": 79,
+        "d": 55,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 29,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 96,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -31,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 7,
+      "bearish": 3,
+      "neutral": 3
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 78,
+    "indicators": {
+      "rsi": {
+        "value": 53,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 17.791513611212366,
+        "signal": "Bullish",
+        "histogram": 3.8856316629773193
+      },
+      "stochastic": {
+        "k": 70,
+        "d": 56,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 32,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 83,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -36,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 10,
+      "bearish": 1,
+      "neutral": 4
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 72,
+    "indicators": {
+      "rsi": {
+        "value": 54,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 17.155061903394145,
+        "signal": "Bullish",
+        "histogram": 2.561264980616407
+      },
+      "stochastic": {
+        "k": 76,
+        "d": 64,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 32,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 88,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -42,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 8,
+      "bearish": 3,
+      "neutral": 2
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 69,
+    "indicators": {
+      "rsi": {
+        "value": 65,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 14.33407161680229,
+        "signal": "Bullish",
+        "histogram": 4.129952945961709
+      },
+      "stochastic": {
+        "k": 74,
+        "d": 63,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 27,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 99,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -41,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 10,
+      "bearish": 2,
+      "neutral": 4
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "overallSignal": "Neutral",
+    "score": 83,
+    "indicators": {
+      "rsi": {
+        "value": 60,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 16.241298843583863,
+        "signal": "Bullish",
+        "histogram": 3.187180218979089
+      },
+      "stochastic": {
+        "k": 64,
+        "d": 58,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 28,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 97,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -46,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 9,
+      "bearish": 1,
+      "neutral": 3
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 79,
+    "indicators": {
+      "rsi": {
+        "value": 67,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 15.053253939990647,
+        "signal": "Bullish",
+        "histogram": 3.426955619741809
+      },
+      "stochastic": {
+        "k": 69,
+        "d": 63,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 33,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 105,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -49,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 10,
+      "bearish": 3,
+      "neutral": 4
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 64,
+    "indicators": {
+      "rsi": {
+        "value": 63,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 11.434294746391934,
+        "signal": "Bullish",
+        "histogram": 3.1091044503789655
+      },
+      "stochastic": {
+        "k": 67,
+        "d": 63,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 31,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 77,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -33,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 10,
+      "bearish": 3,
+      "neutral": 3
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "overallSignal": "Neutral",
+    "score": 75,
+    "indicators": {
+      "rsi": {
+        "value": 53,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 17.70739967764229,
+        "signal": "Bullish",
+        "histogram": 2.433518932633528
+      },
+      "stochastic": {
+        "k": 74,
+        "d": 61,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 31,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 89,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -31,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 7,
+      "bearish": 2,
+      "neutral": 2
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "overallSignal": "Neutral",
+    "score": 68,
+    "indicators": {
+      "rsi": {
+        "value": 54,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 12.14656751904755,
+        "signal": "Bullish",
+        "histogram": 2.9578938618061232
+      },
+      "stochastic": {
+        "k": 70,
+        "d": 65,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 27,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 103,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -35,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 9,
+      "bearish": 2,
+      "neutral": 4
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "overallSignal": "Buy",
+    "score": 77,
+    "indicators": {
+      "rsi": {
+        "value": 65,
+        "signal": "Neutral"
+      },
+      "macd": {
+        "value": 15.00198596092314,
+        "signal": "Bullish",
+        "histogram": 4.875392335898976
+      },
+      "stochastic": {
+        "k": 76,
+        "d": 60,
+        "signal": "Bullish"
+      },
+      "adx": {
+        "value": 34,
+        "signal": "Trending"
+      },
+      "cci": {
+        "value": 108,
+        "signal": "Bullish"
+      },
+      "williamsR": {
+        "value": -43,
+        "signal": "Neutral"
+      }
+    },
+    "movingAverages": {
+      "sma20": {
+        "value": 3680,
+        "signal": "Bullish"
+      },
+      "sma50": {
+        "value": 3620,
+        "signal": "Bullish"
+      },
+      "sma200": {
+        "value": 3450,
+        "signal": "Bullish"
+      },
+      "ema20": {
+        "value": 3690,
+        "signal": "Bullish"
+      }
+    },
+    "summary": {
+      "bullish": 7,
+      "bearish": 1,
+      "neutral": 4
+    }
+  }
+}

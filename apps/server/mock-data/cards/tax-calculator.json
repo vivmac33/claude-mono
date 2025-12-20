@@ -1,0 +1,194 @@
+{
+  "PORTFOLIO": {
+    "asOf": "2025-12-11",
+    "financialYear": "FY 2025-26",
+    "holdings": [
+      {
+        "symbol": "RELIANCE",
+        "buyDate": "2024-03-15",
+        "buyPrice": 2450.00,
+        "quantity": 50,
+        "currentPrice": 1291.80,
+        "holdingPeriod": 21,
+        "isLongTerm": true,
+        "gain": -57910.00,
+        "gainPct": -47.27
+      },
+      {
+        "symbol": "TCS",
+        "buyDate": "2024-06-20",
+        "buyPrice": 3850.00,
+        "quantity": 30,
+        "currentPrice": 4098.60,
+        "holdingPeriod": 18,
+        "isLongTerm": true,
+        "gain": 7458.00,
+        "gainPct": 6.46
+      },
+      {
+        "symbol": "HDFCBANK",
+        "buyDate": "2024-09-10",
+        "buyPrice": 1680.00,
+        "quantity": 60,
+        "currentPrice": 1718.40,
+        "holdingPeriod": 15,
+        "isLongTerm": true,
+        "gain": 2304.00,
+        "gainPct": 2.29
+      },
+      {
+        "symbol": "INFY",
+        "buyDate": "2025-02-15",
+        "buyPrice": 1750.00,
+        "quantity": 40,
+        "currentPrice": 1925.30,
+        "holdingPeriod": 10,
+        "isLongTerm": false,
+        "gain": 7012.00,
+        "gainPct": 10.02
+      },
+      {
+        "symbol": "ICICIBANK",
+        "buyDate": "2025-04-25",
+        "buyPrice": 1280.00,
+        "quantity": 80,
+        "currentPrice": 1325.80,
+        "holdingPeriod": 8,
+        "isLongTerm": false,
+        "gain": 3664.00,
+        "gainPct": 3.58
+      },
+      {
+        "symbol": "WIPRO",
+        "buyDate": "2025-08-05",
+        "buyPrice": 520.00,
+        "quantity": 100,
+        "currentPrice": 485.60,
+        "holdingPeriod": 4,
+        "isLongTerm": false,
+        "gain": -3440.00,
+        "gainPct": -6.62
+      },
+      {
+        "symbol": "TATASTEEL",
+        "buyDate": "2025-07-12",
+        "buyPrice": 165.00,
+        "quantity": 300,
+        "currentPrice": 142.50,
+        "holdingPeriod": 5,
+        "isLongTerm": false,
+        "gain": -6750.00,
+        "gainPct": -13.64
+      },
+      {
+        "symbol": "BAJFINANCE",
+        "buyDate": "2024-01-18",
+        "buyPrice": 6800.00,
+        "quantity": 15,
+        "currentPrice": 7250.40,
+        "holdingPeriod": 23,
+        "isLongTerm": true,
+        "gain": 6756.00,
+        "gainPct": 6.62
+      }
+    ],
+    "taxBreakdown": {
+      "ltcgGains": 16518.00,
+      "stcgGains": 10676.00,
+      "ltcgLosses": 57910.00,
+      "stcgLosses": 10190.00,
+      "netLTCG": -41392.00,
+      "netSTCG": 486.00,
+      "ltcgExemption": 125000.00,
+      "taxableLTCG": 0,
+      "ltcgTax": 0,
+      "stcgTax": 97.20,
+      "totalTax": 97.20,
+      "effectiveTaxRate": 0.24
+    },
+    "harvestingOpportunities": [
+      {
+        "symbol": "WIPRO",
+        "currentLoss": -3440.00,
+        "potentialTaxSaving": 688.00,
+        "recommendedAction": "Sell to book loss, can offset STCG",
+        "canOffset": ["INFY STCG (₹7,012)", "ICICIBANK STCG (₹3,664)"]
+      },
+      {
+        "symbol": "TATASTEEL",
+        "currentLoss": -6750.00,
+        "potentialTaxSaving": 1350.00,
+        "recommendedAction": "Sell to book loss, can offset STCG",
+        "canOffset": ["INFY STCG (₹7,012)", "ICICIBANK STCG (₹3,664)"]
+      }
+    ],
+    "potentialTaxSaving": 2038.00,
+    "dividendTax": {
+      "totalDividends": 28500.00,
+      "tdsDeducted": 2850.00,
+      "additionalTaxDue": 5700.00,
+      "effectiveRate": 30.0,
+      "exemptionUsed": 0
+    },
+    "grandfatheredGains": 0,
+    "suggestions": [
+      "Consider tax-loss harvesting: Sell WIPRO and TATASTEEL to book ₹10,190 in losses",
+      "LTCG is negative (₹-41,392) - carry forward for 8 years to offset future gains",
+      "4 holdings approaching long-term status within 60 days - consider holding for lower tax",
+      "Dividend income of ₹28,500 taxed at your slab rate - consider growth stocks for tax efficiency"
+    ],
+    "estimatedAnnualTax": 5000.00,
+    "holdingsApproachingLongTerm": [
+      {
+        "symbol": "INFY",
+        "buyDate": "2025-02-15",
+        "buyPrice": 1750.00,
+        "quantity": 40,
+        "currentPrice": 1925.30,
+        "holdingPeriod": 10,
+        "isLongTerm": false,
+        "gain": 7012.00,
+        "gainPct": 10.02,
+        "daysToLongTerm": 55
+      },
+      {
+        "symbol": "ICICIBANK",
+        "buyDate": "2025-04-25",
+        "buyPrice": 1280.00,
+        "quantity": 80,
+        "currentPrice": 1325.80,
+        "holdingPeriod": 8,
+        "isLongTerm": false,
+        "gain": 3664.00,
+        "gainPct": 3.58,
+        "daysToLongTerm": 135
+      }
+    ],
+    "totalInvested": 785200.00,
+    "currentValue": 744106.00,
+    "totalUnrealizedGain": -41094.00,
+    "totalRealizedGain": 15200.00,
+    "realizedGainsThisYear": 15200.00,
+    "insights": [
+      "Current tax liability: ₹97 only (STCG) - excellent tax efficiency",
+      "₹41,392 in LTCG losses can be carried forward for 8 years",
+      "Tax-loss harvesting can save additional ₹2,038",
+      "INFY will become long-term in 55 days - hold for lower tax rate (12.5% vs 20%)"
+    ]
+  },
+  "TAX_RATES_2025": {
+    "ltcgRate": 12.5,
+    "ltcgExemption": 125000,
+    "stcgRate": 20,
+    "dividendTdsThreshold": 10000,
+    "dividendTdsRate": 10,
+    "longTermPeriod": 12,
+    "grandfatheringDate": "2018-01-31",
+    "notes": [
+      "Budget 2024: LTCG increased to 12.5% from 10%",
+      "Budget 2024: LTCG exemption increased to ₹1.25L from ₹1L",
+      "Budget 2024: STCG increased to 20% from 15%",
+      "Dividend TDS: 10% if annual dividends exceed ₹10,000 from a single company"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "altmanZ": {
+      "score": 7.289986770346564,
+      "zone": "Safe"
+    },
+    "grahamNumber": 3245,
+    "currentPrice": 3720,
+    "marginOfSafety": -35
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "altmanZ": {
+      "score": 6.670293299866385,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2812,
+    "currentPrice": 3720,
+    "marginOfSafety": -31
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "altmanZ": {
+      "score": 6.726314241703095,
+      "zone": "Safe"
+    },
+    "grahamNumber": 3255,
+    "currentPrice": 3720,
+    "marginOfSafety": -34
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "altmanZ": {
+      "score": 6.931041855685871,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2949,
+    "currentPrice": 3720,
+    "marginOfSafety": -25
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "altmanZ": {
+      "score": 5.635454235456099,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2864,
+    "currentPrice": 3720,
+    "marginOfSafety": -28
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "altmanZ": {
+      "score": 4.785077502283077,
+      "zone": "Safe"
+    },
+    "grahamNumber": 3120,
+    "currentPrice": 3720,
+    "marginOfSafety": -33
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "altmanZ": {
+      "score": 5.777273788117928,
+      "zone": "Safe"
+    },
+    "grahamNumber": 3226,
+    "currentPrice": 3720,
+    "marginOfSafety": -29
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "altmanZ": {
+      "score": 6.326350465765738,
+      "zone": "Safe"
+    },
+    "grahamNumber": 3256,
+    "currentPrice": 3720,
+    "marginOfSafety": -28
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "altmanZ": {
+      "score": 4.938767187740469,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2983,
+    "currentPrice": 3720,
+    "marginOfSafety": -29
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "altmanZ": {
+      "score": 6.405751597233865,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2963,
+    "currentPrice": 3720,
+    "marginOfSafety": -33
+  },
+  "LT": {
+    "symbol": "LT",
+    "altmanZ": {
+      "score": 6.468851015253155,
+      "zone": "Safe"
+    },
+    "grahamNumber": 3002,
+    "currentPrice": 3720,
+    "marginOfSafety": -35
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "altmanZ": {
+      "score": 6.41675571832147,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2923,
+    "currentPrice": 3720,
+    "marginOfSafety": -27
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "altmanZ": {
+      "score": 4.976471615675499,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2924,
+    "currentPrice": 3720,
+    "marginOfSafety": -31
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "altmanZ": {
+      "score": 6.5758230252507905,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2813,
+    "currentPrice": 3720,
+    "marginOfSafety": -28
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "altmanZ": {
+      "score": 6.252694004177522,
+      "zone": "Safe"
+    },
+    "grahamNumber": 2881,
+    "currentPrice": 3720,
+    "marginOfSafety": -33
+  }
+}

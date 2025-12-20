@@ -1,0 +1,30 @@
+{
+  "id": "valuation-summary",
+  "label": "Valuation Summary",
+  "category": "value",
+  "tags": ["valuation", "multiples", "pe", "pb", "ps", "ev/ebitda", "peg"],
+  "description": "Comprehensive multi-metric valuation dashboard with relative rankings, radar visualization, historical context, and peer comparisons.",
+  "dataSources": ["Fundamentals", "PeerData", "HistoricalMultiples"],
+  "outputs": [
+    "Overall valuation score (0-100)",
+    "Key multiples vs median",
+    "Radar chart of relative metrics",
+    "Historical P/E trend",
+    "Peer comparison table",
+    "Percentile ranking"
+  ],
+  "layout": {
+    "type": "valuation-summary",
+    "sections": [
+      "header-with-radial-gauge",
+      "metrics-strip",
+      "radar-and-pe-charts",
+      "peer-comparison",
+      "interpretation-footer"
+    ]
+  },
+  "api": {
+    "endpoint": "/api/analytics/valuation-summary",
+    "params": ["symbol"]
+  }
+}

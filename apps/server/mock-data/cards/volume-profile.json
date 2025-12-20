@@ -1,0 +1,263 @@
+{
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "timeframe": "1D",
+    "poc": 1285.50,
+    "vah": 1298.75,
+    "val": 1272.25,
+    "currentPrice": 1291.80,
+    "valueAreaVolumePct": 68.5,
+    "valueAreaRange": 2.08,
+    "pricePosition": "In Value Area",
+    "priceVsPOC": 0.49,
+    "lvnZones": [
+      { "low": 1265.00, "high": 1270.00, "gapSize": 5.00 },
+      { "low": 1302.00, "high": 1308.00, "gapSize": 6.00 }
+    ],
+    "hvnZones": [
+      { "price": 1285.50, "volumePct": 15.2 },
+      { "price": 1278.00, "volumePct": 12.8 },
+      { "price": 1293.25, "volumePct": 11.5 }
+    ],
+    "bias": "Bullish",
+    "biasReason": "Price trading above POC with strong volume confirmation. Value area developing higher suggests institutional accumulation.",
+    "nearestSupport": 1278.00,
+    "nearestResistance": 1298.75,
+    "totalBuyVolume": 4850000,
+    "totalSellVolume": 3920000,
+    "volumeDelta": 930000,
+    "deltaSignal": "Buy",
+    "profileShape": "P-Shape",
+    "shapeImplication": "P-Shape indicates buying pressure with value developing at higher prices - bullish continuation likely",
+    "volumeDistribution": [
+      { "price": 1260.00, "volume": 185000, "buyVolume": 92000, "sellVolume": 93000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1265.00, "volume": 142000, "buyVolume": 68000, "sellVolume": 74000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1270.00, "volume": 198000, "buyVolume": 95000, "sellVolume": 103000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1272.25, "volume": 425000, "buyVolume": 210000, "sellVolume": 215000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": true },
+      { "price": 1275.00, "volume": 520000, "buyVolume": 275000, "sellVolume": 245000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1278.00, "volume": 680000, "buyVolume": 365000, "sellVolume": 315000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1281.00, "volume": 545000, "buyVolume": 285000, "sellVolume": 260000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1285.50, "volume": 812000, "buyVolume": 445000, "sellVolume": 367000, "isHVN": true, "isLVN": false, "isPOC": true, "isVAH": false, "isVAL": false },
+      { "price": 1288.00, "volume": 478000, "buyVolume": 265000, "sellVolume": 213000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1291.00, "volume": 395000, "buyVolume": 215000, "sellVolume": 180000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1293.25, "volume": 612000, "buyVolume": 342000, "sellVolume": 270000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1296.00, "volume": 358000, "buyVolume": 195000, "sellVolume": 163000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1298.75, "volume": 445000, "buyVolume": 248000, "sellVolume": 197000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": true, "isVAL": false },
+      { "price": 1302.00, "volume": 165000, "buyVolume": 88000, "sellVolume": 77000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1305.00, "volume": 125000, "buyVolume": 62000, "sellVolume": 63000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false }
+    ],
+    "insights": [
+      "POC at ₹1285.50 with 15.2% volume concentration - strong pivot level",
+      "Positive volume delta (+9.3L) indicates net buying pressure",
+      "LVN at ₹1302-1308 could see fast move if breached",
+      "P-Shape profile suggests continuation higher, watch VAH breakout"
+    ]
+  },
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "timeframe": "1D",
+    "poc": 4125.00,
+    "vah": 4165.50,
+    "val": 4085.25,
+    "currentPrice": 4098.60,
+    "valueAreaVolumePct": 71.2,
+    "valueAreaRange": 1.96,
+    "pricePosition": "In Value Area",
+    "priceVsPOC": -0.64,
+    "lvnZones": [
+      { "low": 4070.00, "high": 4078.00, "gapSize": 8.00 },
+      { "low": 4175.00, "high": 4185.00, "gapSize": 10.00 }
+    ],
+    "hvnZones": [
+      { "price": 4125.00, "volumePct": 18.5 },
+      { "price": 4095.00, "volumePct": 14.2 },
+      { "price": 4145.00, "volumePct": 12.8 }
+    ],
+    "bias": "Neutral",
+    "biasReason": "Price oscillating around POC with balanced buying/selling. Range-bound activity expected until VAH/VAL breach.",
+    "nearestSupport": 4085.25,
+    "nearestResistance": 4125.00,
+    "totalBuyVolume": 1850000,
+    "totalSellVolume": 1920000,
+    "volumeDelta": -70000,
+    "deltaSignal": "Neutral",
+    "profileShape": "D-Shape",
+    "shapeImplication": "D-Shape indicates balanced market with consolidation - wait for breakout direction",
+    "volumeDistribution": [
+      { "price": 4065.00, "volume": 85000, "buyVolume": 40000, "sellVolume": 45000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4075.00, "volume": 98000, "buyVolume": 48000, "sellVolume": 50000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4085.25, "volume": 245000, "buyVolume": 118000, "sellVolume": 127000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": true },
+      { "price": 4095.00, "volume": 385000, "buyVolume": 185000, "sellVolume": 200000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4105.00, "volume": 298000, "buyVolume": 148000, "sellVolume": 150000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4115.00, "volume": 342000, "buyVolume": 175000, "sellVolume": 167000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4125.00, "volume": 502000, "buyVolume": 255000, "sellVolume": 247000, "isHVN": true, "isLVN": false, "isPOC": true, "isVAH": false, "isVAL": false },
+      { "price": 4135.00, "volume": 278000, "buyVolume": 142000, "sellVolume": 136000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4145.00, "volume": 348000, "buyVolume": 178000, "sellVolume": 170000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4155.00, "volume": 215000, "buyVolume": 112000, "sellVolume": 103000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 4165.50, "volume": 285000, "buyVolume": 148000, "sellVolume": 137000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": true, "isVAL": false },
+      { "price": 4175.00, "volume": 95000, "buyVolume": 52000, "sellVolume": 43000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false }
+    ],
+    "insights": [
+      "D-Shape profile indicates consolidation phase - range-bound trading",
+      "POC at ₹4125 acting as magnetic pivot for price",
+      "Slight negative delta suggests subtle distribution",
+      "Watch for breakout above VAH (₹4165) or below VAL (₹4085)"
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "timeframe": "1D",
+    "poc": 1745.25,
+    "vah": 1768.00,
+    "val": 1722.50,
+    "currentPrice": 1718.40,
+    "valueAreaVolumePct": 69.8,
+    "valueAreaRange": 2.64,
+    "pricePosition": "Below VAL",
+    "priceVsPOC": -1.54,
+    "lvnZones": [
+      { "low": 1708.00, "high": 1715.00, "gapSize": 7.00 },
+      { "low": 1775.00, "high": 1785.00, "gapSize": 10.00 }
+    ],
+    "hvnZones": [
+      { "price": 1745.25, "volumePct": 16.8 },
+      { "price": 1732.00, "volumePct": 13.5 },
+      { "price": 1758.00, "volumePct": 11.2 }
+    ],
+    "bias": "Bearish",
+    "biasReason": "Price rejected from POC and broke below VAL. Selling pressure dominant with negative delta.",
+    "nearestSupport": 1708.00,
+    "nearestResistance": 1722.50,
+    "totalBuyVolume": 2150000,
+    "totalSellVolume": 2680000,
+    "volumeDelta": -530000,
+    "deltaSignal": "Sell",
+    "profileShape": "b-Shape",
+    "shapeImplication": "b-Shape indicates selling pressure with value developing at lower prices - bearish continuation risk",
+    "volumeDistribution": [
+      { "price": 1705.00, "volume": 125000, "buyVolume": 55000, "sellVolume": 70000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1712.00, "volume": 168000, "buyVolume": 72000, "sellVolume": 96000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1718.00, "volume": 285000, "buyVolume": 125000, "sellVolume": 160000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1722.50, "volume": 358000, "buyVolume": 162000, "sellVolume": 196000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": true },
+      { "price": 1728.00, "volume": 425000, "buyVolume": 195000, "sellVolume": 230000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1732.00, "volume": 478000, "buyVolume": 218000, "sellVolume": 260000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1738.00, "volume": 385000, "buyVolume": 178000, "sellVolume": 207000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1745.25, "volume": 595000, "buyVolume": 275000, "sellVolume": 320000, "isHVN": true, "isLVN": false, "isPOC": true, "isVAH": false, "isVAL": false },
+      { "price": 1752.00, "volume": 312000, "buyVolume": 148000, "sellVolume": 164000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1758.00, "volume": 398000, "buyVolume": 192000, "sellVolume": 206000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1765.00, "volume": 245000, "buyVolume": 122000, "sellVolume": 123000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1768.00, "volume": 285000, "buyVolume": 145000, "sellVolume": 140000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": true, "isVAL": false },
+      { "price": 1775.00, "volume": 112000, "buyVolume": 58000, "sellVolume": 54000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false }
+    ],
+    "insights": [
+      "b-Shape profile with strong selling pressure - distribution phase",
+      "Price broke below VAL (₹1722.50) - bearish signal",
+      "Strong negative delta (-5.3L) confirms selling dominance",
+      "LVN at ₹1708-1715 is next support zone for potential bounce"
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "timeframe": "1D",
+    "poc": 1892.75,
+    "vah": 1918.50,
+    "val": 1868.00,
+    "currentPrice": 1925.30,
+    "valueAreaVolumePct": 67.5,
+    "valueAreaRange": 2.70,
+    "pricePosition": "Above VAH",
+    "priceVsPOC": 1.72,
+    "lvnZones": [
+      { "low": 1855.00, "high": 1862.00, "gapSize": 7.00 },
+      { "low": 1932.00, "high": 1942.00, "gapSize": 10.00 }
+    ],
+    "hvnZones": [
+      { "price": 1892.75, "volumePct": 17.2 },
+      { "price": 1878.00, "volumePct": 13.8 },
+      { "price": 1908.00, "volumePct": 12.5 }
+    ],
+    "bias": "Bullish",
+    "biasReason": "Strong breakout above VAH with positive delta. Volume confirms institutional buying interest.",
+    "nearestSupport": 1918.50,
+    "nearestResistance": 1932.00,
+    "totalBuyVolume": 3250000,
+    "totalSellVolume": 2480000,
+    "volumeDelta": 770000,
+    "deltaSignal": "Strong Buy",
+    "profileShape": "P-Shape",
+    "shapeImplication": "P-Shape with VAH breakout - strong bullish momentum, continuation expected",
+    "volumeDistribution": [
+      { "price": 1850.00, "volume": 95000, "buyVolume": 48000, "sellVolume": 47000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1858.00, "volume": 118000, "buyVolume": 58000, "sellVolume": 60000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1868.00, "volume": 278000, "buyVolume": 145000, "sellVolume": 133000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": true },
+      { "price": 1878.00, "volume": 425000, "buyVolume": 228000, "sellVolume": 197000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1885.00, "volume": 358000, "buyVolume": 192000, "sellVolume": 166000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1892.75, "volume": 528000, "buyVolume": 295000, "sellVolume": 233000, "isHVN": true, "isLVN": false, "isPOC": true, "isVAH": false, "isVAL": false },
+      { "price": 1900.00, "volume": 385000, "buyVolume": 212000, "sellVolume": 173000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1908.00, "volume": 445000, "buyVolume": 248000, "sellVolume": 197000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1918.50, "volume": 298000, "buyVolume": 168000, "sellVolume": 130000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": true, "isVAL": false },
+      { "price": 1925.00, "volume": 245000, "buyVolume": 142000, "sellVolume": 103000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1935.00, "volume": 125000, "buyVolume": 72000, "sellVolume": 53000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false }
+    ],
+    "insights": [
+      "Breakout above VAH (₹1918.50) with strong volume - bullish signal",
+      "Strong positive delta (+7.7L) confirms buying pressure",
+      "P-Shape profile indicates institutional accumulation at higher levels",
+      "LVN at ₹1932-1942 could see rapid extension if breached"
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2025-12-11T14:30:00+05:30",
+    "timeframe": "1D",
+    "poc": 1325.50,
+    "vah": 1342.75,
+    "val": 1308.25,
+    "currentPrice": 1325.80,
+    "valueAreaVolumePct": 70.5,
+    "valueAreaRange": 2.63,
+    "pricePosition": "At POC",
+    "priceVsPOC": 0.02,
+    "lvnZones": [
+      { "low": 1295.00, "high": 1302.00, "gapSize": 7.00 },
+      { "low": 1350.00, "high": 1358.00, "gapSize": 8.00 }
+    ],
+    "hvnZones": [
+      { "price": 1325.50, "volumePct": 19.2 },
+      { "price": 1315.00, "volumePct": 14.5 },
+      { "price": 1335.00, "volumePct": 11.8 }
+    ],
+    "bias": "Neutral",
+    "biasReason": "Price anchored at POC with balanced volume. Waiting for directional catalyst.",
+    "nearestSupport": 1315.00,
+    "nearestResistance": 1335.00,
+    "totalBuyVolume": 2450000,
+    "totalSellVolume": 2380000,
+    "volumeDelta": 70000,
+    "deltaSignal": "Neutral",
+    "profileShape": "D-Shape",
+    "shapeImplication": "D-Shape indicates balanced auction - breakout direction will determine trend",
+    "volumeDistribution": [
+      { "price": 1295.00, "volume": 95000, "buyVolume": 45000, "sellVolume": 50000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1302.00, "volume": 125000, "buyVolume": 62000, "sellVolume": 63000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1308.25, "volume": 285000, "buyVolume": 142000, "sellVolume": 143000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": true },
+      { "price": 1315.00, "volume": 425000, "buyVolume": 218000, "sellVolume": 207000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1320.00, "volume": 358000, "buyVolume": 182000, "sellVolume": 176000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1325.50, "volume": 565000, "buyVolume": 292000, "sellVolume": 273000, "isHVN": true, "isLVN": false, "isPOC": true, "isVAH": false, "isVAL": false },
+      { "price": 1330.00, "volume": 312000, "buyVolume": 158000, "sellVolume": 154000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1335.00, "volume": 398000, "buyVolume": 205000, "sellVolume": 193000, "isHVN": true, "isLVN": false, "isPOC": false, "isVAH": false, "isVAL": false },
+      { "price": 1342.75, "volume": 275000, "buyVolume": 142000, "sellVolume": 133000, "isHVN": false, "isLVN": false, "isPOC": false, "isVAH": true, "isVAL": false },
+      { "price": 1350.00, "volume": 115000, "buyVolume": 58000, "sellVolume": 57000, "isHVN": false, "isLVN": true, "isPOC": false, "isVAH": false, "isVAL": false }
+    ],
+    "insights": [
+      "Price anchored at POC (₹1325.50) - key decision point",
+      "D-Shape indicates balanced market with no clear direction",
+      "Slight positive delta suggests marginal buyer interest",
+      "Trade breakout above VAH (₹1342.75) or below VAL (₹1308.25)"
+    ]
+  }
+}

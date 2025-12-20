@@ -1,0 +1,572 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 33.94899642177773,
+      "estimatedRevenue": 6895660,
+      "daysAway": 27
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.942616878699724,
+      "estimatedRevenue": 6936888,
+      "daysAway": 29
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 33.67844586641434,
+      "estimatedRevenue": 6968350,
+      "daysAway": 29
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 35.319334972790976,
+      "estimatedRevenue": 6919756,
+      "daysAway": 25
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.27032094118053,
+      "estimatedRevenue": 6595929,
+      "daysAway": 27
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.871305549212295,
+      "estimatedRevenue": 6835360,
+      "daysAway": 24
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.12981593806789,
+      "estimatedRevenue": 6583206,
+      "daysAway": 21
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 35.4544510555442,
+      "estimatedRevenue": 6787643,
+      "daysAway": 28
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.849833930658505,
+      "estimatedRevenue": 6666882,
+      "daysAway": 28
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 35.479155406620634,
+      "estimatedRevenue": 6889009,
+      "daysAway": 27
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.983904295550815,
+      "estimatedRevenue": 6929441,
+      "daysAway": 20
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.44944112603842,
+      "estimatedRevenue": 6589064,
+      "daysAway": 22
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.62352225487142,
+      "estimatedRevenue": 6835310,
+      "daysAway": 23
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 33.61735534238747,
+      "estimatedRevenue": 6894657,
+      "daysAway": 24
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "upcoming": {
+      "date": "2025-01-09",
+      "quarter": "Q3FY25",
+      "estimatedEPS": 34.832634467621844,
+      "estimatedRevenue": 6686511,
+      "daysAway": 28
+    },
+    "historicalBeats": {
+      "last4Q": 100,
+      "last8Q": 87.5
+    },
+    "peerEarnings": [
+      {
+        "symbol": "INFY",
+        "date": "2025-01-11",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "WIPRO",
+        "date": "2025-01-08",
+        "status": "upcoming"
+      },
+      {
+        "symbol": "HCLTECH",
+        "date": "2025-01-12",
+        "status": "upcoming"
+      }
+    ],
+    "estimates": {
+      "epsHigh": 35.5,
+      "epsLow": 31,
+      "epsConsensus": 33.5,
+      "numAnalysts": 28
+    }
+  }
+}

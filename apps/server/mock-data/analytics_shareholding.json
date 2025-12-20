@@ -1,0 +1,27 @@
+{
+  "title": "Shareholding Pattern \u00b7 SampleCo",
+  "symbol": "SMPSH",
+  "latest": {
+    "promoter_pct": 60.0,
+    "inst_pct": 25.2,
+    "other_pct": 14.8
+  },
+  "trends": [
+    {
+      "q": "Q1",
+      "promoter_pct": 60.0,
+      "inst_pct": 25.2
+    },
+    {
+      "q": "Q2",
+      "promoter_pct": 60.5,
+      "inst_pct": 24.7
+    },
+    {
+      "q": "Q3",
+      "promoter_pct": 61.0,
+      "inst_pct": 24.0
+    }
+  ],
+  "meta": "Ownership changes over last 3 periods."
+}

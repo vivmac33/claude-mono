@@ -1,0 +1,31 @@
+{
+  "id": "dupont-analysis",
+  "label": "DuPont Analysis",
+  "category": "value",
+  "tags": ["dupont", "roe", "margin", "turnover", "leverage", "profitability"],
+  "description": "Three-factor DuPont decomposition breaking ROE into profit margin, asset turnover, and financial leverage.",
+  "dataSources": ["FinancialStatements"],
+  "outputs": [
+    "ROE with change",
+    "Net profit margin",
+    "Asset turnover ratio",
+    "Equity multiplier (leverage)",
+    "Historical trend chart",
+    "Peer comparison",
+    "Primary driver identification"
+  ],
+  "layout": {
+    "type": "dupont-analysis",
+    "sections": [
+      "header-with-roe",
+      "metrics-strip",
+      "formula-visual",
+      "historical-chart",
+      "interpretation-footer"
+    ]
+  },
+  "api": {
+    "endpoint": "/api/analytics/dupont-analysis",
+    "params": ["symbol"]
+  }
+}

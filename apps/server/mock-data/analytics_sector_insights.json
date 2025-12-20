@@ -1,0 +1,21 @@
+{
+  "title": "Sector Insights \u00b7 Sample Universe",
+  "sectors": [
+    {
+      "name": "Tech",
+      "one_month_pct": 5.4,
+      "three_month_pct": 8.2
+    },
+    {
+      "name": "Banks",
+      "one_month_pct": -1.2,
+      "three_month_pct": 3.1
+    },
+    {
+      "name": "Healthcare",
+      "one_month_pct": 2.3,
+      "three_month_pct": 6.7
+    }
+  ],
+  "meta": "Relative performance heatmap foundation for rotation strategies."
+}

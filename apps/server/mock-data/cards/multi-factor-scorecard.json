@@ -1,0 +1,78 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "compositeScore": 82,
+    "grade": "A",
+    "factors": [
+      {
+        "name": "Value",
+        "score": 72,
+        "maxScore": 100,
+        "weight": 0.2,
+        "trend": "up"
+      },
+      {
+        "name": "Quality",
+        "score": 88,
+        "maxScore": 100,
+        "weight": 0.25,
+        "trend": "stable"
+      },
+      {
+        "name": "Momentum",
+        "score": 75,
+        "maxScore": 100,
+        "weight": 0.15,
+        "trend": "up"
+      },
+      {
+        "name": "Growth",
+        "score": 80,
+        "maxScore": 100,
+        "weight": 0.2,
+        "trend": "up"
+      },
+      {
+        "name": "Stability",
+        "score": 90,
+        "maxScore": 100,
+        "weight": 0.2,
+        "trend": "stable"
+      }
+    ],
+    "radarData": [
+      {
+        "factor": "Value",
+        "score": 72,
+        "benchmark": 60
+      },
+      {
+        "factor": "Quality",
+        "score": 88,
+        "benchmark": 65
+      },
+      {
+        "factor": "Momentum",
+        "score": 75,
+        "benchmark": 55
+      },
+      {
+        "factor": "Growth",
+        "score": 80,
+        "benchmark": 60
+      },
+      {
+        "factor": "Stability",
+        "score": 90,
+        "benchmark": 70
+      }
+    ],
+    "ranking": {
+      "sector": 3,
+      "sectorTotal": 45,
+      "market": 28,
+      "marketTotal": 500
+    }
+  }
+}

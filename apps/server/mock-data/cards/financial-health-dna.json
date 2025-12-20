@@ -1,0 +1,1667 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "healthScore": 82,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": false,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.096140039726556,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 85,
+      "accrualRatio": -0.014117983360574451,
+      "cashConversion": 1.1588835400951338,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 91,
+      "debtToEquity": 0.04001109447947861,
+      "interestCoverage": 80.72906267219395,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 97,
+      "roe": 51.00656588076975,
+      "roa": 29.38996303136356,
+      "opm": 29.031593296996512,
+      "npm": 21.174282365321073,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "healthScore": 87,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 4.56911058689375,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 89,
+      "accrualRatio": 0.007306159202046834,
+      "cashConversion": 1.1526682690632741,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 93,
+      "debtToEquity": 0.049601063225223785,
+      "interestCoverage": 66.4942527444102,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 96,
+      "roe": 47.612339240051675,
+      "roa": 31.54108549972022,
+      "opm": 27.411762153664895,
+      "npm": 22.39051211234457,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 88,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": false,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.327345518170706,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 94,
+      "accrualRatio": -0.013542969686537471,
+      "cashConversion": 1.1337552032048615,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 95,
+      "debtToEquity": 0.06331672780997771,
+      "interestCoverage": 69.19662979228735,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 96,
+      "roe": 48.32886813836019,
+      "roa": 29.36195759510138,
+      "opm": 26.708898294023946,
+      "npm": 21.896980804791102,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "healthScore": 86,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 4.5678975588893795,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 89,
+      "accrualRatio": 0.001465646433752639,
+      "cashConversion": 1.173285050087529,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 91,
+      "debtToEquity": 0.06431436734911324,
+      "interestCoverage": 52.90994579454171,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 96,
+      "roe": 52.640719555729106,
+      "roa": 30.918567365149293,
+      "opm": 30.236457138531165,
+      "npm": 21.006810139655983,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 95,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": false
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 6.6989700584572605,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 93,
+      "accrualRatio": -0.012582303256858763,
+      "cashConversion": 1.1010696440755257,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 97,
+      "debtToEquity": 0.06308656481879678,
+      "interestCoverage": 64.92121401019295,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 90,
+      "roe": 49.37900473271635,
+      "roa": 30.036102859599804,
+      "opm": 26.190506486656794,
+      "npm": 22.45973370511507,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "healthScore": 85,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 4.654222757488481,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 88,
+      "accrualRatio": 0.001128847219110496,
+      "cashConversion": 1.1444219315172839,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 92,
+      "debtToEquity": 0.06256878590801852,
+      "interestCoverage": 75.44382660076003,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 96,
+      "roe": 51.68610564065613,
+      "roa": 27.583153833753215,
+      "opm": 29.647591628277656,
+      "npm": 20.30992256801408,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "healthScore": 94,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 4.638376305098314,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 92,
+      "accrualRatio": 0.0010053587724299685,
+      "cashConversion": 1.1447280772686705,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 95,
+      "debtToEquity": 0.027981581599481147,
+      "interestCoverage": 77.6898729037089,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 91,
+      "roe": 53.471981518598795,
+      "roa": 30.794314600062073,
+      "opm": 28.114922436326015,
+      "npm": 19.292147054463026,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "healthScore": 96,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 4.968908347086012,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 89,
+      "accrualRatio": 0.008142594246672259,
+      "cashConversion": 1.1682792411732685,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 90,
+      "debtToEquity": 0.02647204374251258,
+      "interestCoverage": 54.214807620221606,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 91,
+      "roe": 49.490353107175636,
+      "roa": 25.766772453951727,
+      "opm": 28.159734379808754,
+      "npm": 21.623340044123406,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 93,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": false
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.052972677401463,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 94,
+      "accrualRatio": 0.007468682226934576,
+      "cashConversion": 1.131588649532319,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 94,
+      "debtToEquity": 0.06349084389510025,
+      "interestCoverage": 75.3265235581417,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 88,
+      "roe": 54.797177740175684,
+      "roa": 31.69883650194393,
+      "opm": 30.71015624173522,
+      "npm": 22.96249811896751,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "healthScore": 88,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": false,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 6.749647420896281,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 91,
+      "accrualRatio": 0.0012142943528907699,
+      "cashConversion": 1.1712857764710727,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 93,
+      "debtToEquity": 0.053097530437743734,
+      "interestCoverage": 83.00306362308302,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 91,
+      "roe": 50.83311931466352,
+      "roa": 25.683935062422123,
+      "opm": 29.39777718594851,
+      "npm": 22.777341979862943,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "healthScore": 94,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": false,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 7.178070226872779,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 85,
+      "accrualRatio": 0.0019213164599061888,
+      "cashConversion": 1.175650068436101,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 91,
+      "debtToEquity": 0.05646483676388819,
+      "interestCoverage": 66.92276934388343,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 91,
+      "roe": 49.75336964959648,
+      "roa": 30.37980720359116,
+      "opm": 29.680017837051526,
+      "npm": 21.20829373057849,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "healthScore": 86,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": false,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.69060559408346,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 85,
+      "accrualRatio": -0.015859980863682028,
+      "cashConversion": 1.1413910761634605,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 92,
+      "debtToEquity": 0.06982587201786165,
+      "interestCoverage": 89.56913612857974,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 88,
+      "roe": 45.082229359018434,
+      "roa": 30.44927948430029,
+      "opm": 26.699366665689414,
+      "npm": 19.341572568656137,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "healthScore": 94,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 8,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.422184066748967,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 92,
+      "accrualRatio": 0.008776236830673252,
+      "cashConversion": 1.1606126298743316,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 93,
+      "debtToEquity": 0.06411197468683415,
+      "interestCoverage": 75.0986154485572,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 89,
+      "roe": 50.015217336274105,
+      "roa": 28.559382361638903,
+      "opm": 28.33150990412605,
+      "npm": 21.29311970711293,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "healthScore": 90,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": false
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.433505844339017,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 86,
+      "accrualRatio": -0.0055619151942954866,
+      "cashConversion": 1.165058457103193,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 96,
+      "debtToEquity": 0.06032961621668072,
+      "interestCoverage": 50.595159706074384,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 92,
+      "roe": 50.55256723596363,
+      "roa": 25.378684943730462,
+      "opm": 27.403547390143007,
+      "npm": 19.800684200577546,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "healthScore": 89,
+    "healthGrade": "A",
+    "healthVerdict": "Strong financial health with robust fundamentals",
+    "piotroski": {
+      "totalScore": 7,
+      "components": {
+        "positiveNetIncome": true,
+        "positiveCFO": true,
+        "roaImproving": true,
+        "cfoGreaterThanNI": true,
+        "lowerLeverage": true,
+        "higherCurrentRatio": true,
+        "noNewShares": true,
+        "higherGrossMargin": true,
+        "higherAssetTurnover": true
+      },
+      "interpretation": "Strong financial quality signals"
+    },
+    "altmanZ": {
+      "score": 5.669856058325728,
+      "zone": "Safe",
+      "components": {
+        "workingCapitalRatio": 0.35,
+        "retainedEarningsRatio": 0.45,
+        "ebitRatio": 0.28,
+        "marketValueRatio": 12.5,
+        "salesRatio": 1.15
+      },
+      "interpretation": "Very low bankruptcy risk"
+    },
+    "cashQuality": {
+      "score": 85,
+      "accrualRatio": 0.003514277895690407,
+      "cashConversion": 1.101686696426864,
+      "earningsQuality": "High",
+      "redFlags": []
+    },
+    "leverageHealth": {
+      "score": 90,
+      "debtToEquity": 0.050478052681029326,
+      "interestCoverage": 82.72143538965409,
+      "status": "Conservative"
+    },
+    "profitability": {
+      "score": 89,
+      "roe": 51.18567636309489,
+      "roa": 29.681060942031014,
+      "opm": 28.644170850840997,
+      "npm": 19.016706026590843,
+      "trend": "Improving"
+    },
+    "radarData": [
+      {
+        "metric": "Profitability",
+        "score": 88,
+        "fullMark": 100
+      },
+      {
+        "metric": "Leverage",
+        "score": 92,
+        "fullMark": 100
+      },
+      {
+        "metric": "Cash Quality",
+        "score": 85,
+        "fullMark": 100
+      },
+      {
+        "metric": "Efficiency",
+        "score": 78,
+        "fullMark": 100
+      },
+      {
+        "metric": "Solvency",
+        "score": 95,
+        "fullMark": 100
+      }
+    ],
+    "historicalScores": [
+      {
+        "year": "2020",
+        "score": 75
+      },
+      {
+        "year": "2021",
+        "score": 78
+      },
+      {
+        "year": "2022",
+        "score": 80
+      },
+      {
+        "year": "2023",
+        "score": 82
+      },
+      {
+        "year": "2024",
+        "score": 85
+      }
+    ],
+    "concerns": [],
+    "strengths": [
+      "Industry-leading margins",
+      "Zero debt",
+      "Consistent cash generation",
+      "Strong ROE"
+    ]
+  }
+}

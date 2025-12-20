@@ -1,0 +1,79 @@
+{
+  "asOf": "2024-12-20",
+  "etfs": [
+    {
+      "symbol": "NIFTYBEES",
+      "name": "Nippon India ETF Nifty BeES",
+      "expenseRatio": 0.04,
+      "aum": 45000,
+      "return1Y": 18.5,
+      "tracking": 0.02,
+      "holdings": 50
+    },
+    {
+      "symbol": "BANKBEES",
+      "name": "Nippon India ETF Bank BeES",
+      "expenseRatio": 0.2,
+      "aum": 12000,
+      "return1Y": 12.2,
+      "tracking": 0.05,
+      "holdings": 12
+    },
+    {
+      "symbol": "ITBEES",
+      "name": "Nippon India ETF IT BeES",
+      "expenseRatio": 0.35,
+      "aum": 8000,
+      "return1Y": 15.8,
+      "tracking": 0.08,
+      "holdings": 10
+    }
+  ],
+  "overlap": [
+    {
+      "etf1": "NIFTYBEES",
+      "etf2": "BANKBEES",
+      "overlapPct": 25
+    },
+    {
+      "etf1": "NIFTYBEES",
+      "etf2": "ITBEES",
+      "overlapPct": 18
+    },
+    {
+      "etf1": "BANKBEES",
+      "etf2": "ITBEES",
+      "overlapPct": 0
+    }
+  ],
+  "topHoldings": [
+    {
+      "symbol": "HDFCBANK",
+      "weight": 12.5,
+      "inEtfs": [
+        "NIFTYBEES",
+        "BANKBEES"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "weight": 8.2,
+      "inEtfs": [
+        "NIFTYBEES",
+        "BANKBEES"
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "weight": 5.5,
+      "inEtfs": [
+        "NIFTYBEES",
+        "ITBEES"
+      ]
+    }
+  ],
+  "recommendation": {
+    "pick": "NIFTYBEES",
+    "reason": "Lowest expense ratio with broad market exposure"
+  }
+}

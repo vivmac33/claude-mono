@@ -1,0 +1,53 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "divergenceScore": 15,
+    "verdict": "Healthy",
+    "currentPeriod": {
+      "netIncome": 46850,
+      "ocf": 52500,
+      "fcf": 43200,
+      "divergence": 12
+    },
+    "historicalDivergence": [
+      {
+        "period": "FY2020",
+        "netIncome": 32500,
+        "ocf": 35800,
+        "divergence": 10
+      },
+      {
+        "period": "FY2021",
+        "netIncome": 35200,
+        "ocf": 39500,
+        "divergence": 12
+      },
+      {
+        "period": "FY2022",
+        "netIncome": 42200,
+        "ocf": 48500,
+        "divergence": 15
+      },
+      {
+        "period": "FY2023",
+        "netIncome": 45500,
+        "ocf": 51200,
+        "divergence": 13
+      },
+      {
+        "period": "FY2024",
+        "netIncome": 46850,
+        "ocf": 52500,
+        "divergence": 12
+      }
+    ],
+    "components": {
+      "depreciation": 8500,
+      "workingCapitalChange": -2100,
+      "deferredTaxes": 850,
+      "stockBasedComp": 1200
+    },
+    "alerts": []
+  }
+}

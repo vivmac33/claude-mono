@@ -1,0 +1,662 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "divergenceScore": 24,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "divergenceScore": 26,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "divergenceScore": 27,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "divergenceScore": 19,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "divergenceScore": 23,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "divergenceScore": 15,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "divergenceScore": 27,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "divergenceScore": 25,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "divergenceScore": 27,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "divergenceScore": 17,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "divergenceScore": 15,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "divergenceScore": 28,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "divergenceScore": 18,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "divergenceScore": 17,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "divergenceScore": 25,
+    "riskLevel": "Low",
+    "currentDivergence": {
+      "netIncome": 12200,
+      "operatingCashFlow": 13600,
+      "divergencePct": -11.5
+    },
+    "historicalDivergence": [
+      {
+        "period": "Q1FY24",
+        "profit": 11200,
+        "ocf": 12500,
+        "divergence": -11.6
+      },
+      {
+        "period": "Q2FY24",
+        "profit": 11500,
+        "ocf": 12800,
+        "divergence": -11.3
+      },
+      {
+        "period": "Q3FY24",
+        "profit": 11800,
+        "ocf": 13200,
+        "divergence": -11.9
+      },
+      {
+        "period": "Q4FY24",
+        "profit": 12200,
+        "ocf": 13600,
+        "divergence": -11.5
+      }
+    ],
+    "redFlags": [],
+    "drivers": {
+      "receivablesChange": -200,
+      "inventoryChange": 0,
+      "payablesChange": 150,
+      "otherAccruals": -100
+    }
+  }
+}

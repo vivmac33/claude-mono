@@ -1,0 +1,977 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "stabilityScore": 90,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 12.526262870364421,
+      "coefficientOfVariation": 0.1448520850422681,
+      "consecutiveGrowthYears": 7,
+      "beatRate": 92
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "stabilityScore": 87,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 13.624937184357432,
+      "coefficientOfVariation": 0.18514330597091944,
+      "consecutiveGrowthYears": 7,
+      "beatRate": 84
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "stabilityScore": 81,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 14.160476446734867,
+      "coefficientOfVariation": 0.15319640749897423,
+      "consecutiveGrowthYears": 7,
+      "beatRate": 94
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "stabilityScore": 83,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 16.89491949256763,
+      "coefficientOfVariation": 0.15612015009399255,
+      "consecutiveGrowthYears": 9,
+      "beatRate": 85
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "stabilityScore": 82,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 16.143832762517405,
+      "coefficientOfVariation": 0.10039550026269844,
+      "consecutiveGrowthYears": 9,
+      "beatRate": 83
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "stabilityScore": 81,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 11.97426425180389,
+      "coefficientOfVariation": 0.1356619415661309,
+      "consecutiveGrowthYears": 8,
+      "beatRate": 86
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "stabilityScore": 84,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 11.936349949451836,
+      "coefficientOfVariation": 0.16835502223963164,
+      "consecutiveGrowthYears": 8,
+      "beatRate": 90
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "stabilityScore": 90,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 10.033256546758748,
+      "coefficientOfVariation": 0.18695830601276506,
+      "consecutiveGrowthYears": 8,
+      "beatRate": 82
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "stabilityScore": 92,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 14.633020830397257,
+      "coefficientOfVariation": 0.14680599222124124,
+      "consecutiveGrowthYears": 6,
+      "beatRate": 90
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "stabilityScore": 80,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 13.542766982682856,
+      "coefficientOfVariation": 0.16973498122026112,
+      "consecutiveGrowthYears": 6,
+      "beatRate": 94
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "stabilityScore": 86,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 12.358148424647105,
+      "coefficientOfVariation": 0.19898301190594675,
+      "consecutiveGrowthYears": 9,
+      "beatRate": 81
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "stabilityScore": 83,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 16.769126416871476,
+      "coefficientOfVariation": 0.175858537636613,
+      "consecutiveGrowthYears": 6,
+      "beatRate": 81
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "stabilityScore": 80,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 11.140206566599488,
+      "coefficientOfVariation": 0.1943777187652286,
+      "consecutiveGrowthYears": 9,
+      "beatRate": 90
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "stabilityScore": 94,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 12.592380594289924,
+      "coefficientOfVariation": 0.1568233872815675,
+      "consecutiveGrowthYears": 8,
+      "beatRate": 84
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "stabilityScore": 91,
+    "stabilityGrade": "High",
+    "metrics": {
+      "epsVolatility": 13.116708325981728,
+      "coefficientOfVariation": 0.1103836986309901,
+      "consecutiveGrowthYears": 6,
+      "beatRate": 86
+    },
+    "historicalEPS": [
+      {
+        "period": "Q4FY23",
+        "actual": 28.5,
+        "estimate": 27.8
+      },
+      {
+        "period": "Q1FY24",
+        "actual": 29.2,
+        "estimate": 28.5
+      },
+      {
+        "period": "Q2FY24",
+        "actual": 30.8,
+        "estimate": 29.2
+      },
+      {
+        "period": "Q3FY24",
+        "actual": 32.1,
+        "estimate": 30.5
+      },
+      {
+        "period": "Q4FY24",
+        "actual": 33.5,
+        "estimate": 32
+      }
+    ],
+    "trendLine": {
+      "slope": 1.2,
+      "r2": 0.95
+    },
+    "surpriseHistory": [
+      {
+        "period": "Q4FY23",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q1FY24",
+        "surprise": 2.5
+      },
+      {
+        "period": "Q2FY24",
+        "surprise": 5.5
+      },
+      {
+        "period": "Q3FY24",
+        "surprise": 5.2
+      },
+      {
+        "period": "Q4FY24",
+        "surprise": 4.7
+      }
+    ]
+  }
+}

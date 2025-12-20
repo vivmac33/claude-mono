@@ -1,0 +1,27 @@
+{
+  "name": "monomorph",
+  "version": "1.3.0",
+  "private": true,
+  "description": "Financial Analytics Platform - 80 tools for Indian market analysis",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:web\" \"npm run dev:server\"",
+    "dev:web": "npm --prefix apps/web run dev",
+    "dev:server": "npm --prefix apps/server run start",
+    "build": "npm run build:web",
+    "build:web": "npm --prefix apps/web run build",
+    "start": "npm --prefix apps/server run start",
+    "typecheck": "npm --prefix apps/web run typecheck",
+    "clean": "rm -rf apps/web/dist apps/web/node_modules apps/server/node_modules node_modules"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.45.3",
+    "concurrently": "^7.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

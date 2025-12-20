@@ -1,0 +1,797 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 26.725149607658853,
+      "trend": "strengthening"
+    },
+    "diPlus": 37.21916879306758,
+    "diMinus": 21.887331176877147,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 29.062738942393413,
+      "trend": "strengthening"
+    },
+    "diPlus": 28.565360330540155,
+    "diMinus": 21.732444392041486,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": true,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "trend": "Sideways",
+    "adx": {
+      "value": 30.876651784596465,
+      "trend": "strengthening"
+    },
+    "diPlus": 32.15626395557848,
+    "diMinus": 18.183199479770206,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": true,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 34.96462564051218,
+      "trend": "strengthening"
+    },
+    "diPlus": 32.800652448543914,
+    "diMinus": 16.118228864819503,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": false
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "trend": "Sideways",
+    "adx": {
+      "value": 27.18253694112055,
+      "trend": "strengthening"
+    },
+    "diPlus": 30.067321781606704,
+    "diMinus": 19.887199929685814,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": true,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "trend": "Sideways",
+    "adx": {
+      "value": 30.169455210340367,
+      "trend": "strengthening"
+    },
+    "diPlus": 28.446638254344766,
+    "diMinus": 16.298521499556173,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": true,
+      "deathCross": false,
+      "supertrendBullish": false
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 30.740447946220662,
+      "trend": "strengthening"
+    },
+    "diPlus": 36.51255514321595,
+    "diMinus": 22.219443675457423,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 30.067521421188616,
+      "trend": "strengthening"
+    },
+    "diPlus": 36.15421274143078,
+    "diMinus": 17.84085260394414,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "trend": "Sideways",
+    "adx": {
+      "value": 30.317021040161396,
+      "trend": "strengthening"
+    },
+    "diPlus": 31.9526393812232,
+    "diMinus": 22.529586611260093,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 29.0530809230332,
+      "trend": "strengthening"
+    },
+    "diPlus": 36.759244714734365,
+    "diMinus": 19.147779590136835,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": true,
+      "deathCross": false,
+      "supertrendBullish": false
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "trend": "Sideways",
+    "adx": {
+      "value": 32.37056068462293,
+      "trend": "strengthening"
+    },
+    "diPlus": 35.253347619620044,
+    "diMinus": 21.355273303517002,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": false
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 25.82798000921415,
+      "trend": "strengthening"
+    },
+    "diPlus": 34.0845009722049,
+    "diMinus": 15.107529247451948,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 29.43704934533958,
+      "trend": "strengthening"
+    },
+    "diPlus": 31.048833482408536,
+    "diMinus": 19.840521452258688,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": false
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 37.04417147189148,
+      "trend": "strengthening"
+    },
+    "diPlus": 35.71174256570792,
+    "diMinus": 18.21325533913638,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "trend": "Uptrend",
+    "adx": {
+      "value": 35.02956008632852,
+      "trend": "strengthening"
+    },
+    "diPlus": 34.938403018702026,
+    "diMinus": 17.29271633890621,
+    "historical": [
+      {
+        "date": "2024-12-16",
+        "adx": 25,
+        "diPlus": 28,
+        "diMinus": 20,
+        "price": 3650
+      },
+      {
+        "date": "2024-12-17",
+        "adx": 26,
+        "diPlus": 30,
+        "diMinus": 19,
+        "price": 3680
+      },
+      {
+        "date": "2024-12-18",
+        "adx": 27,
+        "diPlus": 31,
+        "diMinus": 18,
+        "price": 3700
+      },
+      {
+        "date": "2024-12-19",
+        "adx": 28,
+        "diPlus": 32,
+        "diMinus": 18,
+        "price": 3710
+      },
+      {
+        "date": "2024-12-20",
+        "adx": 29,
+        "diPlus": 33,
+        "diMinus": 17,
+        "price": 3720
+      }
+    ],
+    "signals": {
+      "goldenCross": false,
+      "deathCross": false,
+      "supertrendBullish": true
+    }
+  }
+}

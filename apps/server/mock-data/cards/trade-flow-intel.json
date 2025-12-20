@@ -1,0 +1,1262 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 184254,
+    "avgTradeSizePctile": 75,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2755411,
+    "volumeAvg20D": 2506925,
+    "volumeRatio": 1.327938847072195,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 55,
+    "retailFlowPct": 39,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 181728,
+    "avgTradeSizePctile": 82,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3491078,
+    "volumeAvg20D": 2316242,
+    "volumeRatio": 1.2986758507408305,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 74,
+    "retailFlowPct": 33,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 171459,
+    "avgTradeSizePctile": 70,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2589457,
+    "volumeAvg20D": 2236516,
+    "volumeRatio": 1.2745228492737979,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 68,
+    "retailFlowPct": 25,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 155227,
+    "avgTradeSizePctile": 68,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2565099,
+    "volumeAvg20D": 2536808,
+    "volumeRatio": 1.370235717984473,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 57,
+    "retailFlowPct": 27,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 199230,
+    "avgTradeSizePctile": 87,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3177026,
+    "volumeAvg20D": 2449731,
+    "volumeRatio": 1.3214265620094463,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 59,
+    "retailFlowPct": 27,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 168397,
+    "avgTradeSizePctile": 82,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3268183,
+    "volumeAvg20D": 2379691,
+    "volumeRatio": 1.3239917095078386,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 69,
+    "retailFlowPct": 37,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 166346,
+    "avgTradeSizePctile": 88,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2663058,
+    "volumeAvg20D": 2280493,
+    "volumeRatio": 1.3237989691707606,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 56,
+    "retailFlowPct": 34,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 158153,
+    "avgTradeSizePctile": 84,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2706544,
+    "volumeAvg20D": 2225643,
+    "volumeRatio": 1.133933847380337,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 60,
+    "retailFlowPct": 37,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 157615,
+    "avgTradeSizePctile": 65,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3235666,
+    "volumeAvg20D": 2298501,
+    "volumeRatio": 1.1695212736833391,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 57,
+    "retailFlowPct": 32,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 175398,
+    "avgTradeSizePctile": 67,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2638612,
+    "volumeAvg20D": 2445273,
+    "volumeRatio": 1.117972599958704,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 60,
+    "retailFlowPct": 31,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 196214,
+    "avgTradeSizePctile": 69,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2948862,
+    "volumeAvg20D": 2541031,
+    "volumeRatio": 1.3725999906089847,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 55,
+    "retailFlowPct": 38,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 150866,
+    "avgTradeSizePctile": 67,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3024739,
+    "volumeAvg20D": 2294933,
+    "volumeRatio": 1.36719509327937,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 66,
+    "retailFlowPct": 30,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 176126,
+    "avgTradeSizePctile": 67,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3231349,
+    "volumeAvg20D": 2487567,
+    "volumeRatio": 1.151185203109472,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 64,
+    "retailFlowPct": 30,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 190404,
+    "avgTradeSizePctile": 71,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 3254112,
+    "volumeAvg20D": 2537854,
+    "volumeRatio": 1.3348355762994188,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 72,
+    "retailFlowPct": 25,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "avgTradeSize": 170910,
+    "avgTradeSizePctile": 65,
+    "tradeSizeSignal": "Institutional",
+    "volumeToday": 2970097,
+    "volumeAvg20D": 2253318,
+    "volumeRatio": 1.198182339341644,
+    "volumeSignal": "Normal",
+    "institutionalFlowPct": 55,
+    "retailFlowPct": 29,
+    "flowBias": "Institutional Buying",
+    "tradeDistribution": [
+      {
+        "bucket": "₹0-10K",
+        "percentage": 15,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹10K-50K",
+        "percentage": 25,
+        "type": "Retail"
+      },
+      {
+        "bucket": "₹50K-2L",
+        "percentage": 30,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹2L-10L",
+        "percentage": 20,
+        "type": "HNI"
+      },
+      {
+        "bucket": "₹10L+",
+        "percentage": 10,
+        "type": "Institutional"
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-16",
+        "avgTradeSize": 145000,
+        "volume": 2300000,
+        "close": 3650,
+        "turnover": 850
+      },
+      {
+        "date": "2024-12-17",
+        "avgTradeSize": 152000,
+        "volume": 2500000,
+        "close": 3680,
+        "turnover": 920
+      },
+      {
+        "date": "2024-12-18",
+        "avgTradeSize": 158000,
+        "volume": 2800000,
+        "close": 3700,
+        "turnover": 1036
+      },
+      {
+        "date": "2024-12-19",
+        "avgTradeSize": 155000,
+        "volume": 2600000,
+        "close": 3710,
+        "turnover": 965
+      },
+      {
+        "date": "2024-12-20",
+        "avgTradeSize": 160000,
+        "volume": 2700000,
+        "close": 3720,
+        "turnover": 1006
+      }
+    ],
+    "unusualActivity": false,
+    "insights": [
+      "Trade size indicates institutional participation",
+      "Volume is above 20-day average",
+      "Flow bias suggests accumulation"
+    ]
+  }
+}

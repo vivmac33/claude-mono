@@ -1,0 +1,46 @@
+{
+  "TCS": {
+    "trades": [
+      {
+        "id": "T001",
+        "date": "2024-12-18",
+        "time": "09:45",
+        "instrument": "TCS",
+        "type": "long",
+        "productType": "equity",
+        "entryPrice": 3680,
+        "exitPrice": 3720,
+        "quantity": 50,
+        "pnl": 2000,
+        "pnlPercent": 1.08,
+        "plannedStop": 3650,
+        "plannedTarget": 3750,
+        "actualExitReason": "manual",
+        "holdingTime": 185,
+        "session": "morning",
+        "dayOfWeek": "Wednesday"
+      },
+      {
+        "id": "T002",
+        "date": "2024-12-17",
+        "time": "14:30",
+        "instrument": "TCS",
+        "type": "long",
+        "productType": "futures",
+        "entryPrice": 3650,
+        "exitPrice": 3680,
+        "quantity": 100,
+        "pnl": 3000,
+        "pnlPercent": 0.82,
+        "plannedStop": 3620,
+        "plannedTarget": 3700,
+        "actualExitReason": "target",
+        "holdingTime": 90,
+        "session": "afternoon",
+        "dayOfWeek": "Tuesday"
+      }
+    ],
+    "capital": 500000,
+    "period": "Dec 2024"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Volatility Risk \u00b7 Sample Vol Index",
+  "index_level": 14.2,
+  "one_month_change_pct": -8.3,
+  "thresholds": {
+    "calm": 12,
+    "elevated": 20,
+    "stressed": 28
+  },
+  "meta": "Toy snapshot for volatility gauge."
+}

@@ -1,0 +1,857 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 20.362045437042962,
+      "totalSells": 7.338610525525789,
+      "netValue": 14.232608489002914,
+      "transactionCount": 9
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 19.882048976634973,
+      "totalSells": 4.214617695694399,
+      "netValue": 12.267122237073147,
+      "transactionCount": 10
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 20.522360932057026,
+      "totalSells": 4.475049527711622,
+      "netValue": 11.456096479889185,
+      "transactionCount": 7
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 19.081293020176947,
+      "totalSells": 5.405644594939453,
+      "netValue": 12.448097850200114,
+      "transactionCount": 9
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 20.66952483928265,
+      "totalSells": 6.757494236442895,
+      "netValue": 13.746574166767102,
+      "transactionCount": 11
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 13.16407130763251,
+      "totalSells": 5.484009271533748,
+      "netValue": 8.9149812784643,
+      "transactionCount": 8
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 13.774509870023014,
+      "totalSells": 6.658502224735316,
+      "netValue": 12.186334506693825,
+      "transactionCount": 12
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 21.54491352074279,
+      "totalSells": 3.7173415221780544,
+      "netValue": 14.889792626855083,
+      "transactionCount": 6
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 17.432456576326466,
+      "totalSells": 5.401212728250969,
+      "netValue": 11.89482248697465,
+      "transactionCount": 12
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 18.476107239545424,
+      "totalSells": 8.127693925288227,
+      "netValue": 13.818477446235468,
+      "transactionCount": 11
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 14.983518437581886,
+      "totalSells": 5.275059719839847,
+      "netValue": 15.227569114035775,
+      "transactionCount": 9
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 21.34261334516972,
+      "totalSells": 6.285764643861326,
+      "netValue": 10.054385476264654,
+      "transactionCount": 9
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 16.188807385244463,
+      "totalSells": 7.9921849389472035,
+      "netValue": 12.935773993891324,
+      "transactionCount": 5
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 19.900479600089795,
+      "totalSells": 4.1910604441134,
+      "netValue": 14.273032394953075,
+      "transactionCount": 8
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "sentiment": "Bullish",
+    "summary": {
+      "totalBuys": 13.350316114565521,
+      "totalSells": 7.3774014906372125,
+      "netValue": 11.999362647010436,
+      "transactionCount": 8
+    },
+    "recentTrades": [
+      {
+        "date": "2024-12-15",
+        "insider": "N Chandrasekaran",
+        "type": "Buy",
+        "shares": 50000,
+        "value": 18.5,
+        "pricePerShare": 3700
+      },
+      {
+        "date": "2024-12-10",
+        "insider": "K Krithivasan",
+        "type": "Buy",
+        "shares": 25000,
+        "value": 9.2,
+        "pricePerShare": 3680
+      },
+      {
+        "date": "2024-12-05",
+        "insider": "Samir Seksaria",
+        "type": "Sell",
+        "shares": 10000,
+        "value": 3.6,
+        "pricePerShare": 3650
+      },
+      {
+        "date": "2024-11-28",
+        "insider": "V Ramakrishnan",
+        "type": "Buy",
+        "shares": 15000,
+        "value": 5.4,
+        "pricePerShare": 3620
+      }
+    ],
+    "patterns": [
+      {
+        "pattern": "Cluster Buying",
+        "signal": "bullish",
+        "detail": "Multiple insiders buying within 2 weeks"
+      },
+      {
+        "pattern": "CEO Buying",
+        "signal": "bullish",
+        "detail": "CEO purchase typically signals confidence"
+      }
+    ]
+  }
+}

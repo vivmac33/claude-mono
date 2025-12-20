@@ -1,0 +1,96 @@
+{
+  "asOf": "2025-12-11T08:45:00+05:30",
+  "regime": "Risk On",
+  "indicators": [
+    { "name": "PMI", "value": 56.8, "trend": "up", "status": "positive" },
+    { "name": "CPI", "value": 5.2, "trend": "down", "status": "positive" },
+    { "name": "GDP Growth", "value": 6.8, "trend": "up", "status": "positive" },
+    { "name": "Industrial Production", "value": 5.8, "trend": "flat", "status": "neutral" },
+    { "name": "Repo Rate", "value": 6.5, "trend": "flat", "status": "neutral" }
+  ],
+  "radarData": [
+    { "indicator": "Growth", "value": 80, "fullMark": 100 },
+    { "indicator": "Inflation", "value": 65, "fullMark": 100 },
+    { "indicator": "Employment", "value": 72, "fullMark": 100 },
+    { "indicator": "Sentiment", "value": 75, "fullMark": 100 },
+    { "indicator": "Liquidity", "value": 70, "fullMark": 100 }
+  ],
+  "globalMarkets": {
+    "us": 0.45,
+    "europe": 0.32,
+    "asia": 0.68,
+    "india": 0.0
+  },
+  "riskMetrics": {
+    "vix": 10.85,
+    "dollarIndex": 106.42,
+    "goldPrice": 2685,
+    "oilPrice": 68.45,
+    "indiaVix": 10.92
+  },
+  "preMarketScanner": {
+    "sgxNifty": {
+      "price": 24685,
+      "change": 85,
+      "changePct": 0.35,
+      "prevClose": 24600,
+      "openInterest": 145000,
+      "oiChange": 2500,
+      "lastUpdated": "08:45:00"
+    },
+    "globalCues": {
+      "dowFutures": { "price": 44250, "change": 125, "changePct": 0.28 },
+      "nasdaqFutures": { "price": 21450, "change": 85, "changePct": 0.40 },
+      "sp500Futures": { "price": 6085, "change": 18, "changePct": 0.30 },
+      "ftse100": { "price": 8285, "change": 25, "changePct": 0.30 },
+      "dax": { "price": 20150, "change": 65, "changePct": 0.32 },
+      "nikkei": { "price": 39850, "change": 285, "changePct": 0.72 },
+      "hangseng": { "price": 19850, "change": 125, "changePct": 0.63 }
+    },
+    "giftNifty": {
+      "price": 24695,
+      "change": 95,
+      "changePct": 0.39
+    },
+    "gapAnalysis": {
+      "expectedGap": "Gap Up",
+      "gapSize": 0.35,
+      "gapProbability": 78,
+      "factors": [
+        "SGX Nifty +0.35% - positive signal",
+        "Asian markets strong (Nikkei +0.72%)",
+        "US futures pointing higher",
+        "Dollar Index stable at 106.42"
+      ]
+    },
+    "keyLevelsToWatch": {
+      "niftySupport1": 24550,
+      "niftySupport2": 24400,
+      "niftyResistance1": 24750,
+      "niftyResistance2": 24900,
+      "bankNiftySupport1": 52800,
+      "bankNiftyResistance1": 53400
+    },
+    "sectorCues": {
+      "it": { "signal": "Bullish", "reason": "Strong Nasdaq futures, rupee weakness" },
+      "banks": { "signal": "Neutral", "reason": "Mixed global banking signals" },
+      "metals": { "signal": "Bullish", "reason": "China stimulus hopes, strong base metals" },
+      "pharma": { "signal": "Neutral", "reason": "No major overnight triggers" },
+      "auto": { "signal": "Bullish", "reason": "Positive Asian auto sentiment" }
+    },
+    "fiiDiiActivity": {
+      "fiiPreviousDay": 1250,
+      "diiPreviousDay": -450,
+      "fiiMonthToDate": 8500,
+      "diiMonthToDate": 12500,
+      "trend": "FII buying returning after November selling"
+    },
+    "marketOpenPrediction": {
+      "niftyExpectedOpen": 24680,
+      "bankNiftyExpectedOpen": 53150,
+      "confidence": 75,
+      "sessionBias": "Bullish",
+      "volatilityExpectation": "Low to Moderate"
+    }
+  }
+}

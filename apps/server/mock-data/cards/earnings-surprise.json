@@ -1,0 +1,677 @@
+{
+  "TCS": {
+    "symbol": "TCS",
+    "asOf": "2024-12-20",
+    "avgSurprise": 3.637233097719653,
+    "beatRate": 84,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.8341190923293649,
+      "avg5D": 2.9992959992996973,
+      "direction": "positive"
+    }
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.051522772925034,
+    "beatRate": 91,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.859834201771541,
+      "avg5D": 2.4514264380792534,
+      "direction": "positive"
+    }
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.061921691121111,
+    "beatRate": 91,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.592759528961449,
+      "avg5D": 2.2840809063133207,
+      "direction": "positive"
+    }
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.948116120234834,
+    "beatRate": 81,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.9810126661995004,
+      "avg5D": 3.0160935282518,
+      "direction": "positive"
+    }
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.2631857423396635,
+    "beatRate": 84,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.5434750089959537,
+      "avg5D": 2.8457579125691934,
+      "direction": "positive"
+    }
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "asOf": "2024-12-20",
+    "avgSurprise": 6.021958282123425,
+    "beatRate": 92,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.9640213786791172,
+      "avg5D": 2.3596388280784764,
+      "direction": "positive"
+    }
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "asOf": "2024-12-20",
+    "avgSurprise": 4.068982517254386,
+    "beatRate": 84,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.9183462949700076,
+      "avg5D": 3.169611746760256,
+      "direction": "positive"
+    }
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.459092332124051,
+    "beatRate": 92,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 2.2879346267309844,
+      "avg5D": 2.213350137914789,
+      "direction": "positive"
+    }
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "asOf": "2024-12-20",
+    "avgSurprise": 4.187210180524625,
+    "beatRate": 92,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.9483445414569325,
+      "avg5D": 3.101221308567789,
+      "direction": "positive"
+    }
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.774910689771582,
+    "beatRate": 81,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 2.316570289321331,
+      "avg5D": 2.2682527854146364,
+      "direction": "positive"
+    }
+  },
+  "LT": {
+    "symbol": "LT",
+    "asOf": "2024-12-20",
+    "avgSurprise": 3.5941164910089336,
+    "beatRate": 90,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.5045196582188325,
+      "avg5D": 2.718378276674202,
+      "direction": "positive"
+    }
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "asOf": "2024-12-20",
+    "avgSurprise": 3.644528700671491,
+    "beatRate": 80,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.621250161368968,
+      "avg5D": 2.844033161140037,
+      "direction": "positive"
+    }
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "asOf": "2024-12-20",
+    "avgSurprise": 6.339043958468764,
+    "beatRate": 94,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.7287600290261482,
+      "avg5D": 2.310495311987531,
+      "direction": "positive"
+    }
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "asOf": "2024-12-20",
+    "avgSurprise": 5.180790780629164,
+    "beatRate": 83,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 2.003733182013517,
+      "avg5D": 3.0554471017701514,
+      "direction": "positive"
+    }
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "asOf": "2024-12-20",
+    "avgSurprise": 6.3833777923479875,
+    "beatRate": 94,
+    "history": [
+      {
+        "quarter": "Q2FY25",
+        "actual": 32.1,
+        "estimate": 30.5,
+        "surprise": 5.2,
+        "priceReaction": 2.1
+      },
+      {
+        "quarter": "Q1FY25",
+        "actual": 30.8,
+        "estimate": 29.2,
+        "surprise": 5.5,
+        "priceReaction": 1.8
+      },
+      {
+        "quarter": "Q4FY24",
+        "actual": 29.2,
+        "estimate": 28.5,
+        "surprise": 2.5,
+        "priceReaction": 0.5
+      },
+      {
+        "quarter": "Q3FY24",
+        "actual": 28.5,
+        "estimate": 27.8,
+        "surprise": 2.5,
+        "priceReaction": 1.2
+      }
+    ],
+    "pattern": {
+      "consistency": "High",
+      "tendency": "Beats"
+    },
+    "postEarningsMove": {
+      "avg1D": 1.867930092023694,
+      "avg5D": 2.3277490288529963,
+      "direction": "positive"
+    }
+  }
+}
