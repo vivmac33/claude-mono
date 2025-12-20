@@ -13,7 +13,7 @@
     },
     {
       "src": "/api/(.*)",
-      "dest": "https://monomorph-api.up.railway.app/api/$1"
+      "dest": "https://monomorphapi-production.up.railway.app/api/$1"
     },
     {
       "handle": "filesystem"
