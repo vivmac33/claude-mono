@@ -1,0 +1,1604 @@
+openapi: 3.0.3
+info:
+  title: Monomorph API
+  description: |
+    # Financial Analytics Platform API
+    
+    Monomorph provides comprehensive financial analytics through 79 analytical tools 
+    organized into 13 categories. Build custom analysis workflows by connecting 
+    analytics cards.
+    
+    ## Authentication
+    
+    Most endpoints require authentication. Include your token in the Authorization header:
+    ```
+    Authorization: Bearer <your-token>
+    ```
+    
+    Or use an API key:
+    ```
+    X-API-Key: <your-api-key>
+    ```
+    
+    ## Rate Limits
+    
+    | Tier | General | Writes | Workflow |
+    |------|---------|--------|----------|
+    | Authenticated | 200/min | 60/min | 20/min |
+    | API Key | 60/min | 20/min | 5/min |
+    | Anonymous | 30/min | — | — |
+    
+    Rate limit headers are included in every response:
+    - `X-RateLimit-Limit` - Maximum requests allowed
+    - `X-RateLimit-Remaining` - Requests remaining
+    - `X-RateLimit-Reset` - When the limit resets (ISO timestamp)
+    
+    ## Versioning
+    
+    All endpoints are versioned under `/api/v1/`. Legacy `/api/*` routes redirect 
+    to `/api/v1/*` for backward compatibility.
+    
+  version: 1.5.2
+  contact:
+    name: Monomorph Support
+    url: https://monomorph.in
+    email: support@monomorph.in
+  license:
+    name: Proprietary
+    url: https://monomorph.in/terms
+
+servers:
+  - url: https://monomorphapi-production.up.railway.app
+    description: Production Server
+  - url: http://localhost:4000
+    description: Local Development
+
+tags:
+  - name: Health
+    description: Server health checks and probes
+  - name: Authentication
+    description: User authentication endpoints
+  - name: Stocks
+    description: Stock data and search
+  - name: Analytics - Valuation
+    description: Valuation and fundamental analysis
+  - name: Analytics - Technical
+    description: Technical analysis and charting
+  - name: Analytics - Risk
+    description: Risk assessment and monitoring
+  - name: Analytics - Portfolio
+    description: Portfolio-level analytics
+  - name: Analytics - Options
+    description: Options analysis
+  - name: Watchlist
+    description: User watchlist management
+  - name: Workflow
+    description: Custom workflow builder
+  - name: Admin
+    description: Admin-only endpoints (internal use)
+
+paths:
+  # ═══════════════════════════════════════════════════════════════════════════
+  # HEALTH & PROBES
+  # ═══════════════════════════════════════════════════════════════════════════
+  
+  /api/v1/health:
+    get:
+      tags: [Health]
+      summary: Get server health status
+      description: |
+        Returns comprehensive health information including:
+        - Server status and version
+        - Uptime
+        - Memory usage
+        - Data availability
+        - Service status (server, redis, filesystem)
+      operationId: getHealth
+      responses:
+        '200':
+          description: Server is healthy
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthResponse'
+              example:
+                status: healthy
+                timestamp: "2025-12-22T02:30:00.000Z"
+                version: "1.5.2"
+                apiVersion: v1
+                environment: production
+                uptime:
+                  formatted: "2h 30m 45s"
+                  seconds: 9045
+                memory:
+                  heapUsed: "45MB"
+                  heapTotal: "65MB"
+                  rss: "95MB"
+                data:
+                  stocks: 15
+                  cards: 80
+                services:
+                  server: ok
+                  redis: ok
+                  filesystem: ok
+        '503':
+          description: Server is unhealthy
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthResponse'
+
+  /api/v1/ready:
+    get:
+      tags: [Health]
+      summary: Kubernetes readiness probe
+      description: Returns 200 if the server is ready to accept traffic
+      operationId: getReady
+      responses:
+        '200':
+          description: Server is ready
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ready:
+                    type: boolean
+                    example: true
+                  stocks:
+                    type: integer
+                    example: 15
+        '503':
+          description: Server is not ready
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ready:
+                    type: boolean
+                    example: false
+                  reason:
+                    type: string
+                    example: Stock data not loaded
+
+  /api/v1/live:
+    get:
+      tags: [Health]
+      summary: Kubernetes liveness probe
+      description: Returns 200 if the server is alive
+      operationId: getLive
+      responses:
+        '200':
+          description: Server is alive
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  live:
+                    type: boolean
+                    example: true
+                  timestamp:
+                    type: integer
+                    example: 1703212200000
+
+  /api/v1/rate-limit-info:
+    get:
+      tags: [Health]
+      summary: Get rate limit information
+      description: Returns documentation about rate limits for different access tiers
+      operationId: getRateLimitInfo
+      responses:
+        '200':
+          description: Rate limit information
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RateLimitInfo'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # AUTHENTICATION
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/auth/login:
+    post:
+      tags: [Authentication]
+      summary: User login
+      description: |
+        Authenticate user and receive access token.
+        
+        **Rate Limit:** 5 attempts per 5 minutes (IP-based)
+      operationId: login
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email, password]
+              properties:
+                email:
+                  type: string
+                  format: email
+                  example: user@example.com
+                password:
+                  type: string
+                  format: password
+                  example: "********"
+      responses:
+        '200':
+          description: Login successful
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  token:
+                    type: string
+                    description: JWT access token
+                  user:
+                    $ref: '#/components/schemas/User'
+        '401':
+          description: Invalid credentials
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '429':
+          description: Too many login attempts
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RateLimitError'
+
+  /api/v1/auth/register:
+    post:
+      tags: [Authentication]
+      summary: User registration
+      description: |
+        Create a new user account.
+        
+        **Rate Limit:** 3 attempts per hour (IP-based)
+      operationId: register
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email, password, name]
+              properties:
+                email:
+                  type: string
+                  format: email
+                  example: user@example.com
+                password:
+                  type: string
+                  format: password
+                  minLength: 8
+                name:
+                  type: string
+                  example: John Doe
+      responses:
+        '201':
+          description: Registration successful
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                  user:
+                    $ref: '#/components/schemas/User'
+        '400':
+          description: Invalid input
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '429':
+          description: Too many registration attempts
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RateLimitError'
+
+  /api/v1/auth/forgot-password:
+    post:
+      tags: [Authentication]
+      summary: Request password reset
+      description: |
+        Send password reset email.
+        
+        **Rate Limit:** 3 attempts per 15 minutes (IP-based)
+      operationId: forgotPassword
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email]
+              properties:
+                email:
+                  type: string
+                  format: email
+      responses:
+        '200':
+          description: Reset email sent (if account exists)
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: If an account exists, a reset email has been sent
+        '429':
+          description: Too many attempts
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RateLimitError'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # STOCKS
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/stocks:
+    get:
+      tags: [Stocks]
+      summary: Get all stocks
+      description: Returns the master list of all available stocks
+      operationId: getStocks
+      responses:
+        '200':
+          description: Stock list
+          headers:
+            X-RateLimit-Limit:
+              $ref: '#/components/headers/X-RateLimit-Limit'
+            X-RateLimit-Remaining:
+              $ref: '#/components/headers/X-RateLimit-Remaining'
+            X-RateLimit-Reset:
+              $ref: '#/components/headers/X-RateLimit-Reset'
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties:
+                  $ref: '#/components/schemas/Stock'
+              example:
+                TCS:
+                  symbol: TCS
+                  name: Tata Consultancy Services
+                  sector: IT
+                  price: 3450.50
+                RELIANCE:
+                  symbol: RELIANCE
+                  name: Reliance Industries
+                  sector: Energy
+                  price: 2890.25
+
+  /api/v1/stocks/{symbol}:
+    get:
+      tags: [Stocks]
+      summary: Get stock by symbol
+      description: Returns detailed information for a specific stock
+      operationId: getStockBySymbol
+      parameters:
+        - name: symbol
+          in: path
+          required: true
+          description: Stock symbol (case-insensitive)
+          schema:
+            type: string
+          example: TCS
+      responses:
+        '200':
+          description: Stock details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Stock'
+        '404':
+          description: Stock not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+              example:
+                error: Stock not found
+                symbol: INVALID
+
+  /api/v1/sectors:
+    get:
+      tags: [Stocks]
+      summary: Get all sectors
+      description: Returns list of sectors with their stocks
+      operationId: getSectors
+      responses:
+        '200':
+          description: Sector list
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties:
+                  type: array
+                  items:
+                    type: string
+
+  /api/v1/indices:
+    get:
+      tags: [Stocks]
+      summary: Get all indices
+      description: Returns list of market indices
+      operationId: getIndices
+      responses:
+        '200':
+          description: Index list
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /api/v1/search:
+    get:
+      tags: [Stocks]
+      summary: Search stocks
+      description: Search stocks by symbol or name
+      operationId: searchStocks
+      parameters:
+        - name: q
+          in: query
+          required: true
+          description: Search query
+          schema:
+            type: string
+          example: tata
+        - name: limit
+          in: query
+          description: Maximum results (default 10, max 50)
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 50
+            default: 10
+      responses:
+        '200':
+          description: Search results
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  query:
+                    type: string
+                  count:
+                    type: integer
+                  results:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/StockSearchResult'
+              example:
+                query: tata
+                count: 3
+                results:
+                  - symbol: TCS
+                    name: Tata Consultancy Services
+                    sector: IT
+                    price: 3450.50
+                  - symbol: TATAMOTORS
+                    name: Tata Motors
+                    sector: Auto
+                    price: 890.25
+
+  /api/v1/ohlcv/{symbol}:
+    get:
+      tags: [Stocks]
+      summary: Get OHLCV data
+      description: Returns Open, High, Low, Close, Volume data for charting
+      operationId: getOHLCV
+      parameters:
+        - name: symbol
+          in: path
+          required: true
+          schema:
+            type: string
+          example: TCS
+      responses:
+        '200':
+          description: OHLCV data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/OHLCV'
+        '404':
+          description: OHLCV data not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # ANALYTICS - VALUATION
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/analytics/stock-snapshot:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Stock Snapshot
+      description: Quick overview of stock fundamentals and key metrics
+      operationId: getStockSnapshot
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Stock snapshot data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+
+  /api/v1/analytics/valuation-summary:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Valuation Summary
+      description: Comprehensive valuation metrics including P/E, P/B, EV/EBITDA
+      operationId: getValuationSummary
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Valuation data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/fair-value-forecaster:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Fair Value Forecaster
+      description: Estimated fair value based on multiple valuation models
+      operationId: getFairValueForecaster
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Fair value analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/dcf-valuation:
+    get:
+      tags: [Analytics - Valuation]
+      summary: DCF Valuation
+      description: Discounted Cash Flow valuation model
+      operationId: getDCFValuation
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: DCF analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/intrinsic-value-range:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Intrinsic Value Range
+      description: Estimated intrinsic value with confidence intervals
+      operationId: getIntrinsicValueRange
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Intrinsic value analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/piotroski-score:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Piotroski F-Score
+      description: 9-point financial strength score
+      operationId: getPiotroskiScore
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Piotroski score
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+              example:
+                symbol: TCS
+                asOf: "2025-12-22"
+                score: 8
+                components:
+                  profitability: 4
+                  leverage: 3
+                  efficiency: 1
+
+  /api/v1/analytics/dupont-analysis:
+    get:
+      tags: [Analytics - Valuation]
+      summary: DuPont Analysis
+      description: ROE breakdown into profit margin, asset turnover, and leverage
+      operationId: getDupontAnalysis
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: DuPont analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/multi-factor-scorecard:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Multi-Factor Scorecard
+      description: Composite score based on multiple fundamental factors
+      operationId: getMultiFactorScorecard
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Scorecard data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # ANALYTICS - TECHNICAL
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/analytics/candlestick-hero:
+    get:
+      tags: [Analytics - Technical]
+      summary: Candlestick Hero
+      description: Candlestick pattern recognition and OHLCV data
+      operationId: getCandlestickHero
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Candlestick analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/technical-indicators:
+    get:
+      tags: [Analytics - Technical]
+      summary: Technical Indicators
+      description: Common technical indicators (RSI, MACD, Bollinger Bands, etc.)
+      operationId: getTechnicalIndicators
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Technical indicators
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/pattern-matcher:
+    get:
+      tags: [Analytics - Technical]
+      summary: Pattern Matcher
+      description: Chart pattern detection (head & shoulders, flags, etc.)
+      operationId: getPatternMatcher
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Pattern analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/trend-strength:
+    get:
+      tags: [Analytics - Technical]
+      summary: Trend Strength
+      description: ADX-based trend strength analysis
+      operationId: getTrendStrength
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Trend analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/momentum-heatmap:
+    get:
+      tags: [Analytics - Technical]
+      summary: Momentum Heatmap
+      description: Multi-timeframe momentum visualization
+      operationId: getMomentumHeatmap
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Momentum data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/volatility-regime:
+    get:
+      tags: [Analytics - Technical]
+      summary: Volatility Regime
+      description: Current volatility state and regime detection
+      operationId: getVolatilityRegime
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Volatility analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/fibonacci-levels:
+    get:
+      tags: [Analytics - Technical]
+      summary: Fibonacci Levels
+      description: Key Fibonacci retracement and extension levels
+      operationId: getFibonacciLevels
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Fibonacci levels
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/vwap-analysis:
+    get:
+      tags: [Analytics - Technical]
+      summary: VWAP Analysis
+      description: Volume Weighted Average Price analysis
+      operationId: getVWAPAnalysis
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: VWAP analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/orb-analysis:
+    get:
+      tags: [Analytics - Technical]
+      summary: Opening Range Breakout
+      description: ORB strategy analysis
+      operationId: getORBAnalysis
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: ORB analysis
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # ANALYTICS - RISK
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/analytics/risk-health-dashboard:
+    get:
+      tags: [Analytics - Risk]
+      summary: Risk Health Dashboard
+      description: Comprehensive risk metrics overview
+      operationId: getRiskHealthDashboard
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Risk dashboard
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/drawdown-var:
+    get:
+      tags: [Analytics - Risk]
+      summary: Drawdown & VaR
+      description: Maximum drawdown and Value at Risk analysis
+      operationId: getDrawdownVaR
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Drawdown and VaR data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/financial-stress-radar:
+    get:
+      tags: [Analytics - Risk]
+      summary: Financial Stress Radar
+      description: Early warning indicators for financial distress
+      operationId: getFinancialStressRadar
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Stress indicators
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/bankruptcy-health:
+    get:
+      tags: [Analytics - Risk]
+      summary: Bankruptcy Health
+      description: Altman Z-Score and bankruptcy risk assessment
+      operationId: getBankruptcyHealth
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Bankruptcy risk
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # ANALYTICS - PORTFOLIO (No symbol required)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/analytics/macro-calendar:
+    get:
+      tags: [Analytics - Portfolio]
+      summary: Macro Calendar
+      description: Economic events and data releases
+      operationId: getMacroCalendar
+      responses:
+        '200':
+          description: Calendar data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/earnings-calendar:
+    get:
+      tags: [Analytics - Portfolio]
+      summary: Earnings Calendar
+      description: Upcoming earnings announcements
+      operationId: getEarningsCalendar
+      responses:
+        '200':
+          description: Earnings calendar
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/sector-insights:
+    get:
+      tags: [Analytics - Portfolio]
+      summary: Sector Insights
+      description: Sector performance and rotation analysis
+      operationId: getSectorInsights
+      responses:
+        '200':
+          description: Sector data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/portfolio-correlation:
+    get:
+      tags: [Analytics - Portfolio]
+      summary: Portfolio Correlation
+      description: Correlation matrix for portfolio holdings
+      operationId: getPortfolioCorrelation
+      responses:
+        '200':
+          description: Correlation data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/advanced-screener:
+    get:
+      tags: [Analytics - Portfolio]
+      summary: Advanced Screener
+      description: Multi-criteria stock screener
+      operationId: getAdvancedScreener
+      responses:
+        '200':
+          description: Screener results
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # ANALYTICS - OPTIONS
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/analytics/options-interest:
+    get:
+      tags: [Analytics - Options]
+      summary: Options Interest
+      description: Open interest and options flow analysis
+      operationId: getOptionsInterest
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Options data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  /api/v1/analytics/options-strategy:
+    get:
+      tags: [Analytics - Options]
+      summary: Options Strategy
+      description: Suggested options strategies based on market conditions
+      operationId: getOptionsStrategy
+      parameters:
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Strategy recommendations
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # GENERIC ANALYTICS ENDPOINT
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/analytics/{cardId}:
+    get:
+      tags: [Analytics - Valuation]
+      summary: Get any analytics card
+      description: |
+        Generic endpoint to fetch any analytics card data.
+        
+        **Available cards include:**
+        - Valuation: stock-snapshot, valuation-summary, dcf-valuation, piotroski-score
+        - Technical: candlestick-hero, technical-indicators, pattern-matcher
+        - Risk: risk-health-dashboard, drawdown-var, bankruptcy-health
+        - Portfolio: macro-calendar, earnings-calendar, sector-insights
+        - And 60+ more...
+      operationId: getAnalyticsCard
+      parameters:
+        - name: cardId
+          in: path
+          required: true
+          description: Analytics card identifier
+          schema:
+            type: string
+          example: valuation-summary
+        - $ref: '#/components/parameters/symbol'
+      responses:
+        '200':
+          description: Analytics data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AnalyticsResponse'
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # WATCHLIST
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/watchlist:
+    get:
+      tags: [Watchlist]
+      summary: Get user watchlist
+      description: Returns the authenticated user's watchlist
+      operationId: getWatchlist
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Watchlist
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/WatchlistItem'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+    
+    post:
+      tags: [Watchlist]
+      summary: Add to watchlist
+      description: |
+        Add a stock to the watchlist.
+        
+        **Rate Limit:** 60 writes per minute (authenticated)
+      operationId: addToWatchlist
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [symbol]
+              properties:
+                symbol:
+                  type: string
+                  example: TCS
+                notes:
+                  type: string
+                  example: Potential breakout
+      responses:
+        '201':
+          description: Added to watchlist
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WatchlistItem'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+
+  /api/v1/watchlist/{id}:
+    put:
+      tags: [Watchlist]
+      summary: Update watchlist item
+      operationId: updateWatchlistItem
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                notes:
+                  type: string
+      responses:
+        '200':
+          description: Updated
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WatchlistItem'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '404':
+          $ref: '#/components/responses/NotFound'
+    
+    delete:
+      tags: [Watchlist]
+      summary: Remove from watchlist
+      operationId: removeFromWatchlist
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '204':
+          description: Removed
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # WORKFLOW
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/workflow:
+    get:
+      tags: [Workflow]
+      summary: Get saved workflows
+      description: Returns user's saved analysis workflows
+      operationId: getWorkflows
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Workflow list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Workflow'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+    
+    post:
+      tags: [Workflow]
+      summary: Create workflow
+      description: Save a new analysis workflow
+      operationId: createWorkflow
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/WorkflowInput'
+      responses:
+        '201':
+          description: Workflow created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Workflow'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+
+  /api/v1/workflow/run:
+    post:
+      tags: [Workflow]
+      summary: Execute workflow
+      description: |
+        Run an analysis workflow.
+        
+        **Rate Limit:** 20 executions per minute (authenticated) - this is a heavy operation
+      operationId: runWorkflow
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [workflowId]
+              properties:
+                workflowId:
+                  type: string
+                symbol:
+                  type: string
+                  example: TCS
+      responses:
+        '200':
+          description: Workflow results
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  workflowId:
+                    type: string
+                  results:
+                    type: array
+                    items:
+                      type: object
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '429':
+          $ref: '#/components/responses/RateLimited'
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # ADMIN (Internal Only)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  /api/v1/admin/data-sync:
+    post:
+      tags: [Admin]
+      summary: Trigger data sync
+      description: |
+        **Admin only** - Trigger data synchronization from data provider.
+        
+        Note: Zerodha is a temporary data provider for testing. Will be replaced
+        with commercial vendor for production.
+      operationId: triggerDataSync
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Sync triggered
+        '403':
+          description: Admin access required
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+  /api/v1/admin/zerodha/status:
+    get:
+      tags: [Admin]
+      summary: Get data provider status
+      description: |
+        **Admin only** - Check status of data provider connection.
+        
+        Note: Zerodha is a temporary data provider for testing purposes only.
+        It is NOT used for user authentication. Will be replaced with commercial
+        data vendor when production-ready.
+      operationId: getZerodhaStatus
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Provider status
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  provider:
+                    type: string
+                    example: zerodha
+                  status:
+                    type: string
+                    example: temp-provider
+                  note:
+                    type: string
+        '403':
+          description: Admin access required
+
+# ═══════════════════════════════════════════════════════════════════════════
+# COMPONENTS
+# ═══════════════════════════════════════════════════════════════════════════
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: JWT token from /auth/login
+    
+    apiKey:
+      type: apiKey
+      in: header
+      name: X-API-Key
+      description: API key for programmatic access
+
+  parameters:
+    symbol:
+      name: symbol
+      in: query
+      description: Stock symbol (e.g., TCS, RELIANCE)
+      schema:
+        type: string
+        default: TCS
+      example: TCS
+
+  headers:
+    X-RateLimit-Limit:
+      description: Maximum requests allowed in window
+      schema:
+        type: integer
+        example: 200
+    
+    X-RateLimit-Remaining:
+      description: Requests remaining in current window
+      schema:
+        type: integer
+        example: 187
+    
+    X-RateLimit-Reset:
+      description: When the rate limit resets (ISO timestamp)
+      schema:
+        type: string
+        format: date-time
+        example: "2025-12-22T02:30:00.000Z"
+
+  responses:
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            error: Not Found
+            message: Resource not found
+    
+    Unauthorized:
+      description: Authentication required
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            error: Unauthorized
+            message: Authentication required
+    
+    RateLimited:
+      description: Rate limit exceeded
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/RateLimitError'
+
+  schemas:
+    Stock:
+      type: object
+      properties:
+        symbol:
+          type: string
+          example: TCS
+        name:
+          type: string
+          example: Tata Consultancy Services
+        sector:
+          type: string
+          example: IT
+        price:
+          type: number
+          format: float
+          example: 3450.50
+        marketCap:
+          type: string
+          example: "12.5T"
+        pe:
+          type: number
+          example: 28.5
+
+    StockSearchResult:
+      type: object
+      properties:
+        symbol:
+          type: string
+        name:
+          type: string
+        sector:
+          type: string
+        price:
+          type: number
+
+    OHLCV:
+      type: object
+      properties:
+        date:
+          type: string
+          format: date
+        open:
+          type: number
+        high:
+          type: number
+        low:
+          type: number
+        close:
+          type: number
+        volume:
+          type: integer
+      example:
+        date: "2025-12-21"
+        open: 3440.00
+        high: 3465.50
+        low: 3425.00
+        close: 3450.50
+        volume: 1250000
+
+    User:
+      type: object
+      properties:
+        id:
+          type: string
+        email:
+          type: string
+          format: email
+        name:
+          type: string
+        createdAt:
+          type: string
+          format: date-time
+
+    AnalyticsResponse:
+      type: object
+      properties:
+        symbol:
+          type: string
+          example: TCS
+        asOf:
+          type: string
+          format: date
+          example: "2025-12-22"
+        data:
+          type: object
+          description: Card-specific data
+      additionalProperties: true
+
+    WatchlistItem:
+      type: object
+      properties:
+        id:
+          type: string
+        symbol:
+          type: string
+        notes:
+          type: string
+        addedAt:
+          type: string
+          format: date-time
+        currentPrice:
+          type: number
+
+    Workflow:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        description:
+          type: string
+        cards:
+          type: array
+          items:
+            type: object
+            properties:
+              cardId:
+                type: string
+              position:
+                type: object
+        connections:
+          type: array
+          items:
+            type: object
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    WorkflowInput:
+      type: object
+      required: [name, cards]
+      properties:
+        name:
+          type: string
+          example: My Analysis Workflow
+        description:
+          type: string
+        cards:
+          type: array
+          items:
+            type: object
+        connections:
+          type: array
+          items:
+            type: object
+
+    HealthResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          enum: [healthy, unhealthy]
+        timestamp:
+          type: string
+          format: date-time
+        version:
+          type: string
+        apiVersion:
+          type: string
+        environment:
+          type: string
+        uptime:
+          type: object
+          properties:
+            formatted:
+              type: string
+            seconds:
+              type: integer
+        memory:
+          type: object
+        data:
+          type: object
+        services:
+          type: object
+          properties:
+            server:
+              type: string
+            redis:
+              type: string
+            filesystem:
+              type: string
+
+    RateLimitInfo:
+      type: object
+      properties:
+        description:
+          type: string
+        tiers:
+          type: object
+        headers:
+          type: object
+        note:
+          type: string
+
+    Error:
+      type: object
+      properties:
+        error:
+          type: string
+        message:
+          type: string
+        hint:
+          type: string
+
+    RateLimitError:
+      type: object
+      properties:
+        error:
+          type: string
+          example: Too Many Requests
+        message:
+          type: string
+          example: Rate limit exceeded. Please slow down.
+        retryAfter:
+          type: integer
+          example: 45
+          description: Seconds until retry
+        limit:
+          type: integer
+          example: 200
+        remaining:
+          type: integer
+          example: 0
+        resetAt:
+          type: string
+          format: date-time

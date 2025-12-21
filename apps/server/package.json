@@ -1,6 +1,6 @@
 {
   "name": "@monomorph/api",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "description": "Monomorph API Server - Financial Analytics Platform",
   "main": "server.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "express": "^4.21.2",
     "ioredis": "^5.4.1",
     "pino": "^10.1.0",
-    "pino-http": "^11.0.0"
+    "pino-http": "^11.0.0",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "pino-pretty": "^13.1.3"

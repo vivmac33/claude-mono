@@ -1,5 +1,5 @@
 /**
- * Monomorph API Server v1.5.2
+ * Monomorph API Server v1.6.0
  * ═══════════════════════════════════════════════════════════════════════════
  * Financial Analytics Platform API
  * 
@@ -7,7 +7,13 @@
  *   - API Versioning (v1)
  *   - Structured logging (Pino)
  *   - Rate limiting (Redis-backed with in-memory fallback)
+ *   - Interactive API documentation (Swagger UI)
  *   - Health checks and probes
+ * 
+ * Documentation:
+ *   - /docs       - Interactive Swagger UI
+ *   - /docs/json  - OpenAPI spec (JSON)
+ *   - /docs/yaml  - OpenAPI spec (YAML)
  * 
  * Rate Limiting:
  *   - Authenticated users: 200 req/min (general), 60 req/min (writes)
@@ -35,6 +41,9 @@ const {
   authRateLimiter, 
   globalRateLimiter 
 } = require('./middleware/rateLimiter');
+
+// Swagger Documentation
+const { setupSwagger } = require('./lib/swagger');
 
 // ═══════════════════════════════════════════════════════════════════════════
 // SERVER SETUP
@@ -65,6 +74,13 @@ app.use(httpLogger);
 // Global rate limiting (applies to all routes)
 // Limits determined by access tier (authenticated, apiKey, anonymous)
 app.use(globalRateLimiter());
+
+// ═══════════════════════════════════════════════════════════════════════════
+// SWAGGER DOCUMENTATION
+// ═══════════════════════════════════════════════════════════════════════════
+
+// Setup Swagger UI at /docs
+setupSwagger(app);
 
 // ═══════════════════════════════════════════════════════════════════════════
 // DATA LOADING
@@ -490,7 +506,10 @@ app.get('/', (req, res) => {
     name: 'Monomorph API',
     version: pkg.version,
     description: 'Financial Analytics Platform API',
+    documentation: '/docs',
     endpoints: {
+      docs: '/docs',
+      docsJson: '/docs/json',
       health: '/api/v1/health',
       ready: '/api/v1/ready',
       live: '/api/v1/live',
@@ -500,7 +519,6 @@ app.get('/', (req, res) => {
       rateLimitInfo: '/api/v1/rate-limit-info',
     },
     rateLimits: 'See /api/v1/rate-limit-info for details',
-    documentation: 'https://docs.monomorph.in',
   });
 });
 
@@ -512,7 +530,7 @@ app.use((req, res) => {
   res.status(404).json({
     error: 'Not Found',
     message: `Cannot ${req.method} ${req.path}`,
-    hint: 'Try /api/v1/health or GET / for available endpoints',
+    hint: 'Try /docs for API documentation or /api/v1/health for status',
   });
 });
 
@@ -537,6 +555,7 @@ async function startServer() {
       stocks: stockCount,
       cards: cardCount,
       redis: isRedisConnected() ? 'connected' : 'in-memory',
+      docs: '/docs',
     });
     
     // Also print banner for humans in dev
@@ -549,8 +568,10 @@ async function startServer() {
 ║  📊 Loaded ${String(stockCount).padEnd(2)} stocks                                                  ║
 ║  📁 ${String(cardCount).padEnd(2)} card data files                                           ║
 ║  🔒 Rate limiting: ${isRedisConnected() ? 'Redis' : 'In-memory'}                                          ║
+║  📚 Documentation: http://localhost:${PORT}/docs                             ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  API v1 ENDPOINTS                                                          ║
+║  ├─ Docs:        GET /docs                                                ║
 ║  ├─ Health:      GET /api/v1/health                                       ║
 ║  ├─ Stocks:      GET /api/v1/stocks                                       ║
 ║  ├─ Search:      GET /api/v1/search?q=tcs                                 ║
