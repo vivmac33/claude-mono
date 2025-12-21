@@ -1,6 +1,6 @@
 {
   "name": "@monomorph/api",
-  "version": "1.4.0",
+  "version": "1.5.2",
   "description": "Monomorph API Server - Financial Analytics Platform",
   "main": "server.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
-    "kiteconnect": "^5.0.0",
+    "ioredis": "^5.4.1",
     "pino": "^10.1.0",
     "pino-http": "^11.0.0"
   },

@@ -1,20 +1,19 @@
 /**
- * Monomorph API Server v1.4.0
+ * Monomorph API Server v1.5.2
  * ═══════════════════════════════════════════════════════════════════════════
  * Financial Analytics Platform API
  * 
- * API Versioning:
- *   - All endpoints available at /api/v1/*
- *   - Legacy /api/* routes redirect to /api/v1/* for backward compatibility
+ * Features:
+ *   - API Versioning (v1)
+ *   - Structured logging (Pino)
+ *   - Rate limiting (Redis-backed with in-memory fallback)
+ *   - Health checks and probes
  * 
- * Logging:
- *   - Structured JSON logs in production
- *   - Pretty console logs in development
- *   - Request ID tracking via x-request-id header
+ * Rate Limiting:
+ *   - Authenticated users: 200 req/min (general), 60 req/min (writes)
+ *   - API keys: 60 req/min (general), 20 req/min (writes)
+ *   - Anonymous: 30 req/min (public), 5 per 5min (login)
  * 
- * Zerodha Integration:
- *   - OAuth login flow at /api/v1/zerodha/login
- *   - Live quotes, OHLC, historical data
  * ═══════════════════════════════════════════════════════════════════════════
  */
 
@@ -26,8 +25,16 @@ const path = require('path');
 // Logging
 const { logger, httpLogger, logStartup, logShutdown } = require('./lib/logger');
 
-// Zerodha Integration
-const zerodhaRouter = require('./lib/zerodha');
+// Redis (for rate limiting)
+const { initRedis, closeRedis, isRedisConnected } = require('./lib/redis');
+
+// Rate Limiting
+const { 
+  rateLimiter, 
+  strictRateLimiter, 
+  authRateLimiter, 
+  globalRateLimiter 
+} = require('./middleware/rateLimiter');
 
 // ═══════════════════════════════════════════════════════════════════════════
 // SERVER SETUP
@@ -39,12 +46,25 @@ const pkg = require('./package.json');
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-// Middleware
+// ═══════════════════════════════════════════════════════════════════════════
+// MIDDLEWARE
+// ═══════════════════════════════════════════════════════════════════════════
+
+// CORS
 app.use(cors());
+
+// Parse JSON bodies
 app.use(express.json());
+
+// Trust proxy (for accurate IP detection behind load balancers)
+app.set('trust proxy', true);
 
 // Structured request logging (Pino)
 app.use(httpLogger);
+
+// Global rate limiting (applies to all routes)
+// Limits determined by access tier (authenticated, apiKey, anonymous)
+app.use(globalRateLimiter());
 
 // ═══════════════════════════════════════════════════════════════════════════
 // DATA LOADING
@@ -86,7 +106,7 @@ const getPortfolioData = (cardId) => {
 const v1Router = express.Router();
 
 // ─────────────────────────────────────────────────────────────────────────────
-// HEALTH & PROBES
+// HEALTH & PROBES (no rate limit)
 // ─────────────────────────────────────────────────────────────────────────────
 
 v1Router.get('/health', (req, res) => {
@@ -138,8 +158,9 @@ v1Router.get('/health', (req, res) => {
       stocks: stockCount,
       cards: cardCount,
     },
-    checks: {
+    services: {
       server: 'ok',
+      redis: isRedisConnected() ? 'ok' : 'fallback',
       filesystem: fs.existsSync(cardsPath) ? 'ok' : 'warning',
     },
   };
@@ -159,6 +180,37 @@ v1Router.get('/ready', (req, res) => {
 v1Router.get('/live', (req, res) => {
   res.status(200).json({ live: true, timestamp: Date.now() });
 });
+
+// ─────────────────────────────────────────────────────────────────────────────
+// AUTH ENDPOINTS (strict rate limits - IP based)
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Login - 5 attempts per 5 minutes
+v1Router.post('/auth/login', 
+  strictRateLimiter(5, 300, 'Too many login attempts. Please try again in 5 minutes.'),
+  (req, res) => {
+    // TODO: Implement actual auth
+    res.json({ message: 'Login endpoint - auth not yet implemented' });
+  }
+);
+
+// Register - 3 attempts per hour
+v1Router.post('/auth/register',
+  strictRateLimiter(3, 3600, 'Too many registration attempts. Please try again later.'),
+  (req, res) => {
+    // TODO: Implement actual auth
+    res.json({ message: 'Register endpoint - auth not yet implemented' });
+  }
+);
+
+// Forgot password - 3 attempts per 15 minutes
+v1Router.post('/auth/forgot-password',
+  strictRateLimiter(3, 900, 'Too many password reset attempts. Please try again later.'),
+  (req, res) => {
+    // TODO: Implement actual auth
+    res.json({ message: 'Forgot password endpoint - auth not yet implemented' });
+  }
+);
 
 // ─────────────────────────────────────────────────────────────────────────────
 // STOCK DATA ENDPOINTS
@@ -223,6 +275,38 @@ v1Router.get('/ohlcv/:symbol', (req, res) => {
     res.status(404).json({ error: 'OHLCV data not found', symbol });
   }
 });
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ADMIN / DATA PROVIDER ENDPOINTS
+// NOTE: Zerodha is a TEMPORARY data provider for testing.
+//       Will be replaced with commercial vendor when production-ready.
+//       These endpoints are ADMIN-ONLY and not for user authentication.
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Data sync endpoint (admin only)
+v1Router.post('/admin/data-sync',
+  rateLimiter({ category: 'dataSync' }),
+  (req, res) => {
+    // TODO: Implement with admin auth
+    res.status(501).json({ 
+      message: 'Data sync endpoint - admin auth not yet implemented',
+      note: 'Zerodha is temp data provider - will switch to commercial vendor for production'
+    });
+  }
+);
+
+// Zerodha status (admin only - temp data provider)
+v1Router.get('/admin/zerodha/status',
+  rateLimiter({ category: 'dataSync' }),
+  (req, res) => {
+    // TODO: Implement with admin auth
+    res.json({ 
+      provider: 'zerodha',
+      status: 'temp-provider',
+      note: 'Zerodha is for internal testing only. Will be replaced with commercial data vendor.',
+    });
+  }
+);
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ANALYTICS - All cards use dynamic loading
@@ -291,15 +375,87 @@ v1Router.get('/analytics/:cardId', (req, res) => {
   }
 });
 
+// ─────────────────────────────────────────────────────────────────────────────
+// WRITE ENDPOINTS (with stricter rate limits)
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Watchlist CRUD
+v1Router.post('/watchlist',
+  rateLimiter({ category: 'writes' }),
+  (req, res) => {
+    res.status(501).json({ message: 'Watchlist endpoint - not yet implemented' });
+  }
+);
+
+v1Router.put('/watchlist/:id',
+  rateLimiter({ category: 'writes' }),
+  (req, res) => {
+    res.status(501).json({ message: 'Watchlist endpoint - not yet implemented' });
+  }
+);
+
+v1Router.delete('/watchlist/:id',
+  rateLimiter({ category: 'writes' }),
+  (req, res) => {
+    res.status(501).json({ message: 'Watchlist endpoint - not yet implemented' });
+  }
+);
+
+// Workflow CRUD
+v1Router.post('/workflow',
+  rateLimiter({ category: 'writes' }),
+  (req, res) => {
+    res.status(501).json({ message: 'Workflow endpoint - not yet implemented' });
+  }
+);
+
+// Workflow execution (heavy compute - strictest limits)
+v1Router.post('/workflow/run',
+  rateLimiter({ category: 'workflow' }),
+  (req, res) => {
+    res.status(501).json({ message: 'Workflow execution - not yet implemented' });
+  }
+);
+
+// ═══════════════════════════════════════════════════════════════════════════
+// RATE LIMIT INFO ENDPOINT
+// ═══════════════════════════════════════════════════════════════════════════
+
+v1Router.get('/rate-limit-info', (req, res) => {
+  res.json({
+    description: 'Rate limits are based on your access tier',
+    tiers: {
+      authenticated: {
+        general: '200 requests per minute',
+        writes: '60 requests per minute',
+        workflow: '20 requests per minute',
+      },
+      apiKey: {
+        general: '60 requests per minute',
+        writes: '20 requests per minute',
+        workflow: '5 requests per minute',
+      },
+      anonymous: {
+        public: '30 requests per minute',
+        login: '5 requests per 5 minutes',
+        register: '3 requests per hour',
+      },
+    },
+    headers: {
+      'X-RateLimit-Limit': 'Maximum requests allowed in window',
+      'X-RateLimit-Remaining': 'Requests remaining in current window',
+      'X-RateLimit-Reset': 'Timestamp when the rate limit resets',
+    },
+    note: 'Authenticate for higher rate limits',
+  });
+});
+
 // ═══════════════════════════════════════════════════════════════════════════
 // MOUNT ROUTERS
 // ═══════════════════════════════════════════════════════════════════════════
 
 // Mount v1 router
 app.use('/api/v1', v1Router);
-
-// Mount Zerodha routes
-app.use('/api/v1/zerodha', zerodhaRouter);
 
 // ═══════════════════════════════════════════════════════════════════════════
 // LEGACY ROUTES (Backward Compatibility)
@@ -341,7 +497,9 @@ app.get('/', (req, res) => {
       stocks: '/api/v1/stocks',
       search: '/api/v1/search?q=tcs',
       analytics: '/api/v1/analytics/:cardId?symbol=TCS',
+      rateLimitInfo: '/api/v1/rate-limit-info',
     },
+    rateLimits: 'See /api/v1/rate-limit-info for details',
     documentation: 'https://docs.monomorph.in',
   });
 });
@@ -362,57 +520,70 @@ app.use((req, res) => {
 // START SERVER
 // ═══════════════════════════════════════════════════════════════════════════
 
-app.listen(PORT, () => {
-  const stockCount = Object.keys(masterStockData.stocks || {}).length;
-  const cardsPath = path.join(__dirname, 'mock-data', 'cards');
-  const cardCount = fs.existsSync(cardsPath) ? fs.readdirSync(cardsPath).length : 0;
+async function startServer() {
+  // Initialize Redis for rate limiting
+  await initRedis();
   
-  // Log startup with structured data
-  logStartup({
-    port: PORT,
-    environment: process.env.NODE_ENV || 'development',
-    version: pkg.version,
-    stocks: stockCount,
-    cards: cardCount,
-  });
-  
-  // Also print banner for humans in dev
-  if (process.env.NODE_ENV !== 'production') {
-    console.log(`
+  app.listen(PORT, () => {
+    const stockCount = Object.keys(masterStockData.stocks || {}).length;
+    const cardsPath = path.join(__dirname, 'mock-data', 'cards');
+    const cardCount = fs.existsSync(cardsPath) ? fs.readdirSync(cardsPath).length : 0;
+    
+    // Log startup with structured data
+    logStartup({
+      port: PORT,
+      environment: process.env.NODE_ENV || 'development',
+      version: pkg.version,
+      stocks: stockCount,
+      cards: cardCount,
+      redis: isRedisConnected() ? 'connected' : 'in-memory',
+    });
+    
+    // Also print banner for humans in dev
+    if (process.env.NODE_ENV !== 'production') {
+      console.log(`
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║  MONOMORPH API SERVER v${pkg.version}                                          ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  🚀 Running on http://localhost:${PORT}                                      ║
 ║  📊 Loaded ${String(stockCount).padEnd(2)} stocks                                                  ║
 ║  📁 ${String(cardCount).padEnd(2)} card data files                                           ║
+║  🔒 Rate limiting: ${isRedisConnected() ? 'Redis' : 'In-memory'}                                          ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  API v1 ENDPOINTS                                                          ║
-║  ├─ Health:    GET /api/v1/health                                         ║
-║  ├─ Ready:     GET /api/v1/ready                                          ║
-║  ├─ Live:      GET /api/v1/live                                           ║
-║  ├─ Stocks:    GET /api/v1/stocks                                         ║
-║  ├─ Search:    GET /api/v1/search?q=tcs                                   ║
-║  ├─ Analytics: GET /api/v1/analytics/:cardId?symbol=TCS                   ║
-║  └─ Zerodha:   GET /api/v1/zerodha/login (+ callback, quote, etc.)        ║
+║  ├─ Health:      GET /api/v1/health                                       ║
+║  ├─ Stocks:      GET /api/v1/stocks                                       ║
+║  ├─ Search:      GET /api/v1/search?q=tcs                                 ║
+║  ├─ Analytics:   GET /api/v1/analytics/:cardId?symbol=TCS                 ║
+║  └─ Rate Limits: GET /api/v1/rate-limit-info                              ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  📝 Logs: Structured JSON (set LOG_LEVEL=debug for verbose)               ║
 ║  ⚠️  Legacy /api/* routes redirect to /api/v1/* (backward compatible)     ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
-    `);
-  }
+      `);
+    }
+  });
+}
+
+// Start the server
+startServer().catch(err => {
+  logger.fatal({ error: err.message }, 'Failed to start server');
+  process.exit(1);
 });
 
 // ═══════════════════════════════════════════════════════════════════════════
 // GRACEFUL SHUTDOWN
 // ═══════════════════════════════════════════════════════════════════════════
 
-process.on('SIGTERM', () => {
+process.on('SIGTERM', async () => {
   logShutdown('SIGTERM');
+  await closeRedis();
   process.exit(0);
 });
 
-process.on('SIGINT', () => {
+process.on('SIGINT', async () => {
   logShutdown('SIGINT');
+  await closeRedis();
   process.exit(0);
 });
 
