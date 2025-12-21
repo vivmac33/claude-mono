@@ -3,6 +3,7 @@ import { ThemeProvider } from './components/ThemeProvider';
 import { SkipLink } from './components/ui/accessibility';
 import { RouteProgress, useRouteLoading } from './components/ui/RouteProgress';
 import { NavHeader } from './components/layout/NavHeader';
+import { Toaster } from './components/ui/toast';
 
 // Lazy load pages
 const LandingPage = lazy(() => import('./pages/LandingPage'));
@@ -294,6 +295,9 @@ export default function App() {
       
       {/* Skip Link for keyboard accessibility */}
       <SkipLink targetId="main-content" />
+      
+      {/* Toast notifications */}
+      <Toaster />
       
       {/* Main content wrapper */}
       <div id="main-content">

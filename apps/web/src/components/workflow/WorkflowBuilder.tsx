@@ -41,6 +41,7 @@ import { WORKFLOW_TEMPLATES, type WorkflowTemplate } from './templates';
 import { NavHeader } from '@/components/layout/NavHeader';
 import { useUserStore } from '@/stores/userStore';
 import { useTheme } from '@/components/ThemeProvider';
+import { toast } from '@/components/ui/toast';
 import { edgeTypes as customEdgeTypes } from './edges/CustomEdges';
 import { useUndoRedo, useCopyPaste, useAutoLayout, useKeyboardShortcuts } from './hooks/useWorkflowEnhancements';
 import type { CardNodeData, ConditionNodeData, MergeNodeData, WorkflowNode, WorkflowEdge, WorkflowState, WorkflowRunState } from './types';
@@ -300,6 +301,8 @@ function WorkflowBuilderInner() {
     setTimeout(() => {
       fitView({ padding: 0.2, duration: 500 });
     }, 100);
+    
+    toast.success(`Loaded "${template.name}" template`);
   }, [symbols, setNodes, setEdges, fitView]);
   
   // ─────────────────────────────────────────────────────────────────────────────
@@ -352,6 +355,9 @@ function WorkflowBuilderInner() {
     }
     
     setActiveWorkflowId(workflow.id);
+    
+    // Show success toast
+    toast.workflowSaved(workflow.name);
   }, [workflowName, nodes, edges, outputMode, symbols, activeWorkflowId, savedWorkflows, saveToUserStore, updateInUserStore]);
   
   const loadWorkflow = useCallback((workflow: WorkflowState) => {
@@ -367,6 +373,7 @@ function WorkflowBuilderInner() {
   }, [setNodes, setEdges]);
   
   const deleteWorkflow = useCallback((id: string) => {
+    const workflowToDelete = savedWorkflows.find(w => w.id === id);
     setSavedWorkflows(prev => {
       const updated = prev.filter(w => w.id !== id);
       saveWorkflows(updated);
@@ -375,7 +382,8 @@ function WorkflowBuilderInner() {
     if (activeWorkflowId === id) {
       setActiveWorkflowId(null);
     }
-  }, [activeWorkflowId]);
+    toast.info(workflowToDelete?.name ? `"${workflowToDelete.name}" deleted` : 'Workflow deleted');
+  }, [activeWorkflowId, savedWorkflows]);
   
   const newWorkflow = useCallback(() => {
     setNodes([]);

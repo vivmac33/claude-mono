@@ -26,6 +26,9 @@ export * from "./card-skeleton";
 // Overlays
 export * from "./modal";
 
+// Notifications
+export { Toaster, toast } from "./toast";
+
 // Navigation
 export * from "./tabs";
 
