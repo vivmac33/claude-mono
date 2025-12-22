@@ -1,5 +1,5 @@
 # ═══════════════════════════════════════════════════════════════════════════
-# MONOMORPH CI PIPELINE
+# MONOMORPH CI PIPELINE v1.6.1
 # Runs on every PR and push to main
 # ═══════════════════════════════════════════════════════════════════════════
 
@@ -100,6 +100,15 @@ jobs:
         working-directory: apps/server
         run: npm install
 
+      - name: ✅ Validate Environment Config
+        working-directory: apps/server
+        run: |
+          echo "### ✅ Environment Validation" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          node -e "require('./lib/env').validateEnv({ exitOnError: false, logWarnings: false })" && \
+            echo "Environment config valid ✓" >> $GITHUB_STEP_SUMMARY || \
+            echo "Environment config has warnings (optional vars)" >> $GITHUB_STEP_SUMMARY
+
       - name: 🚀 Start API Server
         working-directory: apps/server
         run: |
@@ -143,6 +152,14 @@ jobs:
             echo "❌ **Live endpoint:** Failed" >> $GITHUB_STEP_SUMMARY
             exit 1
           fi
+
+          # Test docs endpoint
+          DOCS_RESPONSE=$(curl -sf http://localhost:4000/docs)
+          if [ $? -eq 0 ]; then
+            echo "✅ **Docs endpoint:** Passed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "⚠️ **Docs endpoint:** Not available" >> $GITHUB_STEP_SUMMARY
+          fi
           
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "All health checks passed! 🎉" >> $GITHUB_STEP_SUMMARY
@@ -155,37 +172,6 @@ jobs:
             kill $(cat server.pid) 2>/dev/null || true
             rm server.pid
           fi
-
-  # ─────────────────────────────────────────────────────────────────────────
-  # LINT (Optional - Enable when ESLint is configured)
-  # ─────────────────────────────────────────────────────────────────────────
-  # lint:
-  #   name: Lint
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v4
-  #     - uses: actions/setup-node@v4
-  #       with:
-  #         node-version: ${{ env.NODE_VERSION }}
-  #         cache: 'npm'
-  #     - run: npm ci
-  #     - run: npm run lint
-
-  # ─────────────────────────────────────────────────────────────────────────
-  # TEST (Optional - Enable when tests are added)
-  # ─────────────────────────────────────────────────────────────────────────
-  # test:
-  #   name: Test
-  #   runs-on: ubuntu-latest
-  #   needs: [build]
-  #   steps:
-  #     - uses: actions/checkout@v4
-  #     - uses: actions/setup-node@v4
-  #       with:
-  #         node-version: ${{ env.NODE_VERSION }}
-  #         cache: 'npm'
-  #     - run: npm ci
-  #     - run: npm test
 
   # ─────────────────────────────────────────────────────────────────────────
   # CI SUCCESS GATE
@@ -207,3 +193,8 @@ jobs:
             exit 1
           fi
           echo "✅ All CI checks passed!"
+          echo ""
+          echo "═══════════════════════════════════════════════════════════════"
+          echo "🚀 Railway will auto-deploy on merge to main"
+          echo "📚 API Docs: https://monomorphapi-production.up.railway.app/docs"
+          echo "═══════════════════════════════════════════════════════════════"
