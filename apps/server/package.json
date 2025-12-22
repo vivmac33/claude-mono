@@ -1,6 +1,6 @@
 {
   "name": "@monomorph/api",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "description": "Monomorph API Server - Financial Analytics Platform",
   "main": "server.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "validate-env": "node -e \"require('./lib/env').validateEnv({ exitOnError: false })\""
   },
   "dependencies": {
+    "@sentry/node": "^8.45.0",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "ioredis": "^5.4.1",

@@ -1,17 +1,9 @@
-// ═══════════════════════════════════════════════════════════════════════════
-// HOOKS - Export Barrel
-// ═══════════════════════════════════════════════════════════════════════════
+/**
+ * Hooks Index
+ * ═══════════════════════════════════════════════════════════════════════════
+ * Re-export all custom hooks for easy importing
+ * ═══════════════════════════════════════════════════════════════════════════
+ */
 
-export {
-  useLearningProgress,
-  useLearning,
-  LearningProvider,
-  type LearningProgress,
-  type LearningStats,
-} from './useLearningProgress';
-
-export {
-  useExecutionHotkeys,
-  getHotkeyDisplay,
-  isHotkeyMatch,
-} from './useExecutionHotkeys';
+export { useOnlineStatus } from './useOnlineStatus';
+export { useDataFreshness } from './useDataFreshness';

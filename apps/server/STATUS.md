@@ -1,6 +1,6 @@
 # Monomorph API Server - Status & Changelog
 
-## Current Version: 1.6.1
+## Current Version: 1.7.0
 
 **Last Updated:** December 22, 2025
 
@@ -8,7 +8,16 @@
 
 ## ✅ COMPLETED FEATURES
 
-### v1.6.1 - Environment Validation (Current)
+### v1.7.0 - Error Tracking & Frontend Polish (Current)
+- [x] Sentry error tracking integration
+- [x] Automatic error capture and reporting
+- [x] Graceful shutdown with Sentry flush
+- [x] Offline indicator component (Frontend)
+- [x] Data freshness timestamps (Frontend)
+- [x] useOnlineStatus hook
+- [x] useDataFreshness hook
+
+### v1.6.1 - Environment Validation
 - [x] Environment variable validation at startup
 - [x] Fail-fast on missing required config
 - [x] Clear error messages for configuration issues
@@ -43,6 +52,7 @@
 - [x] API versioning (v1)
 - [x] Structured logging (Pino)
 - [x] Legacy route redirects
+- [x] CI/CD pipeline (GitHub Actions)
 
 ---
 
@@ -71,6 +81,7 @@ None currently required (all have defaults or graceful fallbacks)
 | `NODE_ENV` | Environment | development |
 | `LOG_LEVEL` | Logging level | info |
 | `REDIS_URL` | Redis for rate limiting | (in-memory fallback) |
+| `SENTRY_DSN` | Sentry error tracking | (disabled if not set) |
 | `DATABASE_URL` | PostgreSQL | (not yet implemented) |
 | `JWT_SECRET` | Auth signing key | (not yet implemented) |
 
@@ -81,23 +92,32 @@ None currently required (all have defaults or graceful fallbacks)
 ### Production
 - **Platform:** Railway
 - **URL:** https://monomorphapi-production.up.railway.app
+- **Docs:** https://monomorphapi-production.up.railway.app/docs
 - **Auto-deploy:** Yes (GitHub push to main)
 
 ### Services
 - **Redis:** Railway Redis (connected)
+- **Sentry:** Optional (enable with SENTRY_DSN)
 - **Database:** Not yet configured
 
 ---
 
 ## 📋 ROADMAP
 
-### Next Up (Quick Wins)
-- [ ] GitHub Actions CI/CD (2 hrs)
-- [ ] Offline indicator - Frontend (2 hrs)
-- [ ] Data freshness timestamps (2 hrs)
-- [ ] Error tracking - Sentry (2 hrs)
+### Completed ✅
+- [x] Health endpoints & probes
+- [x] API versioning
+- [x] Structured logging
+- [x] Toast notifications (frontend)
+- [x] Rate limiting with Redis
+- [x] Swagger documentation
+- [x] Environment validation
+- [x] CI/CD pipeline
+- [x] Offline indicator (frontend)
+- [x] Data freshness timestamps (frontend)
+- [x] Error tracking (Sentry)
 
-### Later
+### Next Up
 - [ ] Real data connections (Zerodha → Commercial vendor)
 - [ ] User authentication (JWT)
 - [ ] Database integration (Supabase/PostgreSQL)
@@ -108,9 +128,10 @@ None currently required (all have defaults or graceful fallbacks)
 
 ## 📁 FILE STRUCTURE
 
+### Server
 ```
 apps/server/
-├── server.js                 # Main server (v1.6.1)
+├── server.js                 # Main server (v1.7.0)
 ├── package.json              # Dependencies
 ├── .env.example              # Environment template
 ├── lib/
@@ -119,7 +140,8 @@ apps/server/
 │   ├── redis.js              # Redis connection
 │   ├── rateLimit.js          # Rate limit logic
 │   ├── rateLimitConfig.js    # Rate limit tiers
-│   └── swagger.js            # Swagger setup
+│   ├── swagger.js            # Swagger setup
+│   └── sentry.js             # Error tracking
 ├── middleware/
 │   └── rateLimiter.js        # Rate limit middleware
 ├── docs/
@@ -128,6 +150,18 @@ apps/server/
     ├── master-stock-data.json
     └── cards/
         └── *.json            # Card data files
+```
+
+### Frontend (New Components)
+```
+apps/web/src/
+├── hooks/
+│   ├── index.ts              # Hooks export
+│   ├── useOnlineStatus.ts    # Network status hook
+│   └── useDataFreshness.ts   # Timestamp formatting hook
+└── components/ui/
+    ├── OfflineIndicator.tsx  # Offline banner component
+    └── FreshnessIndicator.tsx # Data freshness display
 ```
 
 ---
@@ -165,15 +199,30 @@ apps/server/
 > - NOT for user authentication
 > - Will be replaced with commercial data vendor for production
 
-### Architecture Decisions
-1. **Rate Limiting:** Redis with in-memory fallback (graceful degradation)
-2. **Logging:** Pino for structured JSON logs
-3. **API Versioning:** All routes under `/api/v1/`
-4. **Documentation:** OpenAPI 3.0 with Swagger UI
+### Sentry Setup
+To enable error tracking:
+1. Create account at https://sentry.io
+2. Create a Node.js project
+3. Set `SENTRY_DSN` environment variable in Railway
+
+### Frontend Components
+New hooks and components for better UX:
+- `useOnlineStatus` - Tracks network connectivity
+- `useDataFreshness` - Human-readable timestamps
+- `OfflineIndicator` - Shows banner when offline
+- `FreshnessIndicator` - Shows "Updated 5 min ago"
 
 ---
 
 ## 📞 CHANGELOG
+
+### v1.7.0 (2025-12-22)
+- Added Sentry error tracking
+- Added offline indicator component
+- Added data freshness timestamps
+- Added useOnlineStatus hook
+- Added useDataFreshness hook
+- Custom error handler with Sentry integration
 
 ### v1.6.1 (2025-12-22)
 - Added environment validation module
@@ -199,3 +248,4 @@ apps/server/
 - Health endpoints
 - API versioning
 - Structured logging
+- CI/CD pipeline

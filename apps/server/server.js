@@ -1,9 +1,10 @@
 /**
- * Monomorph API Server v1.6.1
+ * Monomorph API Server v1.7.0
  * ═══════════════════════════════════════════════════════════════════════════
  * Financial Analytics Platform API
  * 
  * Features:
+ *   - Error tracking (Sentry)
  *   - Environment validation (fail-fast on missing config)
  *   - API Versioning (v1)
  *   - Structured logging (Pino)
@@ -43,6 +44,9 @@ const path = require('path');
 // Logging
 const { logger, httpLogger, logStartup, logShutdown } = require('./lib/logger');
 
+// Error Tracking
+const { initSentry, sentryErrorHandler, captureException, flush: flushSentry, isSentryConfigured } = require('./lib/sentry');
+
 // Redis (for rate limiting)
 const { initRedis, closeRedis, isRedisConnected } = require('./lib/redis');
 
@@ -66,6 +70,12 @@ const pkg = require('./package.json');
 
 const app = express();
 const PORT = process.env.PORT || 4000;
+
+// ═══════════════════════════════════════════════════════════════════════════
+// SENTRY - Initialize early (before other middleware)
+// ═══════════════════════════════════════════════════════════════════════════
+
+initSentry(app);
 
 // ═══════════════════════════════════════════════════════════════════════════
 // MIDDLEWARE
@@ -193,6 +203,7 @@ v1Router.get('/health', (req, res) => {
       server: 'ok',
       redis: isRedisConnected() ? 'ok' : 'fallback',
       filesystem: fs.existsSync(cardsPath) ? 'ok' : 'warning',
+      sentry: isSentryConfigured() ? 'ok' : 'not-configured',
     },
     features: configuredFeatures,
   };
@@ -551,6 +562,27 @@ app.use((req, res) => {
 });
 
 // ═══════════════════════════════════════════════════════════════════════════
+// SENTRY ERROR HANDLER (After routes, before custom error handler)
+// ═══════════════════════════════════════════════════════════════════════════
+
+app.use(sentryErrorHandler());
+
+// ═══════════════════════════════════════════════════════════════════════════
+// CUSTOM ERROR HANDLER
+// ═══════════════════════════════════════════════════════════════════════════
+
+app.use((err, req, res, next) => {
+  logger.error({ err, path: req.path, method: req.method }, 'Unhandled error');
+  
+  res.status(err.status || 500).json({
+    error: 'Internal Server Error',
+    message: process.env.NODE_ENV === 'production' 
+      ? 'An unexpected error occurred' 
+      : err.message,
+  });
+});
+
+// ═══════════════════════════════════════════════════════════════════════════
 // START SERVER
 // ═══════════════════════════════════════════════════════════════════════════
 
@@ -572,6 +604,7 @@ async function startServer() {
       stocks: stockCount,
       cards: cardCount,
       redis: isRedisConnected() ? 'connected' : 'in-memory',
+      sentry: isSentryConfigured() ? 'enabled' : 'disabled',
       docs: '/docs',
       features: configuredFeatures,
     });
@@ -588,6 +621,7 @@ async function startServer() {
 ║  🔒 Rate limiting: ${isRedisConnected() ? 'Redis' : 'In-memory'}                                          ║
 ║  📚 Documentation: http://localhost:${PORT}/docs                             ║
 ║  ✅ Environment: Validated                                                 ║
+║  🐛 Sentry: ${isSentryConfigured() ? 'Enabled ' : 'Disabled'}                                                 ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  API v1 ENDPOINTS                                                          ║
 ║  ├─ Docs:        GET /docs                                                ║
@@ -607,6 +641,7 @@ async function startServer() {
 
 // Start the server
 startServer().catch(err => {
+  captureException(err);
   logger.fatal({ error: err.message }, 'Failed to start server');
   process.exit(1);
 });
@@ -615,25 +650,28 @@ startServer().catch(err => {
 // GRACEFUL SHUTDOWN
 // ═══════════════════════════════════════════════════════════════════════════
 
-process.on('SIGTERM', async () => {
-  logShutdown('SIGTERM');
+async function gracefulShutdown(signal) {
+  logShutdown(signal);
+  
+  // Flush Sentry events before shutdown
+  await flushSentry(2000);
+  
   await closeRedis();
   process.exit(0);
-});
+}
 
-process.on('SIGINT', async () => {
-  logShutdown('SIGINT');
-  await closeRedis();
-  process.exit(0);
-});
+process.on('SIGTERM', () => gracefulShutdown('SIGTERM'));
+process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 
 // Catch uncaught exceptions
 process.on('uncaughtException', (err) => {
+  captureException(err);
   logger.fatal({ err, type: 'uncaughtException' }, 'Uncaught exception - shutting down');
-  process.exit(1);
+  flushSentry(2000).finally(() => process.exit(1));
 });
 
 // Catch unhandled promise rejections
 process.on('unhandledRejection', (reason, promise) => {
+  captureException(reason);
   logger.error({ reason, type: 'unhandledRejection' }, 'Unhandled promise rejection');
 });
