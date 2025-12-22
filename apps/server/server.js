@@ -1,9 +1,10 @@
 /**
- * Monomorph API Server v1.6.0
+ * Monomorph API Server v1.6.1
  * ═══════════════════════════════════════════════════════════════════════════
  * Financial Analytics Platform API
  * 
  * Features:
+ *   - Environment validation (fail-fast on missing config)
  *   - API Versioning (v1)
  *   - Structured logging (Pino)
  *   - Rate limiting (Redis-backed with in-memory fallback)
@@ -22,6 +23,17 @@
  * 
  * ═══════════════════════════════════════════════════════════════════════════
  */
+
+// ═══════════════════════════════════════════════════════════════════════════
+// ENVIRONMENT VALIDATION (First thing - fail fast)
+// ═══════════════════════════════════════════════════════════════════════════
+
+const { validateEnv, getConfiguredFeatures } = require('./lib/env');
+validateEnv({ exitOnError: true, logWarnings: false });
+
+// ═══════════════════════════════════════════════════════════════════════════
+// IMPORTS
+// ═══════════════════════════════════════════════════════════════════════════
 
 const express = require('express');
 const cors = require('cors');
@@ -155,6 +167,9 @@ v1Router.get('/health', (req, res) => {
   const cardsPath = path.join(__dirname, 'mock-data', 'cards');
   const cardCount = fs.existsSync(cardsPath) ? fs.readdirSync(cardsPath).length : 0;
 
+  // Get configured features
+  const configuredFeatures = getConfiguredFeatures();
+
   const health = {
     status: 'healthy',
     timestamp: new Date().toISOString(),
@@ -179,6 +194,7 @@ v1Router.get('/health', (req, res) => {
       redis: isRedisConnected() ? 'ok' : 'fallback',
       filesystem: fs.existsSync(cardsPath) ? 'ok' : 'warning',
     },
+    features: configuredFeatures,
   };
 
   res.status(health.status === 'healthy' ? 200 : 503).json(health);
@@ -546,6 +562,7 @@ async function startServer() {
     const stockCount = Object.keys(masterStockData.stocks || {}).length;
     const cardsPath = path.join(__dirname, 'mock-data', 'cards');
     const cardCount = fs.existsSync(cardsPath) ? fs.readdirSync(cardsPath).length : 0;
+    const configuredFeatures = getConfiguredFeatures();
     
     // Log startup with structured data
     logStartup({
@@ -556,6 +573,7 @@ async function startServer() {
       cards: cardCount,
       redis: isRedisConnected() ? 'connected' : 'in-memory',
       docs: '/docs',
+      features: configuredFeatures,
     });
     
     // Also print banner for humans in dev
@@ -569,6 +587,7 @@ async function startServer() {
 ║  📁 ${String(cardCount).padEnd(2)} card data files                                           ║
 ║  🔒 Rate limiting: ${isRedisConnected() ? 'Redis' : 'In-memory'}                                          ║
 ║  📚 Documentation: http://localhost:${PORT}/docs                             ║
+║  ✅ Environment: Validated                                                 ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  API v1 ENDPOINTS                                                          ║
 ║  ├─ Docs:        GET /docs                                                ║
