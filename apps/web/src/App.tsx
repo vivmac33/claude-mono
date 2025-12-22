@@ -3,7 +3,9 @@ import { ThemeProvider } from './components/ThemeProvider';
 import { SkipLink } from './components/ui/accessibility';
 import { RouteProgress, useRouteLoading } from './components/ui/RouteProgress';
 import { NavHeader } from './components/layout/NavHeader';
-import { Toaster } from './components/ui/toast';
+import { OfflineIndicator } from './components/ui/OfflineIndicator';
+import { ToastProvider } from './hooks/useToast';
+import { Toaster } from './components/ui/toaster';
 
 // Lazy load pages
 const LandingPage = lazy(() => import('./pages/LandingPage'));
@@ -290,19 +292,24 @@ export default function App() {
 
   return (
     <ThemeProvider>
-      {/* Route loading progress bar */}
-      <RouteProgress isLoading={isRouteLoading} />
-      
-      {/* Skip Link for keyboard accessibility */}
-      <SkipLink targetId="main-content" />
-      
-      {/* Toast notifications */}
-      <Toaster />
-      
-      {/* Main content wrapper */}
-      <div id="main-content">
-        {renderPage()}
-      </div>
+      <ToastProvider>
+        {/* Offline indicator - shows banner when network/API unavailable */}
+        <OfflineIndicator />
+        
+        {/* Toast notifications */}
+        <Toaster />
+        
+        {/* Route loading progress bar */}
+        <RouteProgress isLoading={isRouteLoading} />
+        
+        {/* Skip Link for keyboard accessibility */}
+        <SkipLink targetId="main-content" />
+        
+        {/* Main content wrapper */}
+        <div id="main-content">
+          {renderPage()}
+        </div>
+      </ToastProvider>
     </ThemeProvider>
   );
 }
