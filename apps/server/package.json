@@ -14,8 +14,8 @@
     "@sentry/node": "^8.45.0",
     "cors": "^2.8.5",
     "express": "^4.21.2",
-    "ioredis": "^5.4.1",
-    "pino": "^10.1.0",
+    "ioredis": "^5.9.1",
+    "pino": "^10.1.1",
     "pino-http": "^11.0.0",
     "swagger-ui-express": "^5.0.1",
     "yamljs": "^0.3.0"
